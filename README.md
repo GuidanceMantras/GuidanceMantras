@@ -407,5 +407,5 @@ trust, value of life
 #### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrive data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-# If you like the above information, please click on star on the Top Right of the Page
+# If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
