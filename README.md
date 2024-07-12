@@ -410,5 +410,9 @@ trust, value of life
 #### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrive data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
+#### For boys and Gents
+- Avoid watching bad videos(I think you guys know what I meant)
+- Instead do physical activities such as Workout, Yoga and meditation, Jogging and sports
+- Read Journals and became a part of NGOs
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
