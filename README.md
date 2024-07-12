@@ -183,6 +183,8 @@ trust, value of life
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 ## Government Exams and Jobs
 - Some government jobs are not goof in the first 5-10 years, after that government jobs are best in life
+- Do not fall for the quick and easy private jobs, think in the long term for your personal benefits, Government job is always government job
+- Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
 - https://medium.com/@crazyboysonushri/how-to-find-a-government-job-in-india-8b6ef5054f3c
@@ -203,6 +205,7 @@ trust, value of life
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 ## Private Jobs in Inida
 - Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
+- Do not fall for the easy traps that your friend/neighbour is already working and making money in private jobs
 - Private jobs are good in the first 10 years, after 10 years, private jobs are hell
 - If you have financial issues, take private jobs first and prepare for government jobs in parallel to the private job
 - Please have a account on LinkedIn 
