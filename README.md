@@ -9,7 +9,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - This web page is only for providing my expierence to other people. I am not responsible for your any decisions/your any actions in your life based on this web page informations.
 - I am not recommending any application for money here as well.
 ###### Please read this page once in a week, please also make your kids to read this page once in a week.
-### Please do share this web page with anyone, anybody can benefit from all this informations.
+### Please do share this web page with anyone, anybody can benefit from all this informations. 
+### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
 ###### I will update this web page whenever I have new information/missing content is found.
 ## Life
 - Life is not too short, You will have until 60/70 years.
@@ -25,6 +26,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know the useful legal laws such as criminal law/labour law/business law
 - One should know how to drive Bike/Car
 - Learn to speak slowly
+- Do not argue about religion and caste
+- Do not follow any Actress and actors, you have no benefits from them
 - One should know how to use Youtube and google to gain knowledge 
 - Do not get into any business/things without having a basic knowlegde
 - Mind your business in life
@@ -61,7 +64,7 @@ trust, value of life
 ### Personality
 - Teach your kids how to respect girls and women
 - Learn to respect girls and women
-- 
+-  
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
@@ -72,9 +75,11 @@ trust, value of life
 - Keep you social media clean
 - Your social media feed works on what you follow, what you watch more, what you like. Basically, it i based on AI recommendation system
 - Delete unwanted emails, block unwanted emails and  unsubscribe unwanted emails
+- Learn/teach how to use Google and youtube to gain knowledge about different topics
 ### Environment 
 - Our behaviour depends on our surrounding environment
 - So kids should grow in good environment. 
+- Stay away fron negative people
 
 ### Minimalistic
 - The meaning of minimalistic is to having only needed things in life
@@ -124,6 +129,8 @@ trust, value of life
 - Learn/teach your kids the Hindu Mantras, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
 - Allow/Teach kids to think about their actions/thoughts everyday for one hour
 - Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
+- Teach kids not to follow any actors and actress, you have no benefits from them
+
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
