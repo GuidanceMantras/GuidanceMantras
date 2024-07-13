@@ -59,7 +59,9 @@ trust, value of life
 - Drink One glass of water(hot/cold) after wake up everyday
 - 
 ### Personality
--
+- Teach your kids how to respect girls and women
+- Learn to respect girls and women
+- 
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
@@ -92,7 +94,7 @@ trust, value of life
 
 ### Effective Use of Government schemes and Services
 - One should know how to use government schemes such as loans, reservation
-- Reservation of OBC, EWS(Economic Weaker Section in General Category), Women reservation
+- Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation
 - 
 ### Education
 - Please do not expect your kids to be a topper
@@ -137,12 +139,8 @@ trust, value of life
 - Positive Mindsets, avoid negative thoughts and mindsets
 - Come out of the loop that other person is superior to me in knowledge and studies
 - Learn to analyze other Person strength
-
-### Behaviour with girls and women
-- learn to respect girls and women
-- Many indians need to come out of the mindsets that women are for bad things
-- Clear that bad thoughts about women in your mind
-
+- Learn how to handle pressure in life
+  
 ### Education for Government jobs 
 #### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
@@ -421,5 +419,11 @@ trust, value of life
 - Avoid watching bad videos(I think you guys know what I meant)
 - Instead do physical activities such as Workout, Yoga and meditation, Jogging and sports
 - Read Journals and became a part of NGOs
+
+### Behaviour with girls and women
+- learn to respect girls and women
+- Many indians need to come out of the mindsets that women are for bad things
+- Clear that bad thoughts about women in your mind
+  
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
