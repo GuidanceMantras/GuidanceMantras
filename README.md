@@ -135,7 +135,14 @@ trust, value of life
 - One should have proper mindsets while doing any task and preparing for anything such as exams
 - Mindsets play a important role in achieveing tasks/goals or clearing exams
 - Positive Mindsets, avoid negative thoughts and mindsets
-  
+- Come out of the loop that other person is superior to me in knowledge and studies
+- Learn to analyze other Person strength
+
+### Behaviour with girls and women
+- learn to respect girls and women
+- Many indians need to come out of the mindsets that women are for bad things
+- Clear that bad thoughts about women in your mind
+
 ### Education for Government jobs 
 #### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
