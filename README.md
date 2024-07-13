@@ -119,6 +119,7 @@ trust, value of life
 - Never ever buy/give everything for your kids, so that you should make them to learn/know the importance of being not having something/everything in their life.
 - One can earn money at any age, but not health, education or relationships
 - Learn what is inflation?
+- Learn about Capitalism and investment
 - How money works
 - What is economy?
 - One should know the different between business, friendship without money, relationship without money, relative without money
