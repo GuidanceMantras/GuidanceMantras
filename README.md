@@ -64,7 +64,11 @@ trust, value of life
 ### Personality
 - Teach your kids how to respect girls and women
 - Learn to respect girls and women
--  
+- Teach/learn how to handle the urges for yourself/kids
+- Learn/Teach about eating habits for yourself/kids
+- Learn/teach not be feel inferior to other person in terms of knowledge/studies for yourself/kids
+- Learn/teach how to be confident for yourself/kids
+  
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
