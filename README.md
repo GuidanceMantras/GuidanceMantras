@@ -80,7 +80,7 @@ trust, value of life
 - An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
 
 ### Important Applications 
-- Spotify(For songs/Mantras/Study amd work music, English podcast)
+- Spotify(For songs/Mantras/Study and work music, English podcast)
 - Microsoft ToDo(for listing yoir daily tasks)
 - Udemy( For learning new skills)
 - Splitwise(To share expenses with friends or someone)
@@ -140,7 +140,7 @@ trust, value of life
 #### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
-- Another option is Diploma in Engineering, then take Diploma in Computer Ccience/Electronics/Electrcial/Civil
+- Another option is Diploma in Engineering, then take Diploma in Computer Ccience/Electronics/Electrical/Civil
 - For Medical and Engineering degree, you need to take CET coaching so that you might can try for better ranking.
 #### After PUC
 - Bachelor of Science - B.Sc.
@@ -161,8 +161,8 @@ trust, value of life
 #### After Degree 
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
 - You can also do/get some coaching/certificates to get jobs in Engineering sector after your B.Tech.
-- You can join a private company and prepare for government jobs, while working as a teacher/contractual government jobs/group C/Group D governement jobs
-#### The main purpose of doing Post-graduate is to prepare for goverment exams during Master studies, so that you will get money from Government as a stipend and you will have more time to prepare for good government/private jobs
+- You can join a private company and prepare for government jobs, while working as a teacher/contractual government jobs/group C/Group D government jobs
+#### The main purpose of doing Post-graduate is to prepare for government exams during Master studies, so that you will get money from Government as a stipend and you will have more time to prepare for good government/private jobs
 - Master of Science Agriculture - B.Sc.AG
 - Master of Arts - M.A.
 - Master of Commerce - M.Com.
@@ -248,13 +248,13 @@ trust, value of life
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
 - 
 ## Studying in abroad
-- Doing higher stuides in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
+- Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
 - I would not recommend anyone to go and study higher education in any developed countries, because it does not bring anything in your life
-- Instead focus on improving your skills and preapre for any government exams for at-least 3-4 years
+- Instead focus on improving your skills and prepare for any government exams for at-least 3-4 years
 - Do not take huge loans and stuck in the endless loop of paying back those loans, it does not really worth
 - The purchasing power of India is/will be similar to other developed countries. So It does not make any sense to go for higher studies
-- There is always discrimination/racisum, so that you can not grow in your professional life nowadays, it is more due to social media.
-- Foreign people do not show the racisum up-front, it will be showed in-directly via not giving promotion/hike
+- There is always discrimination/racisms, so that you can not grow in your professional life nowadays, it is more due to social media.
+- Foreign people do not show the racisms up-front, it will be showed in-directly via not giving promotion/hike
 - Trust me, most of the Indians living in developed countries came in early 2000s and 2010s
 - For your future sake and parents sake, stay away from higher education.
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
@@ -263,21 +263,21 @@ trust, value of life
 ## Others
 ### How to keep your study environment
 - Always have a plan for your studies every day 
-- Always study for one/ one and half hour and take 10 mintues break/ go for a small walk outside/on top of your house
+- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
 - Do not study in dark room
 - Always study under proper sun light/big room
 - Always have a good study table and chair for each person like below
 - ![Study table chair](./Study_chair_and_table.png) .
 - Keep your study or personal room clean and tidy, well organised
 ### How to study 
-- Always study for one or one and half hours continously and take 10-20 minutes break for walking or going outside or for drining water/tea
+- Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
 - Make a study time table always and subject wise study table(one/one and half hour for each subject)
-- Same for competative exams based on books/domian/topics
-- Or find the best study time table for yourself if needed acording to your efforts
+- Same for competitive exams based on books/domain/topics
+- Or find the best study time table for yourself if needed according to your efforts
 - Always study next to windows and keep your study table next to windows/ in a open room with good light and visibility. Not in dark room or not next to TV room or TV
 ### How to study continued
 - Do not memorize anything, understand the concepts and format the concepts in your own words
-- Do not memorize mathematics, mathematics needs to be pratice with work sheets
+- Do not memorize mathematics, mathematics needs to be practice with work sheets
 - Mark/High lights important things in your text books with highlighters
 - Underline important things/sentences/lines in your text books
 - Listen music for better focus while studying if needed on Spotify application (https://open.spotify.com/)
@@ -332,7 +332,7 @@ trust, value of life
   ![chrome_bookmark](Chrome_bookmark.PNG]
 
 ### Profession
-- Everyboday wants to save their ass and life, so be careful while dealing with people
+- Everybody wants to save their ass and life, so be careful while dealing with people
 - Please be cautious about your life
 - No argument with anyone
 - People change company for growth /better pay or better work/better life
@@ -341,20 +341,20 @@ trust, value of life
 - You should know how to work with old and young people in life and behave/deal with old and young people
 
 ### Responsibilities
-- You should know your responsibilites in your life first such as financial, home and parents
+- You should know your responsibilites/obligation in your life first such as financial, home and parents
 - Take care of your finance for your future and your family future
   
 ### Power of Music
-- Know the power of music while studying/Working/bored/depressed/alone/loneleness
+- Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
 - https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
   
 ### Dealing with people
-- Not all the people on earth are good, similary, not all the people are bad
+- Not all the people on earth are good, similarly, not all the people are bad
 - You should know how to distinguish between good and bad people
 - People use mind-game  to manipulate others, so be aware of it
 - Always stay away from any financial things with other people/strangers
-- People will be nice when taking money from you, afterwards, people behave stangely.
+- People will be nice when taking money from you, afterwards, people behave strangely.
 
 ### Problems
 - World problems are not your problems, keep in mind
@@ -377,26 +377,26 @@ trust, value of life
 - One should know how to control mood swing in life using Music, Meditation, and doing other activities.
 ### Addictions
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
-- If you feel that you are addicted/being addicted to anything, start doing activites such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
+- If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
 
 ### Buying things
 - You should know the use case of each item, which you need to buy and actual cost of it
 - Before buying anything, please check whether the price make sense or not,
 - Before buying look into different websites/shops to compare prices
 
-### Do It Youself(DIY)
+### Do It Yourself(DIY)
 - One should know/learn how to do your works by yourself, at-least simple things
 
 ### Thoughts and problems
 - Write down your thoughts on a paper, which gives you more control about your thoughts.
-- Write down your problems on a paper, which gives you a more felxibility to solutions
+- Write down your problems on a paper, which gives you a more flexibility to solutions
 
 ### Patterns and Psychology
-- Patterns defines the your cyclic behaviour based on your actions, let's say you drink water everydays in empty stomach, this is a patterns of having heath concern. 
-- Patterns basically shows how is your behaviour based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
+- Patterns defines the your cyclic behavior based on your actions, let's say you drink water everyday in empty stomach, this is a patterns of having heath concern. 
+- Patterns basically shows how is your behavior based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
 - Understanding of Psychology gives you better understanding of other person, world and understanding of yourself
 ### Technologies
-- If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artifical Intelligence, Cloud
+- If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
 #### Programming
@@ -406,9 +406,9 @@ trust, value of life
 - A hardware device, where you data such as Personal details, health information and so on will be stored. The data can be access, changed, deleted from the data base using
   specific programming languages such as SQL.
 #### AI
-- An algorithmic model, which will be written in any programming langauage and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
+- An algorithmic model, which will be written in any programming language and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
 #### Cloud
-- A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrive data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
+- A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
 #### For boys and Gents
 - Avoid watching bad videos(I think you guys know what I meant)
