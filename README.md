@@ -208,7 +208,8 @@ trust, value of life
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
 - Do not fall for the quick and easy private jobs, think in the long term for your personal benefits, Government job is always government job
 - Do search on google like below
-" How to prepare for government exams' or "How to prepare for government exams reddit" 
+" How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
+- find a better study patrner or s for any government exams
 - Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
