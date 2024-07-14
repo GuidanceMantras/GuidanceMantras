@@ -224,6 +224,7 @@ trust, value of life
 - You also need soft skills for government jobs https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - Be with people who are preparing for government exams
 - talk to people who cleared government exams as well
+- if you think, government jobs are not meant for you, then focus on private jobs primarily 
 ###### Important government exams/Jobs -----> Staff Selection Committee(SSC), (State)PSC, PSI, PDO, FDA/SDA, VA, AE/JE/EE(for Civil/Mechanical/Electrical). AHO(Assistant Horiculture officers), RI(Revenue Inspector), AAO(Assistant Agriculture officer), DRFO(Deputy Range Forest Officer), RFO(Range Forest Officer), RTO(Regional Transport Officer), RBI exams, Railways exams, Post Office Exams, Police Constable(PC)
 ###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making) departments
 ### Education for Private/Engineering Jobs
