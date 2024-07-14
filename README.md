@@ -71,6 +71,8 @@ trust, value of life
 - Learn/teach how to be slient for yourself/kids, instead of talking always
 - Learn/teach how to take accountability in life for yourself/kids
 - Learn/teach about critical thinking and logical reasoning for yourself/kids
+- Parents have to leave ego for the sake of kids
+
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
@@ -192,6 +194,7 @@ trust, value of life
 - Master of Veterinary Science - M.V.Sc.
 - Master of computer application(MCA)
 ## Jobs
+- Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
 - First focus should be on Government jobs in Life
 - Need to give at-least 2-3 years after your graduation for preparation to get any Government jobs.
