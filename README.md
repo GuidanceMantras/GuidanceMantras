@@ -209,6 +209,7 @@ trust, value of life
 - Do not fall for the quick and easy private jobs, think in the long term for your personal benefits, Government job is always government job
 - Do search on google like below
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
+"what are the important government exams in india/your state?
 - find a better study patrner or s for any government exams
 - Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
 - Please give first and formost priority to government jobs in your life. 
