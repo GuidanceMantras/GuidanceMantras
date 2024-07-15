@@ -206,11 +206,11 @@ trust, value of life
 ## Government Exams and Jobs
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
-- Do not fall for the quick and easy private jobs, think in the long term for your personal benefits, Government job is always government job
+- Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
 - Do search on google like below
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
 "what are the important government exams in india/your state?
-- find a better study patrner or s for any government exams
+- find a better study partner or s for any government exams
 - Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
@@ -232,10 +232,7 @@ trust, value of life
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 ## Private Jobs in Inida
-- Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
-- Do not fall for the easy traps that your friend/neighbour is already working and making money in private jobs
-- Private jobs are good in the first 10 years, after 10 years, private jobs are hell
-- If you have financial issues, take private jobs first and prepare for government jobs in parallel to the private job
+- 
 - Please have a account on LinkedIn 
 - You should know how to search for private jobs in India
   * Visit Individual company websites
