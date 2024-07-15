@@ -11,7 +11,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ###### Please read this page once in a week, please also make your kids to read this page once in a week.
 ### Please do share this web page with anyone, anybody can benefit from all this informations. 
 ### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
-###### I will update this web page whenever I have new information/missing content is found.
+###### I will update this web page whenever I have new information/missing content is found and content is outdated. The content will also be optimized topic wise.
 ## Life
 - Life is not too short, You will have until 60/70 years.
 - Always learn from other people
