@@ -130,7 +130,7 @@ trust, value of life
 - Use application to track your spending and earnings https://goodbudget.com/ for free
 - Write down your earning, expenses, given money, received money in a dairy every day
 - Spend at-least half a day to check your finance every week.
-### Agreements
+### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
 - Read each clause and try to negotiate if you find something suspicious
 - When you are making agreements includes everything whatever is possible
