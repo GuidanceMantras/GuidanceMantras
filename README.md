@@ -72,7 +72,7 @@ trust, value of life
 - Learn/teach how to take accountability in life for yourself/kids
 - Learn/teach about critical thinking and logical reasoning for yourself/kids
 - Parents have to leave ego for the sake of kids
-
+- Develope self-consciouness for yourself /teach your kids
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
