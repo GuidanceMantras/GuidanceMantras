@@ -129,7 +129,12 @@ trust, value of life
 - One should know the different between business, friendship without money, relationship without money, relative without money
 - Use application to track your spending and earnings https://goodbudget.com/ for free
 - Write down your earning, expenses, given money, received money in a dairy every day
-- Spend at-least half a day to check your finance every week. 
+- Spend at-least half a day to check your finance every week.
+### Agreements
+- Read the entire agreements first and understand it properly before signing it
+- Read each clause and try to negotiate if you find something suspicious
+- When you are making agreements includes everything whatever is possible
+- People make money by giving bad agreements and taking agreements in real life
 ### Other activities for your kids/adults
 - Music class, dance class, drawing
 - Swimming
