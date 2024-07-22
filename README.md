@@ -74,7 +74,8 @@ trust, value of life
 - Parents have to leave ego for the sake of kids
 - Develope self-consciouness for yourself /teach your kids
 - Learn/Teach self management for yourself/for your kids
-
+- Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
+- 
   
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
