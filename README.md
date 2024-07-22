@@ -36,6 +36,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Know the consequences of your actions in your life always
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
+- 
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
@@ -75,7 +76,8 @@ trust, value of life
 - Develope self-consciouness for yourself /teach your kids
 - Learn/Teach self management for yourself/for your kids
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
-- 
+- Keep your ego aside in life when you need to be better person, ego make your life hell.
+  
 ### How to learn new language mainly English
 - 
 ### Improve Speaking and your voice
