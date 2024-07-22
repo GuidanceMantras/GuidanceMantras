@@ -31,6 +31,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know how to use Youtube and google to gain knowledge 
 - Do not get into any business/things without having a basic knowlegde
 - Mind your business in life
+- Always listen when experieced/ elder people are telling something good
 - Think and make the decisions for long term benefits always
 - One should learn about how to be selective in life/ on social media such as Facebook/instagram/so on.
 - Know the consequences of your actions in your life always
