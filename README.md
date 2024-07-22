@@ -249,6 +249,12 @@ trust, value of life
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 
 ### How to prepare for government jobs
+
+### Benefits of Government jobs
+- Job security
+- Better prepare for higher position while working as a government employee for better pay and
+- Work-life balance
+- Being with family always
 - 
 ## Private Jobs in Inida
 - Please have a account on LinkedIn 
