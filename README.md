@@ -76,7 +76,8 @@ trust, value of life
 - Learn/Teach self management for yourself/for your kids
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - 
-  
+### How to learn new language mainly English
+- 
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
@@ -110,9 +111,12 @@ trust, value of life
 - So be realisitic when buying electronics objects
 
 ### Effective Use of Government schemes and Services
-- One should know how to use government schemes such as loans, reservation
+- One should know how to use government schemes such as loans, reservation, subsidy
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation
-- 
+
+### How to raise Kids
+-
+
 ### Education
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
@@ -240,8 +244,10 @@ trust, value of life
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
-## Private Jobs in Inida
+
+### How to prepare for government jobs
 - 
+## Private Jobs in Inida
 - Please have a account on LinkedIn 
 - You should know how to search for private jobs in India
   * Visit Individual company websites
@@ -249,6 +255,7 @@ trust, value of life
 - Engineering
 - Accountant and others
 - Please do own research
+  
 ## Mindsets
 - You should always give some time in a day at-least 30 minutes to think about your life, your actions, your future goals,
 - You should not compare your life with other people
@@ -259,6 +266,7 @@ trust, value of life
 - Improve your confidence, appearances, way of talking(please do online search for help)
 - Come out of the loop that someone will help you/someone is there for you to help always.
 - Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
+
 ## Mental and Physical Health
 ### Mental Health
 - You should learn to keep good mental health
@@ -271,16 +279,16 @@ trust, value of life
 - Please do not think about anything before two hour of sleeping
 - If you have problem, please share with someone close to you such as brother, sister, parents, friends, it will relieve your mind
 - please do yoga and meditation in the evening between 5 pm and 8 pm in a open room
-- For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online
-
-### Yoga and meditation
-- Do some small exercies FOR 10 minutes before doing meditation for 10 minutes
-- While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
-- Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty 
+- For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online 
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
 - 
+### Yoga and meditation
+- Do some small exercies FOR 10 minutes before doing meditation for 10 minutes
+- While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
+- Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
+  
 ## Studying in abroad
 - Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
 - I would not recommend anyone to go and study higher education in any developed countries, because it does not bring anything in your life
@@ -292,9 +300,7 @@ trust, value of life
 - Trust me, most of the Indians living in developed countries came in early 2000s and 2010s
 - For your future sake and parents sake, stay away from higher education.
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
-### Business
-- Do your own research on this topic
-## Others
+
 ### How to keep your study environment
 - Always have a plan for your studies every day 
 - Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
@@ -323,13 +329,14 @@ trust, value of life
 - Buy headsets like below
 - ![Ear_buds pic](Earbuds_pic.PNG)
 
-### Health
+### Health 
 - Drink one glass of water after your tooth brush in the morning
 - Rinse your eyes(Hold the water in your both hands and open your eyes in the water) in the morning and evening everyday
 - 
 ### Travelling
 - If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
-
+- long drive
+- 
 ### Cloud 
 - Future is data, you need to know how to store your data on cloud
 - You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
@@ -342,14 +349,16 @@ trust, value of life
 - You can keep all your text books in cloud/Github for free for future purpose
 
 ### Planning
-- Always plan in your life
+- Always plan in your life for next 5 to 10 years ahead
 
 ### Readings
-- Always read book about life/finance/Management/Technical
+- Always read book about life/finance/Management/Technology/Education
 - You can save your online books in Github as well
 - You can write everything in your life/your planning for a day in the below applications
 - Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/)
-
+- Buy used second hand books for free
+- Search online best-seller for each topics
+  
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
 - Go out for a walk and free your mind first
@@ -431,7 +440,8 @@ trust, value of life
 - Patterns defines the your cyclic behavior based on your actions, let's say you drink water everyday in empty stomach, this is a patterns of having heath concern. 
 - Patterns basically shows how is your behavior based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
 - Understanding of Psychology gives you better understanding of other person, world and understanding of yourself
-### Technologies
+  
+## Technologies
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
@@ -455,6 +465,9 @@ trust, value of life
 - learn to respect girls and women
 - Many indians need to come out of the mindsets that women are for bad things
 - Clear that bad thoughts about women in your mind
+
+### Business
+- Do your own research on this topic
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
