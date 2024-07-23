@@ -250,10 +250,10 @@ trust, value of life
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 
 ### How to prepare for government jobs with 3 years degree
-- 
+- Without patience and tolerance, you can not clear any government exams
 
 ### How to preapre for government jobs with 4 years degree
-- 
+- Without patience and tolerance, you can not clear any government exams
 
 ### Benefits of Government jobs
 - Job security
