@@ -249,14 +249,20 @@ trust, value of life
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 
-### How to prepare for government jobs
+### How to prepare for government jobs with 3 years degree
+- 
+
+### How to preapre for government jobs with 4 years degree
+- 
 
 ### Benefits of Government jobs
 - Job security
+- You can work for the betterment of society
+- You are not a slave
 - Better prepare for higher position while working as a government employee for better pay and
 - Work-life balance
-- Being with family always
-- 
+- Being with your family always
+
 ## Private Jobs in Inida
 - Please have a account on LinkedIn 
 - You should know how to search for private jobs in India
