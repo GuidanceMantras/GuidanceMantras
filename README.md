@@ -173,6 +173,10 @@ trust, value of life
 - Come out of the loop that other person is superior to me in knowledge and studies
 - Learn to analyze other Person strength
 - Learn how to handle pressure in life
+
+
+### Mentality
+- Learn how to be tough minded
   
 ### Education for Government jobs 
 #### After 10th
