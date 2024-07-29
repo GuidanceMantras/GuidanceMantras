@@ -40,6 +40,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to control your mind whole day and each day until your achieve something in your life and even after also
 - Read Bhagavad gita, which teaches about process
 - Learn to Adapt, ignore, listen, control youself
+- Have a mentor in life and for your kids always
   
 ### Family
 - Family is everything in life such as parents, sisters, brothers
