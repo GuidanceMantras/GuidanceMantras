@@ -38,7 +38,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
 - Learn to control your mind whole day and each day until your achieve something in your life and even after also
-- Read Bhagavad gita, which teaches about process 
+- Read Bhagavad gita, which teaches about process
+- Learn to Adapt, ignore, listen, control youself
+  
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
