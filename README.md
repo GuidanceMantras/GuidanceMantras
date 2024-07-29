@@ -38,7 +38,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
 - Learn to control your mind whole day and each day until your achieve something in your life and even after also
-  
+- Read Bhagavad gita, which teaches about process 
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
@@ -119,7 +119,12 @@ trust, value of life
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation
 
 ### How to raise Kids
+- 
 -
+-
+-
+-
+- Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 
 ### Education
 - Please do not expect your kids to be a topper
