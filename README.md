@@ -278,6 +278,8 @@ trust, value of life
 - Being with your family always
 
 ## Private Jobs in Inida
+- IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
+- Private jobs are good for just 10 years, later that everyday you regret private jobs
 - Please have a account on LinkedIn 
 - You should know how to search for private jobs in India
   * Visit Individual company websites
