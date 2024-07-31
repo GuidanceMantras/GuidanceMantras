@@ -82,6 +82,7 @@ trust, value of life
 - Learn/Teach self management for yourself/for your kids
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
+- Do not carry over ego or fight with anyone
   
 ### How to learn new language mainly English
 - 
