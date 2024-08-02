@@ -265,7 +265,12 @@ trust, value of life
 
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
-
+- Start preparing for government exams after 20 years and get all the details about the government jobs
+- Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- After coaching, start giving exams and simultaneoursly prepare for other exams
+- First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
+- After getting first government job, you can still prepare for other government jobs if needed
+  
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
 
