@@ -15,7 +15,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ## Content
 #### Life
-#### Education
+[click on this link](# Education)
+
 #### Jobs
 #### Technologies
 
