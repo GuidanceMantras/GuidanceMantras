@@ -151,10 +151,12 @@ trust, value of life
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
+
 ### Ethics
 - Please teach your kids to respect elders
 - Please teach your kids to know the value of honesty, trust
 - Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
+
 ### Money
 - Please teach your kids the value of money, which means how the money should be spent
 - Please teach your kids how to track expenses in their life
@@ -169,11 +171,13 @@ trust, value of life
 - Write down your earning, expenses, given money, received money in a dairy every day
 - Spend at-least half a day to check your finance every week.
 - Never ever lend/give money to anyone without proper agreements/contracts signed by both lender and receiver
+
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
 - Read each clause and try to negotiate if you find something suspicious
 - When you are making agreements includes everything whatever is possible
 - People make money by giving bad agreements and taking agreements in real life
+
 ### Other activities for your kids/adults
 - Music class, dance class, drawing
 - Swimming
@@ -188,6 +192,7 @@ trust, value of life
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
 - Patience helps to navigate difficult situations in life and dealing with other people in life
+
 ## Education
 - Education is just a part of five essentials in our life such as Air, Food, Water, Clothes
 - Learn the importance of education
@@ -206,11 +211,13 @@ trust, value of life
 - Learn how to be tough minded
   
 ### Education for Government jobs 
+
 #### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
 - Another option is Diploma in Engineering, then take Diploma in Computer Ccience/Electronics/Electrical/Civil
 - For Medical and Engineering degree, you need to take CET coaching so that you might can try for better ranking.
+
 #### After PUC
 - Bachelor of Science - B.Sc.
 - Bachelor of Arts - B.A
@@ -227,11 +234,14 @@ trust, value of life
 - Bachelor of Engineering / Bachelor of Technology - B.E./B.Tech.
 - Bachelor of Computer Application (BCA)
 - M.B.B.S -----> Need Good rank in KCET/NEET
+
 #### After Degree 
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
 - You can also do/get some coaching/certificates to get jobs in Engineering sector after your B.Tech.
 - You can join a private company and prepare for government jobs, while working as a teacher/contractual government jobs/group C/Group D government jobs
+
 #### The main purpose of doing Post-graduate is to prepare for government exams during Master studies, so that you will get money from Government as a stipend and you will have more time to prepare for good government/private jobs
+
 - Master of Science Agriculture - B.Sc.AG
 - Master of Arts - M.A.
 - Master of Commerce - M.Com.
@@ -241,6 +251,7 @@ trust, value of life
 - Master of Science - M.Sc.
 - Master of Veterinary Science - M.V.Sc.
 - Master of computer application(MCA)
+
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
@@ -249,8 +260,10 @@ trust, value of life
 - One can start preparing for government exams after 3rd/4th year of Engineering degree/ or 2/3rd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
+
 ### Exams
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
+
 ## Government Exams and Jobs
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
@@ -273,8 +286,11 @@ trust, value of life
 - Be with people who are preparing for government exams
 - talk to people who cleared government exams as well
 - if you think, government jobs are not meant for you, then focus on private jobs primarily 
+
 ###### Important government exams/Jobs -----> Staff Selection Committee(SSC), (State)PSC, PSI, PDO, FDA/SDA, VA, AE/JE/EE(for Civil/Mechanical/Electrical). AHO(Assistant Horiculture officers), RI(Revenue Inspector), AAO(Assistant Agriculture officer), DRFO(Deputy Range Forest Officer), RFO(Range Forest Officer), RTO(Regional Transport Officer), RBI exams, Railways exams, Post Office Exams, Police Constable(PC)
+
 ###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making) departments
+
 ### Education for Private/Engineering Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
@@ -322,6 +338,7 @@ trust, value of life
 - Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
 
 ## Mental and Physical Health
+
 ### Mental Health
 - You should learn to keep good mental health
 - Please do yoga and meditation for at-least 30 mintues a day, 20 minutes for yoga and 10 minutes for meditation
@@ -334,6 +351,7 @@ trust, value of life
 - If you have problem, please share with someone close to you such as brother, sister, parents, friends, it will relieve your mind
 - please do yoga and meditation in the evening between 5 pm and 8 pm in a open room
 - For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online 
+
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
@@ -365,12 +383,14 @@ trust, value of life
 - Always have a good study table and chair for each person like below
 - ![Study table chair](./Study_chair_and_table.png) .
 - Keep your study or personal room clean and tidy, well organised
+
 ### How to study 
 - Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
 - Make a study time table always and subject wise study table(one/one and half hour for each subject)
 - Same for competitive exams based on books/domain/topics
 - Or find the best study time table for yourself if needed according to your efforts
 - Always study next to windows and keep your study table next to windows/ in a open room with good light and visibility. Not in dark room or not next to TV room or TV
+
 ### How to study continued
 - Do not memorize anything, understand the concepts and format the concepts in your own words
 - Do not memorize mathematics, mathematics needs to be practice with work sheets
@@ -468,12 +488,15 @@ trust, value of life
 - Keep all the spending and earning bills for at-least 2 years
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
+
 ### Planning
 - Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
+
 ### Mood swing
 - There is a great pro-verb in English. "Your mood is depending on Weather"
 - Nowadays, your mood is also depending on the people you live/work.
 - One should know how to control mood swing in life using Music, Meditation, and doing other activities.
+
 ### Addictions
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
 - If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
@@ -499,14 +522,18 @@ trust, value of life
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
+
 #### Programming
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
 - A particular task would be building social media applications such as Instagram, Facebook and software for Cars and TV. 
+
 #### Data base
 - A hardware device, where you data such as Personal details, health information and so on will be stored. The data can be access, changed, deleted from the data base using
   specific programming languages such as SQL.
+
 #### AI
 - An algorithmic model, which will be written in any programming language and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
+
 #### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
