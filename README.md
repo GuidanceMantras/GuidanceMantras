@@ -99,8 +99,8 @@ trust, value of life
 - keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic
 - While writing about the topic, use all kinds of grammer
 - After writing, ask english speaking person in your family to check your writing, ask for suggestions/improvements
-- Listen to english podcasts on Spotify to improve listening skills
-- Read quora/newspaper to improve reading skills
+- Listen to english podcasts on Spotify to improve listening skills. For an example, like this one https://open.spotify.com/show/4NHIIVB3DkjH70yhE3pbcd?si=fcd980155cf047d6
+- Read quora/newspaper to improve reading skills. For an example, like this one https://www.quora.com/
 - Speak in english often at home or at school/college/office/with friends to improve speaking
   
 ### Improve Speaking and your voice
