@@ -107,6 +107,7 @@ trust, value of life
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
 - Articulation for tongue: https://www.youtube.com/watch?v=HHRNcIPxijY
+  
 ### Social Media
 - Be selective on social media such as facebook/instagram
 - You can block unnecessary things, such as post/groups/people/videos on any social media
@@ -114,6 +115,7 @@ trust, value of life
 - Your social media feed works on what you follow, what you watch more, what you like. Basically, it i based on AI recommendation system
 - Delete unwanted emails, block unwanted emails and  unsubscribe unwanted emails
 - Learn/teach how to use Google and youtube to gain knowledge about different topics
+  
 ### Environment 
 - Our behaviour depends on our surrounding environment
 - So kids should grow in good environment. 
@@ -183,8 +185,8 @@ trust, value of life
 - Swimming
 - cricket/badmiton/running
 - Gym/workout
-- Learn/teach your kids the Hindu Mantras, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
-- Allow/Teach kids to think about their actions/thoughts everyday for one hour
+- Make sure that your kids listen to Hindu Mantras for 5-10 minutes, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
+- Allow/Teach kids to think about their actions/thoughts everyday for one hour, which allows for reasoning, logical and critical thinking ability.
 - Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
 - Teach kids not to follow any actors and actress, you have no benefits from them
 
