@@ -304,7 +304,24 @@ trust, value of life
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
-
+  
+### Generic government exams  in state for any degree
+- PDO, VA, EO(Executive officer)
+- PWD (Public welfare department)
+- Police/Fire exams
+- Revenue/Tax  exams
+- KAS (For decision making positions in state government, like UPSC
+- Social welfare exams
+- FDA/SDA (Called once in two/three years for sure)
+  
+### Department specific exams in a state with specific degree
+- Agriculture officer
+- Forest officer
+- Veternary officer
+- Horticulture officer
+- AE/JE/AEE/EE
+- Teacher/Lecture (With B.Ed or M.Sc)
+  
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
 - Start preparing for government exams after 20 years and get all the details about the government jobs
@@ -315,7 +332,12 @@ trust, value of life
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
-
+- Start preparing for government exams after 21 years and get all the details about the government jobs
+- Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- After coaching, start giving exams and simultaneoursly prepare for other exams
+- First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
+- After getting first government job, you can still prepare for other government jobs if needed
+  
 ### Benefits of Government jobs
 - Job security
 - You can work for the betterment of society
@@ -324,6 +346,8 @@ trust, value of life
 - Work-life balance
 - Being with your family always
 
+###
+-  
 ## Private Jobs in Inida
 - IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
 - Private jobs are good for just 10 years, later that everyday you regret private jobs
