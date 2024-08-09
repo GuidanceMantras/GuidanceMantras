@@ -173,6 +173,7 @@ trust, value of life
 - Write down your earning, expenses, given money, received money in a dairy every day
 - Spend at-least half a day to check your finance every week.
 - Never ever lend/give money to anyone without proper agreements/contracts signed by both lender and receiver
+- Never ever trust anyone in money matter, not even friends, relatives, cousins and so on. 
 
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
