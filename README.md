@@ -22,7 +22,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 #### Kids
 #### Education
 #### Study
-#### Jobs
+7. [Jobs](#Jobs)
 #### Financial Management
 #### Economy
 #### Technologies
