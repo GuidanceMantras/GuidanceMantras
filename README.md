@@ -14,7 +14,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ###### I will update this web page whenever I have new information/missing content is found and content is outdated. The content will also be optimized topic wise.
 
 ## Content
-#### Life
+1. [Life] (#life)
 
 [click on this link] (# Education)
 #### Mentality and Mindsets
