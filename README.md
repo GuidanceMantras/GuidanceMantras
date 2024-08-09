@@ -17,8 +17,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 #### Life
 
 [click on this link] (# Education)
-
+#### Mentality and Mindsets
+#### Health
+#### Kids
+#### Education
+#### Study
 #### Jobs
+#### Financial Management
+#### Economy
 #### Technologies
 
 ## Life
