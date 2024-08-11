@@ -102,7 +102,7 @@ trust, value of life
 ### How to learn new language mainly English
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube https://www.youtube.com/@engvidRebecca
 - Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
-- Write at-least 20-30 examples on each grammer topic.
+- Write at-least 20-30  different examples on each grammer topic.
   
 - Improve your english writing and keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic in a book
 - While writing about the topic, use all kinds of grammer
@@ -147,7 +147,7 @@ trust, value of life
 
 ### Effective Use of Government schemes and Services
 - One should know how to use government schemes such as loans, reservation, subsidy
-- Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation
+- Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
 
 ### How to raise Kids
 - 
