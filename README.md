@@ -100,9 +100,11 @@ trust, value of life
 - Do not carry over ego or fight with anyone
   
 ### How to learn new language mainly English
-- Start learning english grammer for 30 minutes each day here on youtube https://www.youtube.com/@engvidRebecca
-- Watch each grammmer topic and spent one week on that grammer topic to improve/gain knowledge about the grammer topic
-- keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic
+- Keep a book and start learning english grammer for 30 minutes each day here on youtube https://www.youtube.com/@engvidRebecca
+- Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
+- Write at-least 20-30 examples on each grammer topic.
+  
+- Improve your english writing and keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic in a book
 - While writing about the topic, use all kinds of grammer
 - After writing, ask english speaking person in your family to check your writing, ask for suggestions/improvements
 - Listen to english podcasts on Spotify to improve listening skills. For an example, like this one https://open.spotify.com/show/4NHIIVB3DkjH70yhE3pbcd?si=fcd980155cf047d6
