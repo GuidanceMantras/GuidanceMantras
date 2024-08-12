@@ -15,15 +15,17 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 # Table of Content
 1.  [Life](#life)
-#### Mentality and Mindsets
-#### Health
-#### Kids
-#### Education
-#### Study
+2. [Mentality, Mindsets and Brain]
+3. [Health](#health)
+4. [Kids](#kids)
+5. [Education](#education)
+6. [Study](#study)
 7. [Jobs](#Jobs)
-#### Financial Management
-#### Economy
-#### Technologies
+8. [Financial Management](#financial management)
+9. [Economy](#economy)
+10. [Technologies](#technologies)
+11. [Others](#others)
+
 
 ## Life
 - Life is not too short, You will have until 60/70 years.
