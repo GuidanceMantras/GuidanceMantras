@@ -15,8 +15,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 # Table of Content
 1.  [Life](#life)
-
-[click on this link] (# Education)
 #### Mentality and Mindsets
 #### Health
 #### Kids
@@ -149,6 +147,8 @@ trust, value of life
 - One should know how to use government schemes such as loans, reservation, subsidy
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
 
+## Kids
+
 ### How to raise Kids
 - 
 -
@@ -157,7 +157,7 @@ trust, value of life
 -
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 
-### Education
+## Education
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
@@ -167,7 +167,7 @@ trust, value of life
 - Please teach your kids to know the value of honesty, trust
 - Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
 
-### Money
+## Financial management
 - Please teach your kids the value of money, which means how the money should be spent
 - Please teach your kids how to track expenses in their life
 - Never ever buy/give everything for your kids, so that you should make them to learn/know the importance of being not having something/everything in their life.
@@ -209,7 +209,7 @@ trust, value of life
 - Learn the importance of education
 - Never ever memorize anything, understand the things first and work on them
 
-### Mindsets
+### Mindsets and Mentality
 - One should have proper mindsets while doing any task and preparing for anything such as exams
 - Mindsets play a important role in achieveing tasks/goals or clearing exams
 - Positive Mindsets, avoid negative thoughts and mindsets
