@@ -216,7 +216,12 @@ trust, value of life
 - Come out of the loop that other person is superior to me in knowledge and studies
 - Learn to analyze other Person strength
 - Learn how to handle pressure in life
-
+- Learn how to train your brain for anything.
+- Basically, brain works similar to your stomach.
+- If you eat healthy food, you are healthy, if you eat unhealthy food, you are unhealthy.
+- Likewise, if you feed good knowledge and good input data, your brain perform good.
+- For bad knowledge and bad input data, your brain perform bad.
+  
 
 ### Mentality
 - Learn how to be tough minded
