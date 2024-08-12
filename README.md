@@ -20,7 +20,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 4. [Kids](#kids)
 5. [Education](#education)
 6. [Study](#study)
-7. [Jobs](#Jobs)
+7. [Jobs](#Jobs) 
+   1. [Exams](#exams)
 8. [Financial Management](#financial management)
 9. [Economy](#economy)
 10. [Technologies](#technologies)
@@ -283,7 +284,7 @@ trust, value of life
 ### Exams
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 
-## Government Exams and Jobs
+### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
 - Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
@@ -310,11 +311,6 @@ trust, value of life
 
 ###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making) departments
 
-### Education for Private/Engineering Jobs
-- For private jobs in India especially in Engineering, you just need technical skills and soft skills.
-- Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
-- You can improve/gain technical skills via Udemy  application https://www.udemy.com/
-  
 ### Generic government exams  in state for any degree
 - PDO, VA, EO(Executive officer)
 - PWD (Public welfare department)
@@ -356,9 +352,12 @@ trust, value of life
 - Work-life balance
 - Being with your family always
 
-###
--  
-## Private Jobs in Inida
+### Education for Private/Engineering Jobs
+- For private jobs in India especially in Engineering, you just need technical skills and soft skills.
+- Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
+- You can improve/gain technical skills via Udemy  application https://www.udemy.com/
+  
+### Private Jobs in Inida
 - IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
 - Private jobs are good for just 10 years, later that everyday you regret private jobs
 - Please have a account on LinkedIn 
