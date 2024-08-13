@@ -22,7 +22,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 6. [Study](#study)
 7. [Jobs](#Jobs) 
    1. [Exams](#exams)
-8. [Financial Management](#financial management)
+8. [Financial Management](#financial-management)
 9. [Economy](#economy)
 10. [Technologies](#technologies)
 11. [Others](#others)
