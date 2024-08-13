@@ -16,18 +16,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # Table of Content
 1.  [Life](#life)
 2. [Mentality, Mindsets and Brain]
+ 1. [Mind, Manasu and soul](#mind,-manasu-and-soul)
 3. [Personality, Behaviour and Psychology](#personality-behaviour-psychology)
-4. [Health](#health)
-5. 
-6. [Kids](#kids)
-7. [Education](#education)
-8. [Study](#study)
-9. [Jobs](#Jobs) 
+4. [Health](#health) 
+5. [Kids](#kids)
+6. [Education](#education)
+7. [Study](#study)
+8. [Jobs](#Jobs) 
    1. [Exams](#exams)
-10. [Financial Management](#financial-management)
-11. [Economy](#economy)
-12. [Technologies](#technologies)
-13. [Others](#others)
+9. [Financial Management](#financial-management)
+10. [Economy](#economy)
+11. [Technologies](#technologies)
+12. [Others](#others)
 
 
 ## Life
