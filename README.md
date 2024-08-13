@@ -58,7 +58,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to Adapt, ignore, listen, control youself, compromise, 
 - Have a mentor in life and for your kids always
 - No body knows everything in life, so people learn as they grow!
-  
+- 
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
@@ -71,19 +71,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Social life helps you to know the value of relationships 
 trust, value of life
 - Please engage with people everyday
-### Mind and Manasu and Soul
-- Keep your mind pure and negative free
-- Mind/Manasu helps you in your thoughts either positive/negative
-- Manasu always should be pure
-- Read about manasu/mind here https://www.quora.com/What-do-we-call-Manasu-in-English
-- Mind/Manasu control your thoughts
-- Sould should always be pure and free of negative thoughts
-### Chain of effects in life
-- will be added with diagram
 
-### Discipline and Persistance
-- Drink One glass of water(hot/cold) after wake up everyday
-- 
 ### Personality
 - Teach your kids how to respect girls and women
 - Learn to respect girls and women
@@ -100,6 +88,20 @@ trust, value of life
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
 - Do not carry over ego or fight with anyone
+
+### Chain of effects in life
+- will be added with diagram
+- 
+## Mind and Manasu and Soul
+- Keep your mind pure and negative free
+- Mind/Manasu helps you in your thoughts either positive/negative
+- Manasu always should be pure
+- Read about manasu/mind here https://www.quora.com/What-do-we-call-Manasu-in-English
+- Mind/Manasu control your thoughts
+- Sould should always be pure and free of negative thoughts
+
+### Discipline and Persistance
+- Drink One glass of water(hot/cold) after wake up everyday
   
 ### How to learn new language mainly English
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube https://www.youtube.com/@engvidRebecca
