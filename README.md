@@ -16,16 +16,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # Table of Content
 1.  [Life](#life)
 2. [Mentality, Mindsets and Brain]
-3. [Health](#health)
-4. [Kids](#kids)
-5. [Education](#education)
-6. [Study](#study)
-7. [Jobs](#Jobs) 
+3. [Personality, Behaviour and Psychology](#personality-behaviour-psychology)
+4. [Health](#health)
+5. 
+6. [Kids](#kids)
+7. [Education](#education)
+8. [Study](#study)
+9. [Jobs](#Jobs) 
    1. [Exams](#exams)
-8. [Financial Management](#financial-management)
-9. [Economy](#economy)
-10. [Technologies](#technologies)
-11. [Others](#others)
+10. [Financial Management](#financial-management)
+11. [Economy](#economy)
+12. [Technologies](#technologies)
+13. [Others](#others)
 
 
 ## Life
@@ -99,6 +101,9 @@ trust, value of life
 - Read about manasu/mind here https://www.quora.com/What-do-we-call-Manasu-in-English
 - Mind/Manasu control your thoughts
 - Sould should always be pure and free of negative thoughts
+
+### Personality, Behaviour and Psychology
+-
 
 ### Discipline and Persistance
 - Drink One glass of water(hot/cold) after wake up everyday
@@ -567,21 +572,23 @@ trust, value of life
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
 
-#### Programming
+### Programming
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
 - A particular task would be building social media applications such as Instagram, Facebook and software for Cars and TV. 
 
-#### Data base
+### Data base
 - A hardware device, where you data such as Personal details, health information and so on will be stored. The data can be access, changed, deleted from the data base using
   specific programming languages such as SQL.
 
-#### AI
+### Artificial Intelligence (AI)
 - An algorithmic model, which will be written in any programming language and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
 
-#### Cloud
+### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-#### For boys and Gents
+## Others
+
+### For boys and Gents
 - Avoid watching bad videos(I think you guys know what I meant)
 - Instead do physical activities such as Workout, Yoga and meditation, Jogging and sports
 - Read Journals and became a part of NGOs
@@ -591,7 +598,7 @@ trust, value of life
 - Many indians need to come out of the mindsets that women are for bad things
 - Clear that bad thoughts about women in your mind
 
-### Business
+## Business
 - Do your own research on this topic
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
