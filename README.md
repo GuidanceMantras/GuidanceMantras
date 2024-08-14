@@ -326,7 +326,7 @@ trust, value of life
 - KAS (For decision making positions in state government, like UPSC
 - Social welfare exams
 - FDA/SDA (Called once in two/three years for sure)
-  
+
 ### Department specific exams in a state with specific degree
 - Agriculture officer
 - Forest officer
@@ -334,11 +334,18 @@ trust, value of life
 - Horticulture officer
 - AE/JE/AEE/EE
 - Teacher/Lecture (With B.Ed or M.Sc)
+
+### Generic government exams in central government
+- SSC
+- RRB (Railway recruitment board)
+- Indian post
+- Bank IBPS 
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
 - Start preparing for government exams after 20 years and get all the details about the government jobs
 - Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
@@ -347,6 +354,7 @@ trust, value of life
 - Without patience and tolerance, you can not clear any government exams
 - Start preparing for government exams after 21 years and get all the details about the government jobs
 - Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
