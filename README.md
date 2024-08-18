@@ -109,7 +109,7 @@ trust, value of life
 - Drink One glass of water(hot/cold) after wake up everyday
   
 ### How to learn new language mainly English
-- Keep a book and start learning english grammer for 30 minutes each day here on youtube https://www.youtube.com/@engvidRebecca
+- Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
 - Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
 - Write at-least 20-30  different examples on each grammer topic.
   
