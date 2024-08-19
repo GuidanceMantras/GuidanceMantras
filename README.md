@@ -597,8 +597,8 @@ trust, value of life
 ## Others
 
 ### For boys and Gents
-- Avoid watching bad videos(I think you guys know what I meant)
-- Instead do physical activities such as Workout, Yoga and meditation, Jogging and sports
+- Avoid watching sex and porn videos (add link to negative effects of watching porn videos)
+- Instead do physical activities such as Workout at home or go to gym, Yoga and meditation, Jogging and sports
 - Read Journals and became a part of NGOs
 
 ### Behaviour with girls and women
