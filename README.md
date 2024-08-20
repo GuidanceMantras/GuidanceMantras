@@ -323,33 +323,33 @@ trust, value of life
 ###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making) departments
 
 ### Generic government exams  in state for any degree
-- PDO, VA, EO(Executive officer) (called once in 5 years for minimum 400 positions)
+- PDO, VA, EO(Executive officer) (called once in 5 years for minimum 1000 positions)
 - PWD (Public welfare department) (called once in 5 years for minimum 400 positions)
-- Police/Fire exams (called once in 5 years for minimum 400 positions)
-- Revenue/Tax  exams (called once in 5 years for minimum 400 positions)
+- Police/Fire exams (called once in 5 years for minimum 1000 positions)
+- Revenue/Tax  exams (called once in 5 years for minimum 1000 positions)
 - KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 400 positions)
 - Social welfare exams (called once in 5 years for minimum 400 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
 - PSI (Called once in 5 years for minimum 400 positions)
   
-- In total, you can write at-least 10 different exams in 5 years for 10,000 positions
+- In total, you can write at-least 10 different exams in 5 years for minimum 15,000 positions
   
 ### Department specific exams in a state with specific degree
 - Agriculture officer (called once in 5 years for minimum 400 positions)
 - Forest officer (called once in 5 years for minimum 400 positions)
 - Veternary officer (called once in 5 years for minimum 400 positions)
 - Horticulture officer (called once in 5 years for minimum 400 positions)
-- AE/JE/AEE/EE (called once in 5 years for minimum 400 positions)
+- AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions)
 - Teacher/Lecture (With B.Ed or M.Sc) (called once in 5 years for minimum 1000 positions)
   
 - In total, you can write at-least 10 different exams in 5 years for 10,000 positions
 
 ### Generic government exams in central government for any degree
-- SSC  (called twice/thrice in 5 years for minimum 15,000 positions)
-- RRB (Railway recruitment board)
-- Indian post
-- Bank IBPS PO
-- RBI exams
+- SSC  (called twice/thrice in 5 years for minimum 30,000 positions)
+- RRB (Railway recruitment board) (called twice/thrice in 5 years for minimum 30,000 positions)
+- Indian post (called twice/thrice in 5 years for minimum 10,000 positions)
+- Bank IBPS PO (called twice/thrice in 5 years for minimum 15,000 positions)
+- RBI exams (called twice/thrice in 5 years for minimum 5,000 positions)
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
