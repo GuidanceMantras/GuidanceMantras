@@ -170,7 +170,10 @@ trust, value of life
 -
 -
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
-
+- Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
+- Be a part of kids, when they are studying at home at-least until 12/13 years
+- When kids become youger, ask them about goal, ask them about their financial management, financial situation
+  
 ## Education
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
