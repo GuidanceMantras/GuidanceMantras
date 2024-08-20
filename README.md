@@ -330,6 +330,7 @@ trust, value of life
 - KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 400 positions)
 - Social welfare exams (called once in 5 years for minimum 400 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
+- PSI (Called once in 5 years for minimum 400 positions)
   
 - In total, you can write at-least 10 different exams in 5 years for 10,000 positions
   
@@ -375,7 +376,8 @@ trust, value of life
 - Better prepare for higher position while working as a government employee for better pay and
 - Work-life balance
 - Being with your family always
-
+- Once you enter any government department, no need to writing/clearing another exams
+  
 ### Education for Private/Engineering Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
