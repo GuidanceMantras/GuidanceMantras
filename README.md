@@ -293,7 +293,8 @@ trust, value of life
 
 ### Exams
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
-
+- Always remember government exams are not tough, but it is competative. More people wants government jobs. so
+  
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
