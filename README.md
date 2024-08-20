@@ -67,13 +67,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Friends
 - Always be with good friends
 - Learn good things from other friends
+- Your future life and your behaviour depends on your friends and people around you. 
 
 ### Social life
 - you should know the value of social life
 - Social life helps you to know the value of relationships 
 trust, value of life
 - Please engage with people everyday
-
+- You can learn new things from other people
+  
 ### Personality
 - Teach your kids how to respect girls and women
 - Learn to respect girls and women
@@ -131,8 +133,9 @@ trust, value of life
 - Keep you social media clean
 - Your social media feed works on what you follow, what you watch more, what you like. Basically, it i based on AI recommendation system
 - Delete unwanted emails, block unwanted emails and  unsubscribe unwanted emails
+- Avoid social media as much as possible, easy to say, but can be done.
 - Learn/teach how to use Google and youtube to gain knowledge about different topics
-  
+
 ### Environment 
 - Our behaviour depends on our surrounding environment
 - So kids should grow in good environment. 
