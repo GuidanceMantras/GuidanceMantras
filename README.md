@@ -597,14 +597,15 @@ trust, value of life
 ## Others
 
 ### For boys and Gents
-- Avoid watching sex and porn videos (add link to negative effects of watching porn videos)
-- Instead do physical activities such as Workout at home or go to gym, Yoga and meditation, Jogging and sports
+- Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
+- How to overcome porn addiction -- https://www.wikihow.com/Deal-With-Porn-Addiction
+- Instead do physical activities such as Workout at home or go to gym, Yoga and meditation, Jogging and sports such as Badmiton, cricket, football
 - Read Journals and became a part of NGOs
 
 ### Behaviour with girls and women
 - learn to respect girls and women
 - Many indians need to come out of the mindsets that women are for bad things
-- Clear that bad thoughts about women in your mind
+- Clear bad thoughts about women in your mind
 
 ## Business
 - Do your own research on this topic
