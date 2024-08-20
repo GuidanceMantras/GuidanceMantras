@@ -376,7 +376,9 @@ trust, value of life
 - Better prepare for higher position while working as a government employee for better pay and
 - Work-life balance
 - Being with your family always
-- Once you enter any government department, no need to writing/clearing another exams
+- Fame and power
+- Do not need to sit infornt of laptop whole day
+- Once you enter any government department, no need to write/clearing another exams
   
 ### Education for Private/Engineering Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
