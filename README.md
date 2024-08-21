@@ -13,7 +13,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
 ###### I will update this web page whenever I have new information/missing content is found and content is outdated. The content will also be optimized topic wise.
 
-# Table of Content (Click on the blue color, which takes you the topic information)
+# Table of Content 
+###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
 2. [Mentality, Mindsets and Brain]
  1. [Mind, Manasu and soul](#mind,-manasu-and-soul)
