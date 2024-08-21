@@ -201,7 +201,8 @@ trust, value of life
 - Spend at-least half a day to check your finance every week.
 - Never ever lend/give money to anyone without proper agreements/contracts signed by both lender and receiver
 - Never ever trust anyone in money matter, not even friends, relatives, cousins and so on. 
-
+- Always remember money is not everything either for personal or professional life
+  
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
 - Read each clause and try to negotiate if you find something suspicious
