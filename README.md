@@ -13,7 +13,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
 ###### I will update this web page whenever I have new information/missing content is found and content is outdated. The content will also be optimized topic wise.
 
-# Table of Content
+# Table of Content (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
 2. [Mentality, Mindsets and Brain]
  1. [Mind, Manasu and soul](#mind,-manasu-and-soul)
@@ -297,7 +297,8 @@ trust, value of life
 ### Exams
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
-  
+- Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
+    
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
@@ -376,12 +377,13 @@ trust, value of life
 - Job security
 - You can work for the betterment of society
 - You are not a slave
-- Better prepare for higher position while working as a government employee for better pay and
-- Work-life balance
+- Better prepare for higher position while working as a government employee for better pay and Work-life balance
 - Being with your family always
 - Fame and power
 - Do not need to sit infornt of laptop whole day
-- Once you enter any government department, no need to write/clearing another exams
+- Once you enter any government department, no need to write/clearing another exams or give interviews
+- You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
+
   
 ### Education for Private/Engineering Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
