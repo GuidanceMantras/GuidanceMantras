@@ -16,9 +16,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # Table of Content 
 ###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
-2. [Mentality, Mindsets and Brain]
- 1. [Mind, Manasu and Soul](#mind,-manasu-and-soul)
-3. [Personality, Behaviour and Psychology](#personality-behaviour-psychology)
+2. [Mentality-Mindsets and Brain]
+ 1. [Mind-Manasu and Soul](#mind-manasu-and-soul)
+3. [Personality-Behaviour and Psychology](#personality-behaviour-psychology)
 4. [Health](#health) 
 5. [Kids](#kids)
 6. [Education](#education)
@@ -97,7 +97,7 @@ trust, value of life
 ### Chain of effects in life
 - will be added with diagram
 - 
-## Mind, Manasu and Soul
+## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
 - Manasu always should be pure
@@ -105,7 +105,7 @@ trust, value of life
 - Mind/Manasu control your thoughts
 - Sould should always be pure and free of negative thoughts
 
-### Personality, Behaviour and Psychology
+### Personality-Behaviour and Psychology
 -
 
 ### Discipline and Persistance
