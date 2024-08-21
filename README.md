@@ -194,9 +194,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn/teach how to be confident for yourself/kids
 - Learn/teach how to be slient for yourself/kids, instead of talking always
 - Learn/teach how to take accountability in life for yourself/kids
-- Learn/teach about critical thinking and logical reasoning for yourself/kids
+- Learn/teach about critical thinking, analytical thinking and logical reasoning for yourself/kids
 - Parents have to leave ego for the sake of kids
-- Learn/Teach/Develop self-consciousness for yourself /teach your kids
+- Learn/Teach/Develop self-consciousness for yourself /teach your kids. This is important one
 - Learn/Teach self-management for yourself/for your kids
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
