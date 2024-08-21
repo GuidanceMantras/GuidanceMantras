@@ -78,6 +78,19 @@ trust, value of life
 - Please engage with people everyday
 - You can learn new things from other people
   
+### Chain of effects in life
+- will be added with diagram
+- 
+## Mind-Manasu and Soul
+- Keep your mind pure and negative free
+- Mind/Manasu helps you in your thoughts either positive/negative
+- Manasu always should be pure
+- Read about manasu/mind here https://www.quora.com/What-do-we-call-Manasu-in-English
+- Mind/Manasu control your thoughts
+- Sould should always be pure and free of negative thoughts
+
+## Personality-Behaviour and Psychology
+
 ### Personality
 - Teach your kids how to respect girls and women
 - Learn to respect girls and women
@@ -95,20 +108,13 @@ trust, value of life
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
 - Do not carry over ego or fight with anyone
 
-### Chain of effects in life
-- will be added with diagram
-- 
-## Mind-Manasu and Soul
-- Keep your mind pure and negative free
-- Mind/Manasu helps you in your thoughts either positive/negative
-- Manasu always should be pure
-- Read about manasu/mind here https://www.quora.com/What-do-we-call-Manasu-in-English
-- Mind/Manasu control your thoughts
-- Sould should always be pure and free of negative thoughts
+### Behaviour
 
-### Personality-Behaviour and Psychology
--
-
+### Patterns and Psychology
+- Patterns defines the your cyclic behavior based on your actions, let's say you drink water everyday in empty stomach, this is a patterns of having heath concern. 
+- Patterns basically shows how is your behavior based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
+- Understanding of Psychology gives you better understanding of other person, world and understanding of yourself
+  
 ### Discipline and Persistance
 - Drink One glass of water(hot/cold) after wake up everyday
   
@@ -176,11 +182,6 @@ trust, value of life
 - Be a part of kids, when they are studying at home at-least until 12/13 years
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
   
-## Education
-- Please do not expect your kids to be a topper
-- Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
-- Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
-
 ### Ethics
 - Please teach your kids to respect elders
 - Please teach your kids to know the value of honesty, trust
@@ -245,16 +246,19 @@ trust, value of life
 
 ### Mentality
 - Learn how to be tough minded
-  
-### Education for Government jobs 
 
-#### After 10th
+## Education
+- Please do not expect your kids to be a topper
+- Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
+- Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
+  
+### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
-- Another option is Diploma in Engineering, then take Diploma in Computer Ccience/Electronics/Electrical/Civil
+- Another option is Diploma in Engineering, then take Diploma in Computer Science/Electronics/Electrical/Civil
 - For Medical and Engineering degree, you need to take CET coaching so that you might can try for better ranking.
 
-#### After PUC
+### After PUC
 - Bachelor of Science - B.Sc.
 - Bachelor of Arts - B.A
 - Bachelor of Commerce - B.Com.
@@ -269,9 +273,9 @@ trust, value of life
 - Bachelor of Veterinary Science & Animal Husbandry - B.V.Sc. & A.H. / B.V.Sc
 - Bachelor of Engineering / Bachelor of Technology - B.E./B.Tech.
 - Bachelor of Computer Application (BCA)
-- M.B.B.S -----> Need Good rank in KCET/NEET
+- M.B.B.S(Doctor) -----> Need Good rank in KCET/NEET
 
-#### After Degree 
+### After Degree 
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
 - You can also do/get some coaching/certificates to get jobs in Engineering sector after your B.Tech.
 - You can join a private company and prepare for government jobs, while working as a teacher/contractual government jobs/group C/Group D government jobs
@@ -288,6 +292,9 @@ trust, value of life
 - Master of Veterinary Science - M.V.Sc.
 - Master of computer application(MCA)
 
+### Education for Government jobs 
+-
+
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
@@ -297,7 +304,7 @@ trust, value of life
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
 
-### Exams
+### Government Jobs
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
 - Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
@@ -387,13 +394,10 @@ trust, value of life
 - Once you enter any government department, no need to write/clearing another exams or give interviews
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
 
-  
-### Education for Private/Engineering Jobs
+### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
-  
-### Private Jobs in Inida
 - IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
 - Private jobs are good for just 10 years, later that everyday you regret private jobs
 - Please have a account on LinkedIn 
@@ -435,7 +439,7 @@ trust, value of life
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
 - 
 ### Yoga and meditation
-- Do some small exercies FOR 10 minutes before doing meditation for 10 minutes
+- Do some small exercies for 10 minutes before doing meditation for 10 minutes
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
   
@@ -528,7 +532,7 @@ trust, value of life
 - You can also bookmark all the important web pages on google chrome including this page! like below
   ![chrome_bookmark](Chrome_bookmark.PNG]
 
-### Profession
+## Profession
 - Everybody wants to save their ass and life, so be careful while dealing with people
 - Please be cautious about your life
 - No argument with anyone
@@ -591,11 +595,6 @@ trust, value of life
 - Write down your thoughts on a paper, which gives you more control about your thoughts.
 - Write down your problems on a paper, which gives you a more flexibility to solutions
 
-### Patterns and Psychology
-- Patterns defines the your cyclic behavior based on your actions, let's say you drink water everyday in empty stomach, this is a patterns of having heath concern. 
-- Patterns basically shows how is your behavior based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
-- Understanding of Psychology gives you better understanding of other person, world and understanding of yourself
-  
 ## Technologies
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
