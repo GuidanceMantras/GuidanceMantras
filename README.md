@@ -421,25 +421,6 @@ trust, value of life
 - Come out of the loop that someone will help you/someone is there for you to help always.
 - Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
 
-## Mental and Physical Health
-
-### Mental Health
-- You should learn to keep good mental health
-- Please do yoga and meditation for at-least 30 mintues a day, 20 minutes for yoga and 10 minutes for meditation
-- Yoga and meditation improves your mental health
-- Yoga and meditation improves focus, concentration
-- Yoga and mediation improves decision making skills and thinking ability
-- Yoga and mediation improves your patience level
-- If you have problem to sleep, please do physical activities such as running, work out in the evening for 1 hour
-- Please do not think about anything before two hour of sleeping
-- If you have problem, please share with someone close to you such as brother, sister, parents, friends, it will relieve your mind
-- please do yoga and meditation in the evening between 5 pm and 8 pm in a open room
-- For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online 
-
-### Physical Health
-- Always eat fruits, vegetables instead of junk food
-- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
-- 
 ### Yoga and meditation
 - Do some small exercies for 10 minutes before doing meditation for 10 minutes
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
@@ -490,7 +471,24 @@ trust, value of life
 ### Health 
 - Drink one glass of water after your tooth brush in the morning
 - Rinse your eyes(Hold the water in your both hands and open your eyes in the water) in the morning and evening everyday
-- 
+  
+### Physical Health
+- Always eat fruits, vegetables instead of junk food
+- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
+  
+### Mental Health
+- You should learn to keep good mental health
+- Please do yoga and meditation for at-least 30 mintues a day, 20 minutes for yoga and 10 minutes for meditation
+- Yoga and meditation improves your mental health
+- Yoga and meditation improves focus, concentration
+- Yoga and mediation improves decision making skills and thinking ability
+- Yoga and mediation improves your patience level
+- If you have problem to sleep, please do physical activities such as running, work out in the evening for 1 hour
+- Please do not think about anything before two hour of sleeping
+- If you have problem, please share with someone close to you such as brother, sister, parents, friends, it will relieve your mind
+- please do yoga and meditation in the evening between 5 pm and 8 pm in a open room
+- For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online 
+
 ### Travelling
 - If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
 - long drive
