@@ -27,10 +27,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
+    3. [Yoga and meditation](#yoga-and-meditation)
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
-    1. [Mindset](#mindset)
-    2. [Mentality](#mentality)
-    3. [Brain](#brain)
+    1. [Mindset 1](#mindset-1)
+    2. [Mindset 2](#mindset-2)
+    3. [Mentality](#mentality)
+    4. [Brain](#brain)
 4. [Mind-Manasu and Soul](#mind-manasu-and-soul)
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
     1. [Personality](#personality)
@@ -45,7 +47,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     4. [How to learn english](#how-to-learn-english)
     5. [Improve Speaking and your voice[(#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
-   1. [Exams](#exams)
+   1. [Government Jobs](#government-jobs)
+   2. [Government Exams](#government-exams)
+   3. [Benefits of Government jobs[(#benefits-of-government-jobs)
+   4. [Private Jobs](#private-jobs)
+
 9. [Financial Management](#financial-management)
 10. [Economy](#economy)
 11. [Technologies](#technologies)
@@ -159,7 +165,12 @@ trust, value of life
 - If you have problem, please share with someone close to you such as brother, sister, parents, friends, it will relieve your mind
 - please do yoga and meditation in the evening between 5 pm and 8 pm in a open room
 - For yoga and meditation, you can take coaching for thr first time for 3 months in-person/online
-  
+
+### Yoga and meditation
+- Do some small exercies for 10 minutes before doing meditation for 10 minutes
+- While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
+- Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
+
 ### Discipline and Persistance
 - Drink One glass of water(hot/cold) after wake up everyday
 
@@ -304,7 +315,7 @@ trust, value of life
 
 ## Mindset-Mentality and Brain
 
-### Mindset
+### Mindset 1
 - One should have proper mindsets while doing any task and preparing for anything such as exams
 - Mindsets play a important role in achieveing tasks/goals or clearing exams
 - Positive Mindsets, avoid negative thoughts and mindsets
@@ -316,7 +327,17 @@ trust, value of life
 - If you eat healthy food, you are healthy, if you eat unhealthy food, you are unhealthy.
 - Likewise, if you feed good knowledge and good input data, your brain perform good.
 - For bad knowledge and bad input data, your brain perform bad.
-  
+
+### Mindset 2
+- You should always give some time in a day at-least 30 minutes to think about your life, your actions, your future goals,
+- You should not compare your life with other people
+- You have your won strength/individuality, focus on those things
+- You should learn to control your emotions/thoughts through mind/manasu
+- You should learn to understand things and dealing with other people such as parents, friends
+- You should know your responsibilites in your life, your goal always
+- Improve your confidence, appearances, way of talking(please do online search for help)
+- Come out of the loop that someone will help you/someone is there for you to help always.
+- Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
 
 ### Mentality
 - Learn how to be tough minded
@@ -487,22 +508,6 @@ trust, value of life
 - Engineering
 - Accountant and others
 - Please do own research
-  
-## Mindsets
-- You should always give some time in a day at-least 30 minutes to think about your life, your actions, your future goals,
-- You should not compare your life with other people
-- You have your won strength/individuality, focus on those things
-- You should learn to control your emotions/thoughts through mind/manasu
-- You should learn to understand things and dealing with other people such as parents, friends
-- You should know your responsibilites in your life, your goal always
-- Improve your confidence, appearances, way of talking(please do online search for help)
-- Come out of the loop that someone will help you/someone is there for you to help always.
-- Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
-
-### Yoga and meditation
-- Do some small exercies for 10 minutes before doing meditation for 10 minutes
-- While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
-- Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
   
 ## Studying in abroad
 - Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
