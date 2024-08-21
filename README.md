@@ -79,41 +79,37 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always learn from other people
 - Always learn from your mistakes
 - First know the world and how it works
-- One should learn multiple languages such as English in life, Use youtube to learn languages
-- Learn English here on youtube [https://www.youtube.com/@engvidRebecca]
-- Listen to podcasts(Just listen whenever you get time to different podcast) on spotify to improve your English listening here https://open.spotify.com/show/7ixeOS7ezPTZSaISIx2TTw
-- Read Quora Answers(Just read different answers whenever you get time) to improve English reading here https://www.quora.com/How-can-I-improve-my-English-reading-skills
 - One should know how to use mobile phones and different applications
-- One should know how to use laptop
-- One should know the useful legal laws such as criminal law/labour law/business law
-- One should know how to drive Bike/Car
+- One should know how to use laptop, if possible, have at-least one laptop at home
+- One should know the useful legal laws such as criminal law/labour law/business law and civil law
+- One should know how to drive Bike/Car, have driving license
 - Learn to speak slowly
-- Do not argue about religion and caste
+- Do not argue about religion and caste, on unwanted things
 
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
-- One should know how to use Youtube and google to gain knowledge 
+- One should know how to use Youtube and google to gain knowledge and usefule information
 - Do not get into any business/things without having a basic knowlegde
 - Mind your business in life
 - Always listen when experieced/ elder people are telling something good
 - Think and make the decisions for long term benefits always
 - One should learn about how to be selective in life/ on social media such as Facebook/instagram/so on.
-- Know the consequences of your actions in your life always
+- Know the consequences of  your each actions in your life always
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
-- Learn to control your mind whole day and each day until your achieve something in your life and even after also
-- Read Bhagavad gita, which teaches about process
+- Read/listen to Bhagavad gita, which teaches about process
 - Learn to Adapt, ignore, listen, control youself, compromise, 
 - Have a mentor in life and for your kids always
 - No body knows everything in life, so people learn as they grow
 - Do not try to experiece/have everything in life, it is better not to experience/have some things in life
-- Do not be bother/worried about news, basically stop watching news until you are 25 years old
+- Do not be bother/worried about news, basically stop watching news until you are 25 years old and even after if possible
 - Not all people are good on earth, similarly, not all people are bad.
 - World is not fair for everyone, it does not mean that world will be bad for you. Always try for better in life irrespective of anything
   
 ### Family
 - Family is everything in life such as parents, sisters, brothers
-
+- Build a bond with everyone
+  
 ### Friends
 - Always be with good friends
 - Learn good things from other friends
@@ -121,8 +117,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Social life
 - you should know the value of social life
-- Social life helps you to know the value of relationships 
-trust, value of life
+- Social life helps you to know the value of relationships, trust, value of life
 - Please engage with people everyday
 - You can learn new things from other people
 
@@ -150,7 +145,7 @@ trust, value of life
   
 ### Networking
 - Please be connected with likely minded people everyday always
-- Networking gives you more knowledge than anything
+- Networking gives you more knowledge than anything and sometimes help as well
   
 ### Planning
 - Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
@@ -170,6 +165,7 @@ trust, value of life
 ### Responsibilities
 - You should know your responsibilites/obligation in your life first such as financial, job, home and parents
 - Take care of your finance for your future and your family future
+  
 ### Dealing with people
 - Not all the people on earth are good, similarly, not all the people are bad
 - You should know how to distinguish between good and bad people
@@ -191,18 +187,17 @@ trust, value of life
 ## Personality-Behaviour and Psychology
 
 ### Personality
-- Teach your kids how to respect girls and women
-- Learn to respect girls and women
+- Teach/Learn your kids how to respect girls and women
 - Teach/learn how to handle the urges for yourself/kids
 - Learn/Teach about eating habits for yourself/kids
-- Learn/teach not be feel inferior to other person in terms of knowledge/studies for yourself/kids
+- Learn/teach not be feel inferior to other person in terms of knowledge/studies/money for yourself/kids
 - Learn/teach how to be confident for yourself/kids
 - Learn/teach how to be slient for yourself/kids, instead of talking always
 - Learn/teach how to take accountability in life for yourself/kids
 - Learn/teach about critical thinking and logical reasoning for yourself/kids
 - Parents have to leave ego for the sake of kids
-- Develope self-consciouness for yourself /teach your kids
-- Learn/Teach self management for yourself/for your kids
+- Learn/Teach/Develop self-consciousness for yourself /teach your kids
+- Learn/Teach self-management for yourself/for your kids
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
 - Do not carry over ego or fight with anyone
@@ -395,7 +390,8 @@ trust, value of life
 
 ### Brain
 - Learn how to train your brain
-
+- Learn to control your mind whole day and each day until your achieve something in your life and even after also
+  
 ## Education
 - Education is just a part of five essentials in our life such as Air, Food, Water, Clothes
 - Learn the importance of education
