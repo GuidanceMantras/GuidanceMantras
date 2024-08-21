@@ -18,7 +18,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 1.  [Life](#life)
 2. [Mentality-Mindsets and Brain]
  1. [Mind-Manasu and Soul](#mind-manasu-and-soul)
-3. [Personality-Behaviour and Psychology](#personality-behaviour-psychology)
+3. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
 4. [Health](#health) 
 5. [Kids](#kids)
 6. [Education](#education)
