@@ -17,7 +17,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
     1. [Life 1](#life-1)
-    2. [Life 2(#life-2)
+    2. [Life 2](#life-2)
     3. [Family](#family)
     4. [Friends](#friends)
     5. [Social life](#social-life)
