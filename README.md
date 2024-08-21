@@ -130,7 +130,7 @@ trust, value of life
 - You can learn new things from other people
 
 ### Discipline and Persistance
-- Drink One glass of water(hot/cold) after wake up everyday
+- Drink One glass of water(hot/cold) after wake up everyday, which defines the discipline
 
 ### Social Media
 - Be selective on social media such as facebook/instagram
