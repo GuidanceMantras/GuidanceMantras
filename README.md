@@ -19,9 +19,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
-3. [Mentality-Mindsets and Brain]
+3. [Mindset-Mentality and Brain]
+    1. [Mindset](#mindset)
+    2. [Mentality](#mentality)
+    3. [Brain](#brain)
 4. [Mind-Manasu and Soul](#mind-manasu-and-soul)
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
+    1. [Personality](#personality)
+    2. [Behaviour](#Behaviour)
+    3. [Pyschology](#Pyschology)
 6. [Kids](#kids)
 6. [Education](#education)
 7. [Study](#study)
@@ -280,12 +286,9 @@ trust, value of life
 - Buy headsets like below
 - ![Ear_buds pic](Earbuds_pic.PNG)
   
-## Education
-- Education is just a part of five essentials in our life such as Air, Food, Water, Clothes
-- Learn the importance of education
-- Never ever memorize anything, understand the things first and work on them
+## Mindset-Mentality and Brain
 
-### Mindsets and Mentality
+### Mindset
 - One should have proper mindsets while doing any task and preparing for anything such as exams
 - Mindsets play a important role in achieveing tasks/goals or clearing exams
 - Positive Mindsets, avoid negative thoughts and mindsets
@@ -302,7 +305,13 @@ trust, value of life
 ### Mentality
 - Learn how to be tough minded
 
+### Brain
+- Learn how to train your brain
+
 ## Education
+- Education is just a part of five essentials in our life such as Air, Food, Water, Clothes
+- Learn the importance of education
+- Never ever memorize anything, understand the things first and work on them
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
