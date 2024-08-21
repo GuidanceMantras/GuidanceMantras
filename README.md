@@ -16,12 +16,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # Table of Content 
 ###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
-2. [Mentality-Mindsets and Brain]
+2.  [Health](#health) 
+    1. [Pyhsical Health](#physical-health)
+    2. [Mental Health](#mental-health)
+3. [Mentality-Mindsets and Brain]
  1. [Mind-Manasu and Soul](#mind-manasu-and-soul)
 3. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
-4. [Health](#health) 
- 1. [Pyhsical Health](#physical-health)
- 2. [Mental Health](#mental-health)
 5. [Kids](#kids)
 6. [Education](#education)
 7. [Study](#study)
