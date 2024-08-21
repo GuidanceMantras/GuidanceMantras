@@ -61,7 +61,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to Adapt, ignore, listen, control youself, compromise, 
 - Have a mentor in life and for your kids always
 - No body knows everything in life, so people learn as they grow!
-- 
+- Do not be bother/worried about news, basically stop watching news until you are 25 years old
+  
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
