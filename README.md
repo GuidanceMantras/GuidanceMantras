@@ -30,6 +30,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     12. [Do It Yourself](#do-it-yourself)
     13. [Chain of effects in life](#chain-of-effects-in-life)
     14. [Responsibilities](#responsibilities)
+    15. [Problems](#problems)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -149,7 +150,36 @@ trust, value of life
 - The meaning of minimalistic is to having only needed things in life
 - Minimalistic says that "One should buy only needed/essential things in life"
 - An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
+  
+### Networking
+- Please be connected with likely minded people everyday always
+- Networking gives you more knowledge than anything
+  
+### Planning
+- Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
+  
+### Buying things
+- You should know the use case of each item, which you need to buy and actual cost of it
+- Before buying anything, please check whether the price make sense or not,
+- Before buying look into different websites/shops to compare prices
 
+### Do It Yourself
+- One should know/learn how to do your works by yourself, at-least simple things
+
+### Problems
+- World problems are not your problems, keep in mind
+- Your problems are only your problems, keep in mind
+
+### Responsibilities
+- You should know your responsibilites/obligation in your life first such as financial, job, home and parents
+- Take care of your finance for your future and your family future
+### Dealing with people
+- Not all the people on earth are good, similarly, not all the people are bad
+- You should know how to distinguish between good and bad people
+- People use mind-game  to manipulate others, so be aware of it
+- Always stay away from any financial things with other people/strangers
+- People will be nice when taking money from you, afterwards, people behave strangely.
+  
 ### Chain of effects in life
 - will be added with diagram
 - 
@@ -262,6 +292,10 @@ trust, value of life
 - Never ever lend/give money to anyone without proper agreements/contracts signed by both lender and receiver
 - Never ever trust anyone in money matter, not even friends, relatives, cousins and so on. 
 - Always remember money is not everything either for personal or professional life
+- Spend at-least 2/3 hours every week on sundays to manage your finance, such as spending, earning and others things
+- Keep all the spending and earning bills for at-least 2 years
+- Keep a dairy for Money management, write down everything in it!
+- Check your bank statements or any other applications every week
   
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
@@ -593,38 +627,10 @@ trust, value of life
 - Do not think that you have to do everything on your own and company will not run without my work
 - You should know how to work with old and young people in life and behave/deal with old and young people
 
-### Responsibilities
-- You should know your responsibilites/obligation in your life first such as financial, home and parents
-- Take care of your finance for your future and your family future
-  
 ### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
 - https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
-  
-### Dealing with people
-- Not all the people on earth are good, similarly, not all the people are bad
-- You should know how to distinguish between good and bad people
-- People use mind-game  to manipulate others, so be aware of it
-- Always stay away from any financial things with other people/strangers
-- People will be nice when taking money from you, afterwards, people behave strangely.
-
-### Problems
-- World problems are not your problems, keep in mind
-- Your problems are only your problems, keep in mind
-
-### Networking
-- Please be connected with likely minded people everyday always
-- Networking gives you more knowledge than anything
-
-### Financial Management 
-- Spend at-least 2/3 hours every week to manage your finance, such as spending, earning and others things
-- Keep all the spending and earning bills for at-least 2 years
-- Keep a dairy for Money management, write down everything in it!
-- Check your bank statements or any other applications every week
-
-### Planning
-- Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
 
 ### Mood swing
 - There is a great pro-verb in English. "Your mood is depending on Weather"
@@ -635,13 +641,7 @@ trust, value of life
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
 - If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
 
-### Buying things
-- You should know the use case of each item, which you need to buy and actual cost of it
-- Before buying anything, please check whether the price make sense or not,
-- Before buying look into different websites/shops to compare prices
 
-### Do It Yourself(DIY)
-- One should know/learn how to do your works by yourself, at-least simple things
 
 ### Thoughts and problems
 - Write down your thoughts on a paper, which gives you more control about your thoughts.
