@@ -62,7 +62,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Read Bhagavad gita, which teaches about process
 - Learn to Adapt, ignore, listen, control youself, compromise, 
 - Have a mentor in life and for your kids always
-- No body knows everything in life, so people learn as they grow!
+- No body knows everything in life, so people learn as they grow
+- Do not try to experiece/have everything in life, it is better not to experience/have some things in life
 - Do not be bother/worried about news, basically stop watching news until you are 25 years old
   
 ### Family
@@ -248,6 +249,37 @@ trust, value of life
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
 - Patience helps to navigate difficult situations in life and dealing with other people in life
 
+## Study
+### How to keep your study environment
+- Always have a plan for your studies every day 
+- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
+- Do not study in dark room
+- Join study group for preparing for competitive exams on facebook, reddit 
+- get and walk for 5-10 minutes around your room if you feel overwhelmed while studying
+- Always study under proper sun light/big room
+- Always have a good study table and chair for each person like below
+- ![Study table chair](./Study_chair_and_table.png) .
+- Keep your study or personal room clean and tidy, well organised
+
+### How to study 1
+- Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
+- Make a study time table always and subject wise study table(one/one and half hour for each subject)
+- Same for competitive exams based on books/domain/topics
+- Or find the best study time table for yourself if needed according to your efforts
+- Always study next to windows and keep your study table next to windows/ in a open room with good light and visibility. Not in dark room or not next to TV room or TV
+
+### How to study 2
+- Do not memorize anything, understand the concepts and format the concepts in your own words
+- Do not memorize mathematics, mathematics needs to be practice with work sheets
+- Mark/High lights important things in your text books with highlighters
+- Underline important things/sentences/lines in your text books
+- Listen music for better focus while studying if needed on Spotify application (https://open.spotify.com/)
+- https://open.spotify.com/playlist/1ILN6NiSwe9pmz0u7HJ67y?si=c78e2727799346b8
+- You can also listen to music when you are bored/alone
+- You can also listen to English/Hindi Podcast here
+- Buy headsets like below
+- ![Ear_buds pic](Earbuds_pic.PNG)
+  
 ## Education
 - Education is just a part of five essentials in our life such as Air, Food, Water, Clothes
 - Learn the importance of education
@@ -458,36 +490,6 @@ trust, value of life
 - Trust me, most of the Indians living in developed countries came in early 2000s and 2010s
 - For your future sake and parents sake, stay away from higher education.
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
-
-### How to keep your study environment
-- Always have a plan for your studies every day 
-- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
-- Do not study in dark room
-- Join study group for preparing for competitive exams on facebook, reddit 
-- get and walk for 5-10 minutes around your room if you feel overwhelmed while studying
-- Always study under proper sun light/big room
-- Always have a good study table and chair for each person like below
-- ![Study table chair](./Study_chair_and_table.png) .
-- Keep your study or personal room clean and tidy, well organised
-
-### How to study 
-- Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
-- Make a study time table always and subject wise study table(one/one and half hour for each subject)
-- Same for competitive exams based on books/domain/topics
-- Or find the best study time table for yourself if needed according to your efforts
-- Always study next to windows and keep your study table next to windows/ in a open room with good light and visibility. Not in dark room or not next to TV room or TV
-
-### How to study continued
-- Do not memorize anything, understand the concepts and format the concepts in your own words
-- Do not memorize mathematics, mathematics needs to be practice with work sheets
-- Mark/High lights important things in your text books with highlighters
-- Underline important things/sentences/lines in your text books
-- Listen music for better focus while studying if needed on Spotify application (https://open.spotify.com/)
-- https://open.spotify.com/playlist/1ILN6NiSwe9pmz0u7HJ67y?si=c78e2727799346b8
-- You can also listen to music when you are bored/alone
-- You can also listen to English/Hindi Podcast here
-- Buy headsets like below
-- ![Ear_buds pic](Earbuds_pic.PNG)
 
 ### Travelling
 - If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
