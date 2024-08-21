@@ -23,10 +23,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Social Media](#social-media)
     6. [Environment](#environment)
     7. [Minimalistic](#minimalistic)
+    8. [Chain of effects in life](#chain-of-effects-in-life)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
-3. [Mindset-Mentality and Brain]
+3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset](#mindset)
     2. [Mentality](#mentality)
     3. [Brain](#brain)
@@ -41,6 +42,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
+    4. [How to learn english](#how-to-learn-english)
+    5. [Improve Speaking and your voice[(#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
    1. [Exams](#exams)
 9. [Financial Management](#financial-management)
@@ -159,24 +162,7 @@ trust, value of life
   
 ### Discipline and Persistance
 - Drink One glass of water(hot/cold) after wake up everyday
-  
-### How to learn new language mainly English
-- Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
-- Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
-- Write at-least 20-30  different examples on each grammer topic.
-  
-- Improve your english writing and keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic in a book
-- While writing about the topic, use all kinds of grammer
-- After writing, ask english speaking person in your family to check your writing, ask for suggestions/improvements
-- Listen to english podcasts on Spotify to improve listening skills. For an example, like this one https://open.spotify.com/show/4NHIIVB3DkjH70yhE3pbcd?si=fcd980155cf047d6
-- Read quora/newspaper to improve reading skills. For an example, like this one https://www.quora.com/
-- Speak in english often at home or at school/college/office/with friends to improve speaking
-  
-### Improve Speaking and your voice
-- Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
-- Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
-- Articulation for tongue: https://www.youtube.com/watch?v=HHRNcIPxijY
-  
+
 ### Social Media
 - Be selective on social media such as facebook/instagram
 - You can block unnecessary things, such as post/groups/people/videos on any social media
@@ -297,7 +283,25 @@ trust, value of life
 - You can also listen to English/Hindi Podcast here
 - Buy headsets like below
 - ![Ear_buds pic](Earbuds_pic.PNG)
+
   
+### How to learn english
+- Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
+- Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
+- Write at-least 20-30  different examples on each grammer topic.
+  
+- Improve your english writing and keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic in a book
+- While writing about the topic, use all kinds of grammer
+- After writing, ask english speaking person in your family to check your writing, ask for suggestions/improvements
+- Listen to english podcasts on Spotify to improve listening skills. For an example, like this one https://open.spotify.com/show/4NHIIVB3DkjH70yhE3pbcd?si=fcd980155cf047d6
+- Read quora/newspaper to improve reading skills. For an example, like this one https://www.quora.com/
+- Speak in english often at home or at school/college/office/with friends to improve speaking
+  
+### Improve Speaking and your voice
+- Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
+- Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
+- Articulation for tongue: https://www.youtube.com/watch?v=HHRNcIPxijY
+
 ## Mindset-Mentality and Brain
 
 ### Mindset
