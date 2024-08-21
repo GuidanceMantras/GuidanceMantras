@@ -97,7 +97,7 @@ trust, value of life
 ### Chain of effects in life
 - will be added with diagram
 - 
-## Mind and Manasu and Soul
+## Mind, Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
 - Manasu always should be pure
