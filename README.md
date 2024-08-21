@@ -31,6 +31,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     13. [Chain of effects in life](#chain-of-effects-in-life)
     14. [Responsibilities](#responsibilities)
     15. [Problems](#problems)
+    16. [Decision Making](#decision-making)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -63,17 +64,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 11. [Economy](#economy)
 12. [Technologies](#technologies)
 13. [Others](#others)
-    1. [Power of Music](#power-of-music)
-    2. [Dealing with people(#dealing-with-people)
-    3. [Problems](#problems)
-    4. [Networking](#networking)
-    5. [Social life](#social-life)
-    6. [Discipline and Persistance](#discipline-and-persistance)
-    7. [Social Media](#social-media)
-    8. [Environment](#environment)
-    9. [Minimalistic](#minimalistic)
-    10. [Chain of effects in life](#chain-of-effects-in-life)
-
+    1. [Travelling](#travelling)
+    2. [Power of Music](#power-of-music)
+    3. [Electronics](#electronics)
+    4. [Addictions](#addictions)
+    5. [Mood swing](#mood-swing)
+    6. [For boys and Gents](#for-boys-and-gents)
+    7. [Behaviour with girls and women](#behaviour-with-girls-women)
 
 ## Life 
 
