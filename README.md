@@ -16,14 +16,20 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # Table of Content 
 ###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
-    1. [Family](#family)
-    2. [Friends](#friends)
-    3. [Social life](#social-life)
-    4. [Discipline and Persistance](#discipline-and-persistance)
-    5. [Social Media](#social-media)
-    6. [Environment](#environment)
-    7. [Minimalistic](#minimalistic)
-    8. [Chain of effects in life](#chain-of-effects-in-life)
+    1. [Life 1](#life-1)
+    2. [Life 2(#life-2)
+    3. [Family](#family)
+    4. [Friends](#friends)
+    5. [Social life](#social-life)
+    6. [Discipline and Persistance](#discipline-and-persistance)
+    7. [Social Media](#social-media)
+    8. [Environment](#environment)
+    9. [Minimalistic](#minimalistic)
+    10. [Planning](#planning)
+    11. [Networking](#networking)
+    12. [Do It Yourself](#do-it-yourself)
+    13. [Chain of effects in life](#chain-of-effects-in-life)
+    14. [Responsibilities](#responsibilities)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -51,14 +57,26 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    2. [Government Exams](#government-exams)
    3. [Benefits of Government jobs[(#benefits-of-government-jobs)
    4. [Private Jobs](#private-jobs)
-
 9. [Financial Management](#financial-management)
-10. [Economy](#economy)
-11. [Technologies](#technologies)
-12. [Others](#others)
+10. [Profession](#profession)
+11. [Economy](#economy)
+12. [Technologies](#technologies)
+13. [Others](#others)
+    1. [Power of Music](#power-of-music)
+    2. [Dealing with people(#dealing-with-people)
+    3. [Problems](#problems)
+    4. [Networking](#networking)
+    5. [Social life](#social-life)
+    6. [Discipline and Persistance](#discipline-and-persistance)
+    7. [Social Media](#social-media)
+    8. [Environment](#environment)
+    9. [Minimalistic](#minimalistic)
+    10. [Chain of effects in life](#chain-of-effects-in-life)
 
 
-## Life
+## Life 
+
+### Life 1
 - Life is not too short, You will have until 60/70 years.
 - Always learn from other people
 - Always learn from your mistakes
@@ -73,6 +91,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know how to drive Bike/Car
 - Learn to speak slowly
 - Do not argue about religion and caste
+
+### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
 - One should know how to use Youtube and google to gain knowledge 
 - Do not get into any business/things without having a basic knowlegde
@@ -107,7 +127,29 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 trust, value of life
 - Please engage with people everyday
 - You can learn new things from other people
-  
+
+### Discipline and Persistance
+- Drink One glass of water(hot/cold) after wake up everyday
+
+### Social Media
+- Be selective on social media such as facebook/instagram
+- You can block unnecessary things, such as post/groups/people/videos on any social media
+- Keep you social media clean
+- Your social media feed works on what you follow, what you watch more, what you like. Basically, it i based on AI recommendation system
+- Delete unwanted emails, block unwanted emails and  unsubscribe unwanted emails
+- Avoid social media as much as possible, easy to say, but can be done.
+- Learn/teach how to use Google and youtube to gain knowledge about different topics
+
+### Environment 
+- Our behaviour depends on our surrounding environment
+- So kids should grow in good environment. 
+- Stay away fron negative people
+
+### Minimalistic
+- The meaning of minimalistic is to having only needed things in life
+- Minimalistic says that "One should buy only needed/essential things in life"
+- An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
+
 ### Chain of effects in life
 - will be added with diagram
 - 
@@ -170,28 +212,6 @@ trust, value of life
 - Do some small exercies for 10 minutes before doing meditation for 10 minutes
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
-
-### Discipline and Persistance
-- Drink One glass of water(hot/cold) after wake up everyday
-
-### Social Media
-- Be selective on social media such as facebook/instagram
-- You can block unnecessary things, such as post/groups/people/videos on any social media
-- Keep you social media clean
-- Your social media feed works on what you follow, what you watch more, what you like. Basically, it i based on AI recommendation system
-- Delete unwanted emails, block unwanted emails and  unsubscribe unwanted emails
-- Avoid social media as much as possible, easy to say, but can be done.
-- Learn/teach how to use Google and youtube to gain knowledge about different topics
-
-### Environment 
-- Our behaviour depends on our surrounding environment
-- So kids should grow in good environment. 
-- Stay away fron negative people
-
-### Minimalistic
-- The meaning of minimalistic is to having only needed things in life
-- Minimalistic says that "One should buy only needed/essential things in life"
-- An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
 
 ### Important Applications 
 - Spotify(For songs/Mantras/Study and work music, English podcast)
