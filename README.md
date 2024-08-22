@@ -482,7 +482,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please read below website to know about how to prepare for government exams
 - https://medium.com/@crazyboysonushri/how-to-find-a-government-job-in-india-8b6ef5054f3c
 - You just need Bachelor Degree to give any government exams in India/any State
-- First Get any Grade C/B jobs and focus on Grade A jobs in government. https://www.sarkarinaukriblog.com/2019/04/sarkari-naukri-employee-types.html#Group-D
+- First Get any Grade C/D jobs and focus on Grade A/B jobs in government. https://www.sarkarinaukriblog.com/2019/04/sarkari-naukri-employee-types.html#Group-D
 - Always get coaching for any government jobs at-least 6 months/one year full-time/part-time(during the degree/after degree) and then preapre for the exams for yourself
 - Getting coaching for exams gives you a better understanding of exams preparation and exams structure
 - If your main focus is governement jobs, please take simple degree/master degree and prepare for government exams
