@@ -563,7 +563,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Website for government jobs
 - Central government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
-- Karnatak Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/)
+- Karnatak Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/), https://www.karnatakacareers.in/karnataka-govt-jobs/, Police https://ksp.karnataka.gov.in/info-3/Recruitment/en
 - Here https://allgovernmentjobs.in/ search for each state govenrment jobs and also including Across India
 - Indian Railway Recrutiment Board (RRB) exams in India : https://www.pw.live/exams/railway/
 - Indian Post exams
