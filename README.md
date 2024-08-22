@@ -46,7 +46,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
     1. [Personality](#personality)
     2. [Behaviour](#Behaviour)
-    3. [Pyschology](#Pyschology)
+    3. [Patterns and Psychology](#patterns-and-psychology)
 6. [Kids](#kids)
    1. [Activities for kids/adults](#activities-for-kids-/-adults)
 6. [Education](#education)
@@ -506,11 +506,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - In total, you can write at-least 10 different exams in 5 years for minimum 15,000 positions
   
 ### Department specific exams in a state with specific degree
-- Agriculture officer (called once in 5 years for minimum 400 positions)
-- Forest officer (called once in 5 years for minimum 400 positions)
-- Veternary officer (called once in 5 years for minimum 400 positions)
-- Horticulture officer (called once in 5 years for minimum 400 positions)
-- AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions)
+- Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree(80%) and 20% for any degree)
+- Forest officer (called once in 5 years for minimum 400 positionswith B.Sc Forestry degree(80%) and 20% for any degree)
+- Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree(80%) and 20% for any degree)
+- Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%) and 20% for any degree)
+- AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in EEE/EC degree(100%)
 - Teacher/Lecture (With B.Ed or M.Sc) (called once in 5 years for minimum 1000 positions)
   
 - In total, you can write at-least 10 different exams in 5 years for 10,000 positions
@@ -560,6 +560,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Indian Post exams
 - National Testing Agency (NTA)
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
+- IBPS exams https://www.ibps.in/
+- 
 - You can write/apply for some government jobs until 40 years old(OBC)/45 years old (SC/ST). so check for age limit for job always
 
 ### Priavte Jobs
