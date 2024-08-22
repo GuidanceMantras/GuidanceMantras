@@ -102,6 +102,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know how to drive Bike/Car, have driving license
 - Learn to speak slowly
 - Do not argue about religion and caste, on unwanted things
+- Education does not teach everything in life
 
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
