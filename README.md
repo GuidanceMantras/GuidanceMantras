@@ -65,7 +65,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    1. [Government Jobs](#government-jobs)
    2. [Government Exams](#government-exams)
    3. [Benefits of Government jobs](#benefits-of-government-jobs)
-   4. [Website for government jobs](#website for government jobs)
+   4. [Website for government jobs](#website-for-government-jobs)
    5. [Private Jobs](#private-jobs)
    6. [Skills](#skills)
 9. [Financial Management](#financial-management)
