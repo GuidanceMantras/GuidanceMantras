@@ -48,7 +48,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Behaviour](#Behaviour)
     3. [Pyschology](#Pyschology)
 6. [Kids](#kids)
-   1. [Activities for kids/adults](#activities-for-kids/adults)
+   1. [Activities for kids/adults](#activities-for-kids-/-adults)
 6. [Education](#education)
     1. [After 10th](#after-10th)
     2. [After PUC](#after-puc)
