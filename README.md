@@ -524,8 +524,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after 20 years and get all the details about the government jobs
-- Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- Start preparing for government exams after/during 20 years and get all the details about the government jobs
+- Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
@@ -533,8 +533,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after 21 years and get all the details about the government jobs
-- Plan to attend a 6 months or one years coaching near to your place, for an example, Vijayanagara in Bengaluru.
+- Start preparing for government exams after/during 21 years and get all the details about the government jobs
+- Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
@@ -553,9 +553,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get time to better plan for your kids and family
 
 ### Website for government jobs
-- Central Government government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
-- Karnatak Government Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/)
-- Here https://allgovernmentjobs.in/ search for each state govenrment jobs and also inclduing Across India
+- Central government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
+- Karnatak Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/)
+- Here https://allgovernmentjobs.in/ search for each state govenrment jobs and also including Across India
+- Railway Recrutiment Board (RRB) exams
+- Indian Post exams
+- National Testing Agency (NTA)
   
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
