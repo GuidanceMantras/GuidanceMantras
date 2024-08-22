@@ -540,15 +540,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - After getting first government job, you can still prepare for other government jobs if needed
   
 ### Benefits of Government jobs
-- Job security
+- Job security, first and foremost in life
 - You can work for the betterment of society
-- You are not a slave
+- You are not a slave, even though salary is less
 - Better prepare for higher position while working as a government employee for better pay and Work-life balance
 - Being with your family always
-- Fame and power
-- Do not need to sit infornt of laptop whole day
+- Fame and power, comes with struggles.
+- Do not need to sit infront of laptop whole day
 - Once you enter any government department, no need to write/clearing another exams or give interviews
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
+- Get time to better plan for your kids and family
 
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
