@@ -679,7 +679,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Electronics
 - Any electronics objects such as car, phones, headphones and so on lose their value as days goes
 - So be realisitic when buying electronics objects
-
+- Value of first hand electronics goes down as the days go. For an example, The same phone costs less in 2023 than in 2022.
+  
 ### Ethics
 - Please teach your kids to respect elders
 - Please teach your kids to know the value of honesty, trust
