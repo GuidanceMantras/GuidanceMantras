@@ -550,7 +550,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not need to sit infront of laptop whole day
 - Once you enter any government department, no need to write/clearing another exams or give interviews
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
-- Get time to better plan for your kids and family
+- You get time to better plan for your kids and family
 
 ### Website for government jobs
 - Central government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
@@ -560,7 +560,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Indian Post exams
 - National Testing Agency (NTA)
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
-  
+- You can write/apply for some government jobs until 40 years old(OBC)/45 years old (SC/ST). so check for age limit for job always
+
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
