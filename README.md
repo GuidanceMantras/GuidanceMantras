@@ -511,7 +511,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree(80%) and 20% for any degree)
 - Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%) and 20% for any degree)
 - AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in EEE/EC degree(100%)
-- Teacher/Lecture (With B.Ed or M.Sc) (called once in 5 years for minimum 1000 positions)
+- Teacher/Lecture (called once in 5 years for minimum 1000 positions)
   
 - In total, you can write at-least 10 different exams in 5 years for 10,000 positions
 
@@ -519,8 +519,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - SSC  (called twice/thrice in 5 years for minimum 30,000 positions)
 - RRB (Railway recruitment board) (called twice/thrice in 5 years for minimum 30,000 positions)
 - Indian post (called twice/thrice in 5 years for minimum 10,000 positions)
-- Bank IBPS PO (called twice/thrice in 5 years for minimum 15,000 positions)
+- Bank IBPS exam (called twice/thrice in 5 years for minimum 15,000 positions)
 - RBI exams (called twice/thrice in 5 years for minimum 5,000 positions)
+- Defense exams  (called twice/thrice in 5 years for minimum 50,000 positions)
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
