@@ -502,18 +502,22 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Social welfare exams (called once in 5 years for minimum 400 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
 - PSI (Called once in 5 years for minimum 400 positions)
+- Teacher/Lecture (called once in 5 years for minimum 3000 positions)
+- Police Constable (called every year for 2,000 positions)
   
-- In total, you can write at-least 10 different exams in 5 years for minimum 15,000 positions
+- In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
   
 ### Department specific exams in a state with specific degree
 - Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree(80%) and 20% for any degree)
 - Forest officer (called once in 5 years for minimum 400 positionswith B.Sc Forestry degree(80%) and 20% for any degree)
 - Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree(80%) and 20% for any degree)
 - Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%) and 20% for any degree)
-- AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in EEE/EC degree(100%)
-- Teacher/Lecture (called once in 5 years for minimum 1000 positions)
+- AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in EEE/EC degree(100%)
+- AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in civil degree(100%)
+- AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in Mechanical degree(100%)
+- Teacher/Lecture (called once in 5 years for minimum 3000 positions)
   
-- In total, you can write at-least 10 different exams in 5 years for 10,000 positions
+- In total, you can write at-least 10 different exams in 5 years for 20,000 positions
 
 ### Generic government exams in central government for any degree
 - SSC  (called twice/thrice in 5 years for minimum 30,000 positions)
@@ -553,6 +557,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
 - You get time to better plan for your kids and family
 
+- You can write/apply for some government jobs until 40 years old(OBC)/45 years old (SC/ST). so check for age limit for job always
+  
 ### Website for government jobs
 - Central government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
 - Karnatak Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/)
@@ -563,7 +569,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
 - IBPS exams https://www.ibps.in/
 - 
-- You can write/apply for some government jobs until 40 years old(OBC)/45 years old (SC/ST). so check for age limit for job always
+
 
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
