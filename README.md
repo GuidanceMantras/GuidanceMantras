@@ -48,6 +48,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. [Pyschology](#Pyschology)
 6. [Kids](#kids)
 6. [Education](#education)
+    1. [After 10th](#after-10th)
+    2. [After PUC](#after-puc)
+    3. [After Degree](#after-degree)
+    4. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
+    5. [Education for Government Jobs](#education-for-government-jobs)
 7. [Study](#study)
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
@@ -57,8 +62,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 8. [Jobs](#Jobs) 
    1. [Government Jobs](#government-jobs)
    2. [Government Exams](#government-exams)
-   3. [Benefits of Government jobs[(#benefits-of-government-jobs)
+   3. [Benefits of Government jobs](#benefits-of-government-jobs)
    4. [Private Jobs](#private-jobs)
+   5. [Skills](#skills)
 9. [Financial Management](#financial-management)
 10. [Profession](#profession)
 11. [Economy](#economy)
@@ -73,6 +79,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     7. [Behaviour with girls and women](#behaviour-with-girls-women)
     8. [Studying in abroad](#studying-in-abroad)
     9. [Reading](#reading)
+    10. [Ethics](#ethics)
+    11. [Electronics](#electronics)
+    12. [Important Applications](#important-applications)
+    13. [Agreements and Contracts](#agreements-and-contracts)
+    14. [#cloud](#cloud)
+    15. [Thoughts and problems](#thoughts-and-problems)
 
 ## Life 
 
@@ -552,6 +564,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please do own research
 
 ### Skills
+- Only for private jobs
 - Use Udemy https://www.udemy.com/ for learning new skills in your life, you need to pay for it
 - You can also bookmark all the important web pages on google chrome including this page! like below
   ![chrome_bookmark](Chrome_bookmark.PNG]
