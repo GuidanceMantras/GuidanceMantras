@@ -71,6 +71,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Mood swing](#mood-swing)
     6. [For boys and Gents](#for-boys-and-gents)
     7. [Behaviour with girls and women](#behaviour-with-girls-women)
+    8. [Studying in abroad](#studying-in-abroad)
+    9. [Reading](#reading)
 
 ## Life 
 
@@ -149,6 +151,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Planning
 - Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
+- Always plan in your life for next 5 to 10 years ahead
   
 ### Buying things
 - You should know the use case of each item, which you need to buy and actual cost of it
@@ -175,7 +178,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Chain of effects in life
 - will be added with diagram
-- 
+
+### Decision Making
+- if you want to make any decision in your life please follow below approach
+- Go out for a walk and free your mind first
+- never ever take any decisions in urgent
+- never ever take any decisions when you are happy/sad
+- while walking think about pros and cons of your decision
+- talk to someone( family member/friends/stranger) about your thoughts process for your decision 
+- write down your thoughts and pros and cons of your decisions process
+- Get more information about your decisions 
+- Do proper research once again
+- revisit your thoughts before finally agreeing with it
+  
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
@@ -235,21 +250,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
 
-### Important Applications 
-- Spotify(For songs/Mantras/Study and work music, English podcast)
-- Microsoft ToDo(for listing yoir daily tasks)
-- Udemy( For learning new skills)
-- Splitwise(To share expenses with friends or someone)
-- Notion(To make notes)
-
-### Electronics
-- Any electronics objects such as car, phones, headphones and so on lose their value as days goes
-- So be realisitic when buying electronics objects
-
-### Effective Use of Government schemes and Services
-- One should know how to use government schemes such as loans, reservation, subsidy
-- Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
-
 ## Kids
 
 ### How to raise Kids
@@ -262,11 +262,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
 - Be a part of kids, when they are studying at home at-least until 12/13 years
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
-  
-### Ethics
-- Please teach your kids to respect elders
-- Please teach your kids to know the value of honesty, trust
-- Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
 
 ## Financial management
 - Please teach your kids the value of money, which means how the money should be spent
@@ -289,11 +284,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
   
-### Agreements and Contracts
-- Read the entire agreements first and understand it properly before signing it
-- Read each clause and try to negotiate if you find something suspicious
-- When you are making agreements includes everything whatever is possible
-- People make money by giving bad agreements and taking agreements in real life
+
 
 ### Other activities for your kids/adults
 - Music class, dance class, drawing
@@ -311,6 +302,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Patience helps to navigate difficult situations in life and dealing with other people in life
 
 ## Study
+
 ### How to keep your study environment
 - Always have a plan for your studies every day 
 - Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
@@ -346,7 +338,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
 - Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
 - Write at-least 20-30  different examples on each grammer topic.
-  
 - Improve your english writing and keep a book and Write one page about the topic each day. For an example, topics such as Environment, earth, science, technology and so on. First read about the topic on Google/internet and wrtie about the topic in a book
 - While writing about the topic, use all kinds of grammer
 - After writing, ask english speaking person in your family to check your writing, ask for suggestions/improvements
@@ -440,6 +431,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Master of Veterinary Science - M.V.Sc.
 - Master of computer application(MCA)
 
+### Effective Use of Government schemes and Services
+- One should know how to use government schemes such as loans, reservation, subsidy
+- Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
+  
 ### Education for Government jobs 
 -
 
@@ -555,56 +550,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Engineering
 - Accountant and others
 - Please do own research
-  
-## Studying in abroad
-- Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
-- I would not recommend anyone to go and study higher education in any developed countries, because it does not bring anything in your life
-- Instead focus on improving your skills and prepare for any government exams for at-least 3-4 years
-- Do not take huge loans and stuck in the endless loop of paying back those loans, it does not really worth
-- The purchasing power of India is/will be similar to other developed countries. So It does not make any sense to go for higher studies
-- There is always discrimination/racisms, so that you can not grow in your professional life nowadays, it is more due to social media.
-- Foreign people do not show the racisms up-front, it will be showed in-directly via not giving promotion/hike
-- Trust me, most of the Indians living in developed countries came in early 2000s and 2010s
-- For your future sake and parents sake, stay away from higher education.
-- If you get the chance for Job directly from foreign companies, take it. do not go for studies
-
-### Travelling
-- If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
-- long drive
-- 
-### Cloud 
-- Future is data, you need to know how to store your data on cloud
-- You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
-- You can also use Github for free on phone/laptop to store your work/data, https://github.com/
- * You can use Github in a simple steps, it is very helpful and free tool
- * In Github, create a Repo  and make the Repo private in Visibility
-- Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
-- <img width="593" alt="Folder_structure" src="https://github.com/mariya12290/Guidance_/assets/64356491/8b6b6478-4068-4d99-92d1-c4abc04c17ad">
-- Like above create a folder your Family/Personal and store the data only related to those folders
-- You can keep all your text books in cloud/Github for free for future purpose
-
-### Planning
-- Always plan in your life for next 5 to 10 years ahead
-
-### Readings
-- Always read book about life/finance/Management/Technology/Education
-- You can save your online books in Github as well
-- You can write everything in your life/your planning for a day in the below applications
-- Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/)
-- Buy used second hand books for free
-- Search online best-seller for each topics
-  
-### Decision Making
-- if you want to make any decision in your life please follow below approach
-- Go out for a walk and free your mind first
-- never ever take any decisions in urgent
-- never ever take any decisions when you are happy/sad
-- while walking think about pros and cons of your decision
-- talk to someone( family member/friends/stranger) about your thoughts process for your decision 
-- write down your thoughts and pros and cons of your decisions process
-- Get more information about your decisions 
-- Do proper research once again
-- revisit your thoughts before finally agreeing with it
 
 ### Skills
 - Use Udemy https://www.udemy.com/ for learning new skills in your life, you need to pay for it
@@ -619,26 +564,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Work only between 8-5 ro 9-6, no extra work
 - Do not think that you have to do everything on your own and company will not run without my work
 - You should know how to work with old and young people in life and behave/deal with old and young people
-
-### Power of Music
-- Know the power of music while studying/Working/bored/depressed/alone/loneliness
-- Read below web page to know more about power of music
-- https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
-
-### Mood swing
-- There is a great pro-verb in English. "Your mood is depending on Weather"
-- Nowadays, your mood is also depending on the people you live/work.
-- One should know how to control mood swing in life using Music, Meditation, and doing other activities.
-
-### Addictions
-- Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
-- If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
-
-
-
-### Thoughts and problems
-- Write down your thoughts on a paper, which gives you more control about your thoughts.
-- Write down your problems on a paper, which gives you a more flexibility to solutions
 
 ## Technologies
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
@@ -671,6 +596,81 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - learn to respect girls and women
 - Many indians need to come out of the mindsets that women are for bad things
 - Clear bad thoughts about women in your mind
+  
+### Power of Music
+- Know the power of music while studying/Working/bored/depressed/alone/loneliness
+- Read below web page to know more about power of music
+- https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
+
+### Mood swing
+- There is a great pro-verb in English. "Your mood is depending on Weather"
+- Nowadays, your mood is also depending on the people you live/work.
+- One should know how to control mood swing in life using Music, Meditation, and doing other activities.
+
+### Addictions
+- Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
+- If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
+
+### Thoughts and problems
+- Write down your thoughts on a paper, which gives you more control about your thoughts.
+- Write down your problems on a paper, which gives you a more flexibility to solutions
+
+### Travelling
+- If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
+- long drive
+- 
+### Cloud 
+- Future is data, you need to know how to store your data on cloud
+- You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
+- You can also use Github for free on phone/laptop to store your work/data, https://github.com/
+ * You can use Github in a simple steps, it is very helpful and free tool
+ * In Github, create a Repo  and make the Repo private in Visibility
+- Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
+- <img width="593" alt="Folder_structure" src="https://github.com/mariya12290/Guidance_/assets/64356491/8b6b6478-4068-4d99-92d1-c4abc04c17ad">
+- Like above create a folder your Family/Personal and store the data only related to those folders
+- You can keep all your text books in cloud/Github for free for future purpose
+
+### Reading
+- Always read book about life/finance/Management/Technology/Education
+- You can save your online books in Github as well
+- You can write everything in your life/your planning for a day in the below applications
+- Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/)
+- Buy used second hand books for free
+- Search online best-seller for each topics
+
+### Studying in abroad
+- Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ want to be in government sector/have an idea to do your own business
+- I would not recommend anyone to go and study higher education in any developed countries, because it does not bring anything in your life, unless you get scholarship like someone people
+- Instead focus on improving your skills and prepare for any government exams for at-least 3-4 years
+- Do not take huge loans and stuck in the endless loop of paying back those loans, it does not really worth
+- The purchasing power(PPP) of India is/will be similar to other developed countries. So It does not make any sense to go for higher studies
+- There is always discrimination/racisms, so that you can not grow in your professional life nowadays, it is more due to social media.
+- Foreign people do not show the racisms up-front, it will be showed in-directly via not giving promotion/hike
+- Trust me, most of the Indians living in developed countries came in early 1990's, 2000s and 2010s
+- For your future sake and parents sake, stay away from higher education.
+- If you get the chance for Job directly from foreign companies, take it. do not go for studies
+
+### Agreements and Contracts
+- Read the entire agreements first and understand it properly before signing it
+- Read each clause and try to negotiate if you find something suspicious
+- When you are making agreements includes everything whatever is possible
+- People make money by giving bad agreements and taking agreements in real life
+
+### Important Applications 
+- Spotify(For songs/Mantras/Study and work music, English podcast)
+- Microsoft ToDo(for listing yoir daily tasks)
+- Udemy( For learning new skills)
+- Splitwise(To share expenses with friends or someone)
+- Notion(To make notes)
+
+### Electronics
+- Any electronics objects such as car, phones, headphones and so on lose their value as days goes
+- So be realisitic when buying electronics objects
+
+### Ethics
+- Please teach your kids to respect elders
+- Please teach your kids to know the value of honesty, trust
+- Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
 
 ## Business
 - Do your own research on this topic
