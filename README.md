@@ -58,7 +58,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
     4. [How to learn english](#how-to-learn-english)
-    5. [Improve Speaking and your voice[(#improve-speaking-and-your-voice)
+    5. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
    1. [Government Jobs](#government-jobs)
    2. [Government Exams](#government-exams)
@@ -83,7 +83,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     11. [Electronics](#electronics)
     12. [Important Applications](#important-applications)
     13. [Agreements and Contracts](#agreements-and-contracts)
-    14. [#cloud](#cloud)
+    14. [Cloud Future](#cloud)
     15. [Thoughts and problems](#thoughts-and-problems)
 
 ## Life 
@@ -632,7 +632,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
 - long drive
 - 
-### Cloud 
+### Cloud Future
 - Future is data, you need to know how to store your data on cloud
 - You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
 - You can also use Github for free on phone/laptop to store your work/data, https://github.com/
