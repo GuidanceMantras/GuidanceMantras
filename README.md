@@ -65,8 +65,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    1. [Government Jobs](#government-jobs)
    2. [Government Exams](#government-exams)
    3. [Benefits of Government jobs](#benefits-of-government-jobs)
-   4. [Private Jobs](#private-jobs)
-   5. [Skills](#skills)
+   4. [Website for government jobs](#website for government jobs)
+   5. [Private Jobs](#private-jobs)
+   6. [Skills](#skills)
 9. [Financial Management](#financial-management)
 10. [Profession](#profession)
 11. [Economy](#economy)
@@ -551,6 +552,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
 - Get time to better plan for your kids and family
 
+### Website for government jobs
+- Central Government government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
+- Karnatak Government Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/)
+- Here https://allgovernmentjobs.in/ search for each state govenrment jobs and also inclduing Across India
+  
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
