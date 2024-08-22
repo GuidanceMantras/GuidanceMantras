@@ -32,6 +32,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     14. [Responsibilities](#responsibilities)
     15. [Problems](#problems)
     16. [Decision Making](#decision-making)
+    17. [Patience](#patience)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -47,6 +48,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Behaviour](#Behaviour)
     3. [Pyschology](#Pyschology)
 6. [Kids](#kids)
+   1. [Activities for kids/adults](#activities-for-kids/adults)
 6. [Education](#education)
     1. [After 10th](#after-10th)
     2. [After PUC](#after-puc)
@@ -202,6 +204,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get more information about your decisions 
 - Do proper research once again
 - revisit your thoughts before finally agreeing with it
+
+### Patience
+- Please teach your kids to have a patience in their life through yoga, meditation, sports
+- Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
+- Patience helps to navigate difficult situations in life and dealing with other people in life
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
@@ -275,6 +282,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be a part of kids, when they are studying at home at-least until 12/13 years
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
 
+### Activities for kids/adults
+- Music class, dance class, drawing
+- Swimming
+- cricket/badmiton/running
+- Gym/workout
+- Make sure that your kids listen to Hindu Mantras for 5-10 minutes, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
+- Allow/Teach kids to think about their actions/thoughts everyday for one hour, which allows for reasoning, logical and critical thinking ability.
+- Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
+- Teach kids not to follow any actors and actress, you have no benefits from them
+  
 ## Financial management
 - Please teach your kids the value of money, which means how the money should be spent
 - Please teach your kids how to track expenses in their life
@@ -296,22 +313,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
   
-
-
-### Other activities for your kids/adults
-- Music class, dance class, drawing
-- Swimming
-- cricket/badmiton/running
-- Gym/workout
-- Make sure that your kids listen to Hindu Mantras for 5-10 minutes, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
-- Allow/Teach kids to think about their actions/thoughts everyday for one hour, which allows for reasoning, logical and critical thinking ability.
-- Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
-- Teach kids not to follow any actors and actress, you have no benefits from them
-
-### Patience
-- Please teach your kids to have a patience in their life through yoga, meditation, sports
-- Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
-- Patience helps to navigate difficult situations in life and dealing with other people in life
 
 ## Study
 
