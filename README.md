@@ -103,6 +103,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to speak slowly
 - Do not argue about religion and caste, on unwanted things
 - Education does not teach everything in life
+- As many indians always think that grass is greener on the other side, that is not true
+- Each person has its own life and individuality always
 
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
@@ -205,6 +207,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - write down your thoughts and pros and cons of your decisions process
 - Get more information about your decisions 
 - Do proper research once again
+- Do not consider grass is greener on other side always
 - revisit your thoughts before finally agreeing with it
 
 ### Patience
@@ -447,7 +450,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Master of computer application(MCA)
 
 ### Effective Use of Government schemes and Services
-- One should know how to use government schemes such as loans, reservation, subsidy
+- One should know how to use government schemes such as loans, reservation, subsidy, scholarships
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
   
 ### Education for Government jobs 
@@ -687,6 +690,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Trust me, most of the Indians living in developed countries came in early 1990's, 2000s and 2010s
 - For your future sake and parents sake, stay away from higher education.
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
+- Indians always think that grass is greener on the other side
 
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
