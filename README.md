@@ -255,6 +255,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
+- Going to Gym or doing workout at home
   
 ### Mental Health
 - You should learn to keep good mental health
