@@ -471,7 +471,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
 - Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
 - Many people in private jobs levae their job to write government jobs and also some people write government jobs while working in private jobs
-
+- There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 30,000 to 40,000 are serious exam takers(which means only 30%-40% applicants)
   
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
@@ -506,7 +506,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Police/Fire exams (called once in 5 years for minimum 1000 positions)
 - Revenue/Tax  exams (called once in 5 years for minimum 1000 positions)
 - KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 400 positions)
-- Social welfare exams (called once in 5 years for minimum 400 positions)
+- Social welfare department exams (called once in 5 years for minimum 400 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
 - PSI (Called once in 5 years for minimum 400 positions)
 - Teacher/Lecture (called once in 5 years for minimum 3000 positions)
@@ -514,11 +514,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
   
-### Department specific exams in a state with specific degree
-- Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree(80%) and 20% for any degree)
-- Forest officer (called once in 5 years for minimum 400 positionswith B.Sc Forestry degree(80%) and 20% for any degree)
-- Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree(80%) and 20% for any degree)
-- Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%) and 20% for any degree)
+### Department specific exams in a state with specific degree 
+- Do not write for department specific exams without having specific degrees in most of the time
+- Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree)
+- Forest officer (called once in 5 years for minimum 400 positions with B.Sc Forestry degree)
+- Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree)
+- Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%))
 - AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in EEE/EC degree(100%)
 - AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in civil degree(100%)
 - AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in Mechanical degree(100%)
