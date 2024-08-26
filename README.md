@@ -430,8 +430,10 @@ trust, value of life
 
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
-- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
-- 
+- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports, going to gym or work-outs at home
+- you can do work-outs at home with simple tools like below picture
+- ![dumbbells_carpet_1](./dumbbells_carpet_1.jpg)
+  
 ### Yoga and meditation
 - Do some small exercies FOR 10 minutes before doing meditation for 10 minutes
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
@@ -458,7 +460,8 @@ trust, value of life
 - Always study under proper sun light/big room
 - Always have a good study table and chair for each person like below
 - ![Study table chair](./Study_chair_and_table.png) .
-- Keep your study or personal room clean and tidy, well organised
+- Keep your study or personal room clean and tidy, well organised like below
+- ![Study environment_pic](./Study_environment_pic.jpeg) .
 
 ### How to study 
 - Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
@@ -477,8 +480,10 @@ trust, value of life
 - You can also listen to music when you are bored/alone
 - You can also listen to English/Hindi Podcast here
 - Buy headsets like below
-- ![Ear_buds pic](Earbuds_pic.PNG)
-
+- ![Ear_buds pic](Earbuds_pic_optimized.png)
+- Use sticky notes to make a To-do list and important things like below
+- ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
+  
 ### Health 
 - Drink one glass of water after your tooth brush in the morning
 - Rinse your eyes(Hold the water in your both hands and open your eyes in the water) in the morning and evening everyday
@@ -494,7 +499,7 @@ trust, value of life
  * You can use Github in a simple steps, it is very helpful and free tool
  * In Github, create a Repo  and make the Repo private in Visibility
 - Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
-- <img width="593" alt="Folder_structure" src="https://github.com/mariya12290/Guidance_/assets/64356491/8b6b6478-4068-4d99-92d1-c4abc04c17ad">
+- ![folder_structure](./Folder_structure_LI.png) .
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
