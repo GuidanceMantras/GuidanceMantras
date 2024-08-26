@@ -499,7 +499,7 @@ trust, value of life
  * You can use Github in a simple steps, it is very helpful and free tool
  * In Github, create a Repo  and make the Repo private in Visibility
 - Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
-- ![folder_structure](./Folder_structure_LI.png) .
+- ![folder_structure](./Folder_structure_LI.jpg) .
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
