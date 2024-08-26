@@ -33,10 +33,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     15. [Problems](#problems)
     16. [Decision Making](#decision-making)
     17. [Patience](#patience)
+    18. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
     3. [Yoga and meditation](#yoga-and-meditation)
+    4. [Sleeping problems and solutions](#sleeping-problems-and-solutions)
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset 1](#mindset-1)
     2. [Mindset 2](#mindset-2)
@@ -69,6 +71,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    5. [Private Jobs](#private-jobs)
    6. [Skills](#skills)
 9. [Financial Management](#financial-management)
+    6. [Investment](#investment)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -78,8 +81,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. [Electronics](#electronics)
     4. [Addictions](#addictions)
     5. [Mood swing](#mood-swing)
-    6. [For boys and Gents](#for-boys-and-gents)
-    7. [Behaviour with girls and women](#behaviour-with-girls-women)
+    6. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
+    7. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
     8. [Studying in abroad](#studying-in-abroad)
     9. [Reading](#reading)
     10. [Ethics](#ethics)
@@ -254,8 +257,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
-- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports
-- Going to Gym or doing workout at home
+- Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports, going to gym or work-outs at home
+- you can do work-outs at home with simple tools like below picture
+- ![dumbbells_carpet_1](./dumbbells_carpet_1.jpg)
   
 ### Mental Health
 - You should learn to keep good mental health
@@ -331,7 +335,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always study under proper sun light/big room
 - Always have a good study table and chair for each person like below
 - ![Study table chair](./Study_chair_and_table.png) .
-- Keep your study or personal room clean and tidy, well organised
+- Keep your study or personal room clean and tidy, well organised like below
+- ![Study environment_pic](./Study_environment_pic.jpeg) 
 
 ### How to study 1
 - Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
@@ -350,7 +355,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You can also listen to music when you are bored/alone
 - You can also listen to English/Hindi Podcast here
 - Buy headsets like below
-- ![Ear_buds pic](Earbuds_pic.PNG)
+- ![Ear_buds pic](Earbuds_pic_optimized.png)
+- Use sticky notes to make a To-do list and important things like below
+- ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 
   
 ### How to learn english
@@ -593,19 +600,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Accountant and others
 - Please do own research
 
-## Mindsets
-- You should always give some time in a day at-least 30 minutes to think about your life, your actions, your future goals,
-- You should not compare your life with other people
-- You have your won strength/individuality, focus on those things
-- You should learn to control your emotions/thoughts through mind/manasu
-- You should learn to understand things and dealing with other people such as parents, friends
-- You should know your responsibilites in your life, your goal always
-- Improve your confidence, appearances, way of talking(please do online search for help)
-- Come out of the loop that someone will help you/someone is there for you to help always.
-- Self control such as your thoughts, actions, mind and body through yoga and meditation or physical activities
-
-## Mental and Physical Health
-
 ### Mental Health
 - You should learn to keep good mental health
 - Please do yoga and meditation for at-least 30 mintues a day, 20 minutes for yoga and 10 minutes for meditation
@@ -630,93 +624,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
   
-## Studying in abroad
-- Doing higher studies in abroad does not bring too much into your life, if you have more responsibilities in your life/ have an idea to do your own business
-- I would not recommend anyone to go and study higher education in any developed countries, because it does not bring anything in your life
-- Instead focus on improving your skills and prepare for any government exams for at-least 3-4 years
-- Do not take huge loans and stuck in the endless loop of paying back those loans, it does not really worth
-- The purchasing power of India is/will be similar to other developed countries. So It does not make any sense to go for higher studies
-- There is always discrimination/racisms, so that you can not grow in your professional life nowadays, it is more due to social media.
-- Foreign people do not show the racisms up-front, it will be showed in-directly via not giving promotion/hike
-- Trust me, most of the Indians living in developed countries came in early 2000s and 2010s
-- For your future sake and parents sake, stay away from higher education.
-- If you get the chance for Job directly from foreign companies, take it. do not go for studies
-
-### How to keep your study environment
-- Always have a plan for your studies every day 
-- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
-- Do not study in dark room
-- Join study group for preparing for competitive exams on facebook, reddit 
-- get and walk for 5-10 minutes around your room if you feel overwhelmed while studying
-- Always study under proper sun light/big room
-- Always have a good study table and chair for each person like below
-- ![Study table chair](./Study_chair_and_table.png) .
-- Keep your study or personal room clean and tidy, well organised like below
-- ![Study environment_pic](./Study_environment_pic.jpeg) .
-
-### How to study 
-- Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
-- Make a study time table always and subject wise study table(one/one and half hour for each subject)
-- Same for competitive exams based on books/domain/topics
-- Or find the best study time table for yourself if needed according to your efforts
-- Always study next to windows and keep your study table next to windows/ in a open room with good light and visibility. Not in dark room or not next to TV room or TV
-
-### How to study continued
-- Do not memorize anything, understand the concepts and format the concepts in your own words
-- Do not memorize mathematics, mathematics needs to be practice with work sheets
-- Mark/High lights important things in your text books with highlighters
-- Underline important things/sentences/lines in your text books
-- Listen music for better focus while studying if needed on Spotify application (https://open.spotify.com/)
-- https://open.spotify.com/playlist/1ILN6NiSwe9pmz0u7HJ67y?si=c78e2727799346b8
-- You can also listen to music when you are bored/alone
-- You can also listen to English/Hindi Podcast here
-- Buy headsets like below
-- ![Ear_buds pic](Earbuds_pic_optimized.png)
-- Use sticky notes to make a To-do list and important things like below
-- ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
   
-### Health 
-- Drink one glass of water after your tooth brush in the morning
-- Rinse your eyes(Hold the water in your both hands and open your eyes in the water) in the morning and evening everyday
-- 
-### Travelling
-- If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
-- long drive
-- 
-### Cloud 
-- Future is data, you need to know how to store your data on cloud
-- You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
-- You can also use Github for free on phone/laptop to store your work/data, https://github.com/
- * You can use Github in a simple steps, it is very helpful and free tool
- * In Github, create a Repo  and make the Repo private in Visibility
-- Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
-- ![folder_structure](./InkedFolder_structure_LI.jpg) .
-- Like above create a folder your Family/Personal and store the data only related to those folders
-- You can keep all your text books in cloud/Github for free for future purpose
-
-### Planning
-- Always plan in your life for next 5 to 10 years ahead
-
-### Readings
-- Always read book about life/finance/Management/Technology/Education
-- You can save your online books in Github as well
-- You can write everything in your life/your planning for a day in the below applications
-- Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/)
-- Buy used second hand books for free
-- Search online best-seller for each topics
-  
-### Decision Making
-- if you want to make any decision in your life please follow below approach
-- Go out for a walk and free your mind first
-- never ever take any decisions in urgent
-- never ever take any decisions when you are happy/sad
-- while walking think about pros and cons of your decision
-- talk to someone( family member/friends/stranger) about your thoughts process for your decision 
-- write down your thoughts and pros and cons of your decisions process
-- Get more information about your decisions 
-- Do proper research once again
-- revisit your thoughts before finally agreeing with it
-
 ### Skills
 - Only for private jobs
 - Use Udemy https://www.udemy.com/ for learning new skills in your life, you need to pay for it
@@ -751,19 +659,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-## Others
-
-### For boys and Gents
-- Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
-- How to overcome porn addiction -- https://www.wikihow.com/Deal-With-Porn-Addiction
-- Instead do physical activities such as Workout at home or go to gym, Yoga and meditation, Jogging and sports such as Badmiton, cricket, football
-- Read Journals and became a part of NGOs
-
-### Behaviour with girls and women
-- learn to respect girls and women
-- Many indians need to come out of the mindsets that women are for bad things
-- Clear bad thoughts about women in your mind
-  
+## Others  
 ### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
@@ -793,7 +689,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
  * You can use Github in a simple steps, it is very helpful and free tool
  * In Github, create a Repo  and make the Repo private in Visibility
 - Always create a folder for each topic in your cloud and store the data under that folder, see below for an example
-- <img width="593" alt="Folder_structure" src="https://github.com/mariya12290/Guidance_/assets/64356491/8b6b6478-4068-4d99-92d1-c4abc04c17ad">
+- ![folder_structure](./InkedFolder_structure_LI.jpg) 
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
@@ -841,6 +737,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please teach your kids to know the value of honesty, trust
 - Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
 
+### For boys and Gents for above 15 years old
+- Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
+- How to overcome porn addiction -- https://www.wikihow.com/Deal-With-Porn-Addiction
+- Instead do physical activities such as Workout at home or go to gym, Yoga and meditation, Jogging and sports such as Badmiton, cricket, football
+- Read Journals and became a part of NGOs
+
+### Behaviour with girls and women for above 15 years old
+- learn to respect girls and women
+- Many indians need to come out of the mindsets that women are for bad things
+- Clear bad thoughts about women in your mind
 ## Business
 - Do your own research on this topic
   
