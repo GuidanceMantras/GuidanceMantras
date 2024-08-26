@@ -8,3 +8,4 @@
 - https://cadetsdefenceacademy.com/last-30-days-strategy-for-nda-1-2024/
 - https://testbook.com/upsc-nda/preparation-tips
 - Google "NDA exam preparation"
+- Do not buy any course, rather buy books and watch vidoes on youtube
