@@ -456,6 +456,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Bachelor of Engineering / Bachelor of Technology - B.E./B.Tech.
 - Bachelor of Computer Application (BCA)
 - M.B.B.S(Doctor) -----> Need Good rank in KCET/NEET
+- B.D.S (Bachelor of Dental Science)
+- Eye doctor, Ayurvedic doctor, homeopathy, speech and hearing,
+- Defense Academy degrees through NDA
 
 ### After Degree 
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
@@ -484,6 +487,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - So Tina Dabi studied only political science to clear IAS exam at 21 years old. She was not bright students, but intelligent and clever students. Anyway, her parents are Indian officers and her parents knew what to do and what to study for government exams.
 - If you are aiming for government exams, always make a plan and go for it, you get success. You can not follow Tina Dabi blindly. you need proper plan and execution
 - If you are aiming for government jobs, always start preparing from 18 years old after PUC, so that you can have a good government job by 24-25 years old
+- If you are preparing for government exams, find free coaching providers/financial supporters in and around your cities on internet
   
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
