@@ -438,7 +438,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
 - Another option is Diploma in Engineering, then take Diploma in Computer Science/Electronics/Electrical/Civil
-- For Medical and Engineering degree, you need to take CET coaching so that you might can try for better ranking.
+- For Medical(NEET) and Engineering degree(CET), you need to take CET/NEET coaching so that you might can try for better ranking.
 
 ### After PUC
 - Bachelor of Science - B.Sc.
@@ -464,10 +464,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
 - You can also do/get some coaching/certificates to get jobs in Engineering sector after your B.Tech.
 - You can join a private company and prepare for government jobs, while working as a teacher/contractual government jobs/group C/Group D government jobs
-
+  
 #### The main purpose of doing Post-graduate is to prepare for government exams during Master studies, so that you will get money from Government as a stipend and you will have more time to prepare for good government/private jobs
+#### In somecase, people want to become a lecture/professor, teacher, so for most reputed universities and institute, Post Graduate is required
 
-- Master of Science Agriculture - B.Sc.AG
+- Master of Science Agriculture - M.Sc.AG
 - Master of Arts - M.A.
 - Master of Commerce - M.Com.
 - Master of Dental Surgery - M.D.S.
@@ -476,6 +477,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Master of Science - M.Sc.
 - Master of Veterinary Science - M.V.Sc.
 - Master of computer application(MCA)
+- Doctor of Medicine (M.D)
+- 
+
+### After UnderGraduate
+- Ph.D
 
 ### Effective Use of Government schemes and Services
 - One should know how to use government schemes such as loans, reservation, subsidy, scholarships
