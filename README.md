@@ -468,7 +468,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
 - First focus should be on Government jobs in Life
-- Need to give at-least 2-3 years after your graduation for preparation to get any Government jobs.
+- Need to give at-least 2-3 years or maximum 4 years after your graduation for preparation to get any Government jobs.
 - One can start preparing for government exams after 3rd/4th year of Engineering degree/ or 2/3rd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
@@ -531,7 +531,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in civil degree(100%)
 - AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in Mechanical degree(100%)
 - Teacher/Lecture (called once in 5 years for minimum 3000 positions)
-  
+ Medical officer (M.B.B.S degree holder)
 - In total, you can write at-least 10 different exams in 5 years for 20,000 positions
 
 ### Generic government exams in central government for any degree
