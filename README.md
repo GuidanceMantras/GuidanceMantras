@@ -265,7 +265,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Physical Health
 - Always eat fruits, vegetables instead of junk food
 - Do physical activites everyday for at-least 1 hour such as walking, jogging, playing sports, going to gym or work-outs at home
-- you can do work-outs at home with simple tools like below picture
+- you can do work-outs at home with simple tools like below picture. dumbbells and yoga carpet
 - ![dumbbells_carpet_1](./dumbbells_carpet_1.jpg)
   
 ### Mental Health
@@ -291,7 +291,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1/2 hours
 - Do yoga and meditation in the evening
 - Do not use phone one hour before going to sleep
-- use noise cancelling headphone to avoid disturbance at night like below
+- use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
+- ![Ear_buds pic](Earbuds_pic_optimized.png)
    
 ## Kids
 
@@ -370,7 +371,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - https://open.spotify.com/playlist/1ILN6NiSwe9pmz0u7HJ67y?si=c78e2727799346b8
 - You can also listen to music when you are bored/alone
 - You can also listen to English/Hindi Podcast here
-- Buy headsets like below
+- Buy headsets like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 - Use sticky notes to make a To-do list and important things like below
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
