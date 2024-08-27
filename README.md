@@ -101,6 +101,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - First know the world and how it works
 - One should know how to use mobile phones and different applications
 - One should know how to use laptop, if possible, have at-least one laptop at home
+- If laptop is not possible, have a tab at-least like this one https://www.amazon.in/dp/B096SB842B?psc=1&ref_=cm_sw_r_apin_ct_H8SBRVBX6PX85FW5P1KB&language=en_US
 - One should know the useful legal laws such as criminal law/labour law/business law and civil law
 - One should know how to drive Bike/Car, have driving license
 - Learn to speak slowly
@@ -108,7 +109,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Education does not teach everything in life
 - As many indians always think that grass is greener on the other side, that is not true
 - Each person has its own life and individuality always
-
+- Keep in mind, younger generation will have the advantages in their life always as compared to you
+- Kids born in 2000s have more advantages than kids born in 1990s in terms of money, life, technology, information, education
+  
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
 - One should know how to use Youtube and google to gain knowledge and usefule information
@@ -297,7 +300,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 -
 -
 -
--
+- Kids follow what others do and say, so do good things to make kids to follow
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
 - Be a part of kids, when they are studying at home at-least until 12/13 years
@@ -318,7 +321,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please teach your kids how to track expenses in their life
 - Never ever buy/give everything for your kids, so that you should make them to learn/know the importance of being not having something/everything in their life.
 - One can earn money at any age, but not health, education or relationships
-- Learn what is inflation?
+- Learn what is inflation and how it affects your life and savings?
 - Learn about Capitalism and investment
 - How money works
 - What is economy?
@@ -335,7 +338,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Check your bank statements or any other applications every week
 
 ### Investment
-
+- Passive income
+  
 ## Study
 
 ### How to keep your study environment
@@ -598,9 +602,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - National Testing Agency (NTA)
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
 - IBPS exams https://www.ibps.in/
-- 
-
-
+  
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
@@ -634,6 +636,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
+- You do not need to worry about all the technologies and also how they work and how developed them. Just learn how to use them
 
 ### Programming
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
