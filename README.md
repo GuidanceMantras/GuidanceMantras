@@ -132,6 +132,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not be bother/worried about news, basically stop watching news until you are 25 years old and even after if possible
 - Not all people are good on earth, similarly, not all people are bad.
 - World is not fair for everyone, it does not mean that world will be bad for you. Always try for better in life irrespective of anything
+- Never ever put legs on two boats in life or in profession
   
 ### Family
 - Family is everything in life such as parents, sisters, brothers
@@ -481,7 +482,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Doctor of Medicine (M.D)
 - 
 
-### After UnderGraduate
+### After PostGraduate
 - Ph.D
 
 ### Effective Use of Government schemes and Services
