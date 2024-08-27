@@ -71,7 +71,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    5. [Private Jobs](#private-jobs)
    6. [Skills](#skills)
 9. [Financial Management](#financial-management)
-    6. [Investment](#investment)
+   1. [Investment](#investment)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -217,7 +217,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
 - Patience helps to navigate difficult situations in life and dealing with other people in life
-  
+
+### Critical-Analytical-logical-thinking and reasoning
+- Learn/teach yourself/your kids to develop critical thinking, so that life become easier
+
+   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
@@ -279,6 +283,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
 
+### Sleeping problems and solutions
+- Nearly 80% of adults/kids have sleeping problems
+- Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1/2 hours
+- Do yoga and meditation in the evening
+- Do not use phone one hour before going to sleep
+- use noise cancelling headphone to avoid disturbance at night like below
+   
 ## Kids
 
 ### How to raise Kids
@@ -322,7 +333,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep all the spending and earning bills for at-least 2 years
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
-  
+
+### Investment
 
 ## Study
 
@@ -462,7 +474,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
   
 ### Education for Government jobs 
--
+- If you are aiming for government jobs, always take dummy 3 years degree such as B.A, B.com, B.Sc general
+- Best example is Tina Dabi https://en.wikipedia.org/wiki/Tina_Dabi, she took Arts(Political science) in PUC and B.A. in political science and her major in UPSC was Political science.
+- So Tina Dabi studied only political science to clear IAS exam at 21 years old. She was not bright students, but intelligent and clever students. Anyway, her parents are Indian officers and her parents knew what to do and what to study for government exams.
+- If you are aiming for government exams, always make a plan and go for it, you get success. You can not follow Tina Dabi blindly. you need proper plan and execution
 
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
