@@ -482,7 +482,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Best example is Tina Dabi https://en.wikipedia.org/wiki/Tina_Dabi, she took Arts(Political science) in PUC and B.A. in political science and her major in UPSC was Political science.
 - So Tina Dabi studied only political science to clear IAS exam at 21 years old. She was not bright students, but intelligent and clever students. Anyway, her parents are Indian officers and her parents knew what to do and what to study for government exams.
 - If you are aiming for government exams, always make a plan and go for it, you get success. You can not follow Tina Dabi blindly. you need proper plan and execution
-
+- If you are aiming for government jobs, always start preparing from 18 years old after PUC, so that you can have a good government job by 24-25 years old
+  
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
