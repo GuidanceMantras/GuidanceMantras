@@ -614,6 +614,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - National Testing Agency (NTA)
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
 - IBPS exams https://www.ibps.in/
+- Competative exam books for Karnataka exams: spardha spoorthi, sparda vijeta and others
+- Search for competative exams books for each jobs online
   
 ### Priavte Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
