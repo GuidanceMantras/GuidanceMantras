@@ -295,7 +295,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not use phone one hour before going to sleep
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
-   
+
+### Health Test
+- Get eye test every year, either free or for paid one
+- Get full blood check up every year,  either free or for paid one
+- Get full body check up every year, either free or for paid one
+  
 ## Kids
 
 ### How to raise Kids
@@ -501,8 +506,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
 - First focus should be on Government jobs in Life
-- Need to give at-least 2-3 years or maximum 4 years after your graduation for preparation to get any Government jobs.
-- One can start preparing for government exams after 3rd/4th year of Engineering degree/ or 2/3rd year of Bsc/Bcom/BA.
+- Need to give at-least 2-3 years or maximum 5 years after your degree to get any Government jobs.
+- One can start preparing for government exams after 3rd year of Engineering degree/ or 2nd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
 
@@ -511,7 +516,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
 - Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
 - Many people in private jobs levae their job to write government jobs and also some people write government jobs while working in private jobs
-- There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 30,000 to 40,000 are serious exam takers(which means only 30%-40% applicants)
+- There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 20,000 to 30,000 are serious exam takers(which means only 20%-30% applicants)
   
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
@@ -520,7 +525,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do search on google like below
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
 "what are the important government exams in india/your state?
-- find a better study partner or s for any government exams
+- find a better study partner/s for any government exams
 - Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
@@ -542,15 +547,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Generic government exams  in state for any degree
 - PDO, VA, EO(Executive officer) (called once in 5 years for minimum 1000 positions)
-- PWD (Public welfare department) (called once in 5 years for minimum 400 positions)
+- PWD (Public welfare department) (called once in 5 years for minimum 500 positions)
 - Police/Fire exams (called once in 5 years for minimum 1000 positions)
 - Revenue/Tax  exams (called once in 5 years for minimum 1000 positions)
-- KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 400 positions)
-- Social welfare department exams (called once in 5 years for minimum 400 positions)
+- KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 500 positions)
+- Social welfare department exams (called once in 5 years for minimum 500 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
-- PSI (Called once in 5 years for minimum 400 positions)
-- Teacher/Lecture (called once in 5 years for minimum 3000 positions)
+- PSI (Called once/twice in 5 years for minimum 500 positions)
+- Teacher/Lecture (called once/twice in 5 years for minimum 3000 positions)
 - Police Constable (called every year for 2,000 positions)
+- RTO(Regional Transport Officer)
+- RI(Revenue Inspector)
+- CTO(Commercial Tax Officer)
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
   
@@ -565,7 +573,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in Mechanical degree(100%)
 - Teacher/Lecture (called once in 5 years for minimum 3000 positions)
  Medical officer (M.B.B.S degree holder)
-- In total, you can write at-least 10 different exams in 5 years for 20,000 positions
+- In total, you can write at-least 10 different exams in 5 years for 30,000 positions
 
 ### Generic government exams in central government for any degree
 - SSC  (called twice/thrice in 5 years for minimum 30,000 positions)
