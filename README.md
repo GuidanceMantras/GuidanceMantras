@@ -447,6 +447,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
+- Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
   
 ### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
