@@ -34,6 +34,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     16. [Decision Making](#decision-making)
     17. [Patience](#patience)
     18. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
+    19. [Build a daily routine](#build-a-daily-routine)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -62,8 +63,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [How to learn english](#how-to-learn-english)
-    5. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
+    4. [Build a daily routine](#build-a-daily-routine)
+    5. [How to learn english](#how-to-learn-english)
+    6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
    1. [Government Jobs](#government-jobs)
    2. [Government Exams](#government-exams)
@@ -227,7 +229,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Critical-Analytical-logical-thinking and reasoning
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
 
-   
+### Build a daily routine
+- 
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
@@ -384,7 +387,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Use sticky notes to make a To-do list and important things like below
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 
-  
+### Build a daily routine
+- 
 ### How to learn english
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
 - Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
