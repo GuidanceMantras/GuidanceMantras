@@ -63,7 +63,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [Build a daily routine](#build-a-daily-routine)
+    4. [Build a daily routine for Exams/Study](#build-a-daily-routine)
     5. [How to learn english](#how-to-learn-english)
     6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
@@ -387,7 +387,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Use sticky notes to make a To-do list and important things like below
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 
-### Build a daily routine
+### Build a daily routine for Exams/Study
 - 
 ### How to learn english
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
