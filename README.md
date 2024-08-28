@@ -136,8 +136,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never ever put legs on two boats in life or in profession
   
 ### Family
-- Family is everything in life such as parents, sisters, brothers
-- Build a bond with everyone
+- Family is everything in life such as parents, sisters, brothers, good relatives
+- Build a bond with everyone as much as possible
   
 ### Friends
 - Always be with good friends
