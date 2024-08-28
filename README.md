@@ -544,7 +544,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ###### Important government exams/Jobs -----> Staff Selection Committee(SSC), (State)PSC, PSI, PDO, FDA/SDA, VA, AE/JE/EE(for Civil/Mechanical/Electrical). AHO(Assistant Horiculture officers), RI(Revenue Inspector), AAO(Assistant Agriculture officer), DRFO(Deputy Range Forest Officer), RFO(Range Forest Officer), RTO(Regional Transport Officer), RBI exams, Railways exams, Post Office Exams, Police Constable(PC)
 
-###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making) departments
+###### If you are well settled family and have proper financial resources, always write the government exams for drawing authority(decision making)/management positions
 
 ### Generic government exams  in state for any degree
 - PDO, VA, EO(Executive officer) (called once in 5 years for minimum 1000 positions)
