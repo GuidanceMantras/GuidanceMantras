@@ -401,6 +401,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Listen to english podcasts on Spotify to improve listening skills. For an example, like this one https://open.spotify.com/show/4NHIIVB3DkjH70yhE3pbcd?si=fcd980155cf047d6
 - Read quora/newspaper to improve reading skills. For an example, like this one https://www.quora.com/
 - Speak in english often at home or at school/college/office/with friends to improve speaking
+- If possible join, english speaking course for 3 months at maximum
   
 ### Improve Speaking and your voice
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
