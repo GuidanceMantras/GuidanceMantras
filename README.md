@@ -39,6 +39,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Mental Health](#mental-health)
     3. [Yoga and meditation](#yoga-and-meditation)
     4. [Sleeping problems and solutions](#sleeping-problems-and-solutions)
+    5. [Health Test](#health-test)
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset 1](#mindset-1)
     2. [Mindset 2](#mindset-2)
