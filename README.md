@@ -95,6 +95,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     13. [Agreements and Contracts](#agreements-and-contracts)
     14. [Cloud Future](#cloud)
     15. [Thoughts and problems](#thoughts-and-problems)
+   
+14. [Business](#business)
 
 ## Life 
 
