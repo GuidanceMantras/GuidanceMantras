@@ -67,13 +67,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [How to learn english](#how-to-learn-english)
     6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
-   1. [Government Jobs](#government-jobs)
-   2. [Government Exams](#government-exams)
-   3. [Benefits of Government jobs](#benefits-of-government-jobs)
-   4. [Website for government jobs](#website-for-government-jobs)
-   5. [Books for Government exams](#books-for-government-exams)
-   6. [Private Jobs](#private-jobs)
-   7. [Skills](#skills)
+   1. [How-to-decide-which-Job-either-Government-or-Private](#how-to-decide-which-job-either-government-or-private)
+   2. [Government Jobs](#government-jobs)
+   3. [Government Exams](#government-exams)
+   4. [Benefits of Government jobs](#benefits-of-government-jobs)
+   5. [Website for government jobs](#website-for-government-jobs)
+   6. [Books for Government exams](#books-for-government-exams)
+   7. [Private Jobs](#private-jobs)
+   8. [Skills](#skills)
 9. [Financial Management](#financial-management)
    1. [Investment](#investment)
 10. [Profession](#profession)
@@ -514,12 +515,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Jobs
 - Try to get any government job either in central or state before 27/28 years old. 
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
-- First focus should be on Government jobs in Life
-- Need to give at-least 2-3 years or maximum 5 years after your degree to get any Government jobs.
+- If you are aiming for government jobs, you need to give at-least 2-3 years or maximum 5 years after your degree to get any Government jobs.
 - One can start preparing for government exams after 3rd year of Engineering degree/ or 2nd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
-
+- For private jobs, you just need good degree and skills along with good communication
+  
+### How-to-decide-which-Job-either-Government-or-Private
+- 
 ### Government Jobs
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
