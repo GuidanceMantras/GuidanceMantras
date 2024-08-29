@@ -63,7 +63,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [Build a daily routine for Exams/Study](#build-a-daily-routine)
+    4. [Build a daily routine for Exams/Study](#build-a-daily-routine-for-exams-/-study)
     5. [How to learn english](#how-to-learn-english)
     6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
@@ -233,7 +233,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
 
 ### Build a daily routine
-- 
+- Wake up at 6🕥
+- Get fresh and drink glass of water
+- Go to work,
+- come back to work and going for jogging /walking/gym
+- Do yoga and meditation at home
+  
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
@@ -354,7 +359,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Investment
 - Passive income
-  
+
+### Money saving tips
+- 
 ## Study
 
 ### How to keep your study environment
@@ -391,7 +398,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 
 ### Build a daily routine for Exams/Study
-- 
+- This is an example plan, so adjust the plan according to your benefits
+- Wake up at 6🕥/6🕡, get fresh, drinke glass of water, clean your room
+- Go for small walk and come back study.
+- Make a study plan for everything
+- Study for 1 hour or 1 and half hour/2 hour, take 5 minutes break
+- Take a power nap in the afternoon for 10/20 minutes
+- Study for 7-8 hours for competative exams daily
+- Go for jogging/guy/walking for outside for one hour
+- Do yoga and meditation for 30 minutes/one hour
+  
 ### How to learn english
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
 - Watch each grammmer topic and spend one week on that grammer topic to improve/gain knowledge about the grammer topic
