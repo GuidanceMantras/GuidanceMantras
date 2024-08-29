@@ -539,8 +539,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - For private jobs, you just need good degree and skills along with good communication
   
 ### How-to-decide-which-Job-either-Government-or-Private
-- if you are not fro Financially well and stable family, one kid go for government and other kid go to private so. 
-- So private kid can support family until other kid get government job
+- if you are not from Financially well and stable family, one kid go for government and other kid go to private so. 
+- So private kid can support family until other kid gets government job
 - if  you are from financially well and stable family, both go for government jobs
 
 ### Government Jobs
@@ -549,6 +549,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
 - Many people in private jobs levae their job to write government jobs and also some people write government jobs while working in private jobs
 - There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 20,000 to 30,000 are serious exam takers(which means only 20%-30% applicants)
+- Trust me government exams are not tough, but competative. Even once 10th/12th failed people clear big UPSC exams with preparation. so you just need mindsets to clear the government exams.
   
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
