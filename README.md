@@ -77,6 +77,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    8. [Skills](#skills)
 9. [Financial Management](#financial-management)
    1. [Investment](#investment)
+   2. [Money saving tips](#money-saving-tips)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
