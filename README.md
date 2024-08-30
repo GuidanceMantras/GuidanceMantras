@@ -119,6 +119,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Each person has its own life and individuality always
 - Keep in mind, younger generation will have the advantages in their life always as compared to you
 - Kids born in 2000s have more advantages than kids born in 1990s in terms of money, life, technology, information, education
+- There will be some turbalence/problems in life, one has to lear how to move on/live with  them
   
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
