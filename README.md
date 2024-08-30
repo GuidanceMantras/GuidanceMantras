@@ -530,25 +530,28 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you are preparing for government exams, find free coaching providers/financial supporters in and around your cities on internet
   
 ## Jobs
-- Try to get any government job either in central or state before 27/28 years old. 
+- Try to get any government job either in central or state before 27/28 years old.
+- If you do not know hindi, you need english to write central government exams
 - For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
 - If you are aiming for government jobs, you need to give at-least 2-3 years or maximum 5 years after your degree to get any Government jobs.
 - One can start preparing for government exams after 3rd year of Engineering degree/ or 2nd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
 - If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
 - For private jobs, you just need good degree and skills along with good communication
-  
+- If you start at 18 year olf for doing preparation to collect informations/books for exams, it takes at-least one year to get everything for government jobs and set your mind for it.
+- 
 ### How-to-decide-which-Job-either-Government-or-Private
 - if you are not from Financially well and stable family, one kid go for government and other kid go to private so. 
 - So private kid can support family until other kid gets government job
 - if  you are from financially well and stable family, both go for government jobs
-
+- Sometimes, both the kids take risk to go for government jobs, even they are not from financially well stable family
+  
 ### Government Jobs
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
-- Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a good job, not after 30 years old.
+- Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a government job, not after 30 years old.
 - Many people in private jobs levae their job to write government jobs and also some people write government jobs while working in private jobs
-- There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 20,000 to 30,000 are serious exam takers(which means only 20%-30% applicants)
+- There is a myth in government exmas, so that many people apply for government exams. Let's say, there are 1,00,000 applications for a job, only 20,000 to 30,000 are serious exam takers(which means only 20%-30% applicants studied well for the exams)
 - Trust me government exams are not tough, but competative. Even once 10th/12th failed people clear big UPSC exams with preparation. so you just need mindsets to clear the government exams.
   
 ### Government Exams
