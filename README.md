@@ -622,7 +622,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after/during 18 years and get all the details about the government jobs
+- Start getting information about government jobs after 18 years old, it takes at-least one year for you to know everything about government jobs
+- Start preparing for government exams after/during 20 years and get all the details about the government jobs
 - Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
@@ -631,7 +632,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after/during 18 years and get all the details about the government jobs
+- Start getting information about government jobs after 18 years old, it takes at-least one year for you to know everything about government jobs
+- Start preparing for government exams after/during 21 years and get all the details about the government jobs
 - Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
@@ -699,7 +701,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
-- You do not need to worry about all the technologies and also how they work and how developed them. Just learn how to use them
+- You do not need to worry about all the technologies and also how they work and who developed them. Just learn how to use them
 
 ### Programming
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
