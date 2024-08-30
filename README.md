@@ -622,7 +622,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to prepare for government jobs with 3 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after/during 20 years and get all the details about the government jobs
+- Start preparing for government exams after/during 18 years and get all the details about the government jobs
 - Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
@@ -631,7 +631,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
-- Start preparing for government exams after/during 21 years and get all the details about the government jobs
+- Start preparing for government exams after/during 18 years and get all the details about the government jobs
 - Plan to attend a 3 months or 6 months or one year coaching near to your place, for an example, Vijayanagara in Bengaluru.
 - You can take online coaching class on Phsyicswallah https://www.pw.live/, Unacademy https://unacademy.com/ and so on
 - After coaching, start giving exams and simultaneoursly prepare for other exams
