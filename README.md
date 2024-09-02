@@ -523,7 +523,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Reservation of SC/ST,  OBC, EWS(Economic Weaker Section in General Category), Women reservation, Rural and kannada medium quota
   
 ### Education for Government jobs 
-- If you are aiming for government jobs, always take dummy 3 years degree such as B.A, B.com, B.Sc general
+- If you are aiming for government jobs, always take dummy 3 years degree such as B.A, B.com, B.Sc general and score above 65%
 - Best example is Tina Dabi https://en.wikipedia.org/wiki/Tina_Dabi, she took Arts(Political science) in PUC and B.A. in political science and her major in UPSC was Political science.
 - So Tina Dabi studied only political science to clear IAS exam at 21 years old. She was not bright students, but intelligent and clever students. Anyway, her parents are Indian officers and her parents knew what to do and what to study for government exams.
 - If you are aiming for government exams, always make a plan and go for it, you get success. You can not follow Tina Dabi blindly. you need proper plan and execution
