@@ -668,7 +668,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Competative exam books for Karnataka exams: spardha spoorthi, sparda vijeta and others
 - Search for competative exams books for each jobs online
   
-### Priavte Jobs
+### Private Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
@@ -717,7 +717,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-## Others  
+## Others_1
 ### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
@@ -725,7 +725,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Mood swing
 - There is a great pro-verb in English. "Your mood is depending on Weather"
-- Nowadays, your mood is also depending on the people you live/work.
+- Nowadays, your mood is also depending on the people you live/work with. 
 - One should know how to control mood swing in life using Music, Meditation, and doing other activities.
 
 ### Addictions
@@ -751,6 +751,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
+## Others_2
 ### Reading
 - Always read book about life/finance/Management/Technology/Education
 - You can save your online books in Github as well
@@ -805,6 +806,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - learn to respect girls and women
 - Many indians need to come out of the mindsets that women are for bad things
 - Clear bad thoughts about women in your mind
+  
 ## Business
 - Do your own research on this topic
   
