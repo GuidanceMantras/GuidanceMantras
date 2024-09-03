@@ -103,7 +103,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Life 
 
 ### Life 1
-- Life is not too short, You will have until 60/70 years.
+- Life is not too short, You will have life until 70/80 years, sometimes until 90 years.
 - Always learn from other people
 - Always learn from your mistakes
 - First know the world and how it works
@@ -266,9 +266,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Self-management, self-control, self-love defines your personalities and character when nobody is there to watch/look-out in your life.
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
 - Do not carry over ego or fight with anyone
-
+- Never be in a slave mentality
+  
 ### Behaviour
-
+- Less talk, more listen
+- Less talk leads to more thinking and good decision making
+  
 ### Patterns and Psychology
 - Patterns defines the your cyclic behavior based on your actions, let's say you drink water everyday in empty stomach, this is a patterns of having heath concern. 
 - Patterns basically shows how is your behavior based on your actions, such as doing wrong things shows pattern of not trust worthy, lying shows pattern of dishonesty. 
