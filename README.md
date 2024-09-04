@@ -668,7 +668,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - IBPS exams https://www.ibps.in/
 - SEBI https://www.sebi.gov.in/department/human-resources-department-37/overview.html
 - RBI https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
-  
+- NADARD - https://www.nabard.org/careers-notices1.aspx?cid=693&id=26
+- LIC careers https://licindia.in/careers
+- CTET https://ctet.nic.in/
+- CBSE - https://www.cbse.gov.in/cbsenew/recruitment.html
+- 
   
 ### Books for Government exams
 - Competative exam books for Karnataka exams: spardha spoorthi, sparda vijeta and others
