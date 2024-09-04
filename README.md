@@ -632,6 +632,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
+- You need to prepare every day for the exams until you get one job
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
@@ -642,7 +643,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
-  
+- You need to prepare every day for the exams until you get one job
+
 ### Benefits of Government jobs
 - Job security, first and foremost in life
 - You can work for the betterment of society
