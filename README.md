@@ -661,12 +661,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Central government jobs website: SSC website( https://ssc.nic.in/),  and UPSC website (https://upsc.gov.in/)
 - Karnatak Government Jobs : KPSC website (https://kpsc.kar.nic.in/) and KEA website (https://cetonline.karnataka.gov.in/kea/), https://www.karnatakacareers.in/karnataka-govt-jobs/, Police https://ksp.karnataka.gov.in/info-3/Recruitment/en
 - Here https://allgovernmentjobs.in/ search for each state govenrment jobs and also including Across India
-- Indian Railway Recrutiment Board (RRB) exams in India : https://www.pw.live/exams/railway/
-- Indian Post exams
-- National Testing Agency (NTA)
+- Indian Railway Recrutiment Board (RRB) exams in India : "On google type" RRB exams
+- Indian Post exams https://www.indiapost.gov.in/VAS/Pages/Content/Recruitments.aspx?Category=Recruitment
+- National Testing Agency (NTA) https://www.nta.ac.in/
 - Defense exams in India https://byjusexamprep.com/defence/defence-exams-in-india
 - IBPS exams https://www.ibps.in/
-
+- SEBI https://www.sebi.gov.in/department/human-resources-department-37/overview.html
+- RBI https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
+  
+  
 ### Books for Government exams
 - Competative exam books for Karnataka exams: spardha spoorthi, sparda vijeta and others
 - Search for competative exams books for each jobs online
