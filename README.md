@@ -110,6 +110,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - First know the world and how it works
 - One should know how to use mobile phones and different applications
 - One should know how to use laptop, if possible, have at-least one laptop at home
+- Google Laptop under "30,000 rs" or check with nearest good laptop dealers
 - If laptop is not possible, have a tab at-least like this one https://www.amazon.in/dp/B096SB842B?psc=1&ref_=cm_sw_r_apin_ct_H8SBRVBX6PX85FW5P1KB&language=en_US
 - One should know the useful legal laws such as criminal law/labour law/business law and civil law
 - One should know how to drive Bike/Car, have driving license
@@ -124,7 +125,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
-- One should know how to use Youtube and google to gain knowledge and usefule information
+- One should know how to use Youtube and Google to gain knowledge and usefule information
 - Do not get into any business/things without having a basic knowlegde
 - Mind your business in life
 - Always listen when experieced/ elder people are telling something good
@@ -134,7 +135,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
 - Read/listen to Bhagavad gita, which teaches about process
-- Learn to Adapt, ignore, listen, control youself, compromise, 
+- Learn to Adapt, ignore, listen, control youself, compromise
 - Have a mentor in life and for your kids always
 - No body knows everything in life, so people learn as they grow
 - Do not try to experiece/have everything in life, it is better not to experience/have some things in life
@@ -371,6 +372,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Loans
 - Will be added later
+
+  
 ## Study
 
 ### How to keep your study environment
