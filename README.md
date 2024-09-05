@@ -78,6 +78,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Investment](#investment)
    2. [Money saving tips](#money-saving-tips)
+   3. [Loans](#loans)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -99,7 +100,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     15. [Thoughts and problems](#thoughts-and-problems)
    
 14. [Business](#business)
-
+    1. [Business_stratergy](#business-stratergy)
 ## Life 
 
 ### Life 1
@@ -366,7 +367,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Passive income
 
 ### Money saving tips
-- 
+- Will be added later
+
+### Loans
+- Will be added later
 ## Study
 
 ### How to keep your study environment
@@ -821,6 +825,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ## Business
 - Do your own research on this topic
-  
+
+### Business_stratergy
+- Dynamic pricing
+- Offering different plans for an exmple, 2 months, 3 months plan
+- 
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
