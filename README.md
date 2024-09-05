@@ -378,9 +378,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### How to keep your study environment
 - Always have a plan for your studies every day 
-- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
+- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house/outside your house
 - Do not study in dark room
-- Join study group for preparing for competitive exams on facebook, reddit 
+- Join study group for preparing for competitive exams on facebook, reddit, whatsapp
 - get and walk for 5-10 minutes around your room if you feel overwhelmed while studying
 - Always study under proper sun light/big room
 - Always have a good study table and chair for each person like below
