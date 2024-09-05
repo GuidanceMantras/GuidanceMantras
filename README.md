@@ -326,7 +326,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - 
 -
 -
--
+- Each kid should have his/her own room after 14 years old/9th standard
 - Kids follow what others do and say, so do good things to make kids to follow
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
@@ -408,6 +408,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 - Use sticky notes to make a To-do list and important things like below
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
+- 
 
 ### Build a daily routine for Exams/Study
 - This is an example plan, so adjust the plan according to your benefits
