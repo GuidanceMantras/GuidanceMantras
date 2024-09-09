@@ -220,12 +220,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Go out for a walk and free your mind first
 - never ever take any decisions in urgent
 - never ever take any decisions when you are happy/sad
-- while walking think about pros and cons of your decision
+- while walking think about pros and cons of your decision and write them down in mobile/sticky notes
 - talk to someone( family member/friends/stranger) about your thoughts process for your decision 
 - write down your thoughts and pros and cons of your decisions process
 - Get more information about your decisions 
 - Do proper research once again
-- Do not consider grass is greener on other side always
+- Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 
 ### Patience
