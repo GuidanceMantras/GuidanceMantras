@@ -54,7 +54,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 6. [Kids](#kids)
    1. [Activities for kids/adults](#activities-for-kids-/-adults)
 6. [Education](#education)
-    1. [Free Education](#free_education)
+    1. [Free Education](#free-education)
     2. [After 10th](#after-10th)
     3. [After PUC](#after-puc)
     4. [After Degree](#after-degree)
@@ -482,7 +482,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
 
 ### Free Education
-- https://aissee.nta.nic.in/
+- Always try to get good education with low cost through NGOs, Religious schools such as BGS schools and so on
+- Try to find cheap and good schools, colleges and universities
+- Give exams to free schools/colleges/universities like below
+- Sainik Schools Society https://aissee.nta.nic.in/ from 5th standard
+- Navodaya from 5th standard
+- Private/state funded exams for free education
+  
 ### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
