@@ -574,19 +574,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
 "what are the important government exams in india/your state?
 - find a better study partner/s for any government exams
-- Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
+- Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. 
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
 - https://medium.com/@crazyboysonushri/how-to-find-a-government-job-in-india-8b6ef5054f3c
 - You just need Bachelor Degree to give any government exams in India/any State
 - First Get any Grade C/D jobs and focus on Grade A/B jobs in government. https://www.sarkarinaukriblog.com/2019/04/sarkari-naukri-employee-types.html#Group-D
 - Always get coaching for any government jobs at-least 6 months/one year full-time/part-time(during the degree/after degree) and then preapre for the exams for yourself
-- Getting coaching for exams gives you a better understanding of exams preparation and exams structure
+- Getting coaching for exams gives you a better understanding of exams preparation and exams structure/patterns
 - If your main focus is governement jobs, please take simple degree/master degree and prepare for government exams
 - You need to take care of your financial things while preparing for government exams, so I recommend to have a simple job(either in private/governent) while preparing for government exams,if you have financial issues
 - You also need soft skills for government jobs https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - Be with people who are preparing for government exams
-- talk to people who cleared government exams as well
+- talk to people who cleared government exams as well recently
 - if you think, government jobs are not meant for you, then focus on private jobs primarily 
 
 ###### Important government exams/Jobs -----> Staff Selection Committee(SSC), (State)PSC, PSI, PDO, FDA/SDA, VA, AE/JE/EE(for Civil/Mechanical/Electrical). AHO(Assistant Horiculture officers), RI(Revenue Inspector), AAO(Assistant Agriculture officer), DRFO(Deputy Range Forest Officer), RFO(Range Forest Officer), RTO(Regional Transport Officer), RBI exams, Railways exams, Post Office Exams, Police Constable(PC)
