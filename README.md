@@ -54,11 +54,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 6. [Kids](#kids)
    1. [Activities for kids/adults](#activities-for-kids-/-adults)
 6. [Education](#education)
-    1. [After 10th](#after-10th)
-    2. [After PUC](#after-puc)
-    3. [After Degree](#after-degree)
-    4. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
-    5. [Education for Government Jobs](#education-for-government-jobs)
+    1. [Free Education](#free_education)
+    2. [After 10th](#after-10th)
+    3. [After PUC](#after-puc)
+    4. [After Degree](#after-degree)
+    5. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
+    6. [Education for Government Jobs](#education-for-government-jobs)
 7. [Study](#study)
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
@@ -479,7 +480,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
 - Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
-  
+
+### Free Education
+- https://aissee.nta.nic.in/
 ### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
 - You can take commerce/Arts only for government jobs
@@ -610,7 +613,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
   
-### Department specific exams in a state with specific degree 
+### Department specific exams in a state with a specific degrees
 - Do not write for department specific exams without having specific degrees in most of the time
 - Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree)
 - Forest officer (called once in 5 years for minimum 400 positions with B.Sc Forestry degree)
