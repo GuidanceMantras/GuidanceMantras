@@ -421,6 +421,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Study for 7-8 hours for competative exams daily
 - Go for jogging/guy/walking for outside for one hour
 - Do yoga and meditation for 30 minutes/one hour
+- My work and study environment is like below:
+- ![Work_environment_stick_notes](Work_environment_stick_notes.png)
   
 ### How to learn english
 - Keep a book and start learning english grammer for 30 minutes each day here on youtube    https://youtube.com/playlist?list=PLxSz4mPLHWDYoqVgOxNqjozVcwW5YLTAH&si=Ykj62gWbdFa1joFH or https://www.youtube.com/@engvidRebecca
