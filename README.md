@@ -54,11 +54,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 6. [Kids](#kids)
    1. [Activities for kids/adults](#activities-for-kids-/-adults)
 6. [Education](#education)
-    1. [After 10th](#after-10th)
-    2. [After PUC](#after-puc)
-    3. [After Degree](#after-degree)
-    4. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
-    5. [Education for Government Jobs](#education-for-government-jobs)
+    1. [Free Education](#free-education)
+    2. [After 10th](#after-10th)
+    3. [After PUC](#after-puc)
+    4. [After Degree](#after-degree)
+    5. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
+    6. [Education for Government Jobs](#education-for-government-jobs)
 7. [Study](#study)
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
@@ -78,6 +79,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Investment](#investment)
    2. [Money saving tips](#money-saving-tips)
+   3. [Loans](#loans)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -99,7 +101,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     15. [Thoughts and problems](#thoughts-and-problems)
    
 14. [Business](#business)
-
+    1. [Business_stratergy](#business-stratergy)
 ## Life 
 
 ### Life 1
@@ -109,6 +111,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - First know the world and how it works
 - One should know how to use mobile phones and different applications
 - One should know how to use laptop, if possible, have at-least one laptop at home
+- Google Laptop under "30,000 rs" or check with nearest good laptop dealers
 - If laptop is not possible, have a tab at-least like this one https://www.amazon.in/dp/B096SB842B?psc=1&ref_=cm_sw_r_apin_ct_H8SBRVBX6PX85FW5P1KB&language=en_US
 - One should know the useful legal laws such as criminal law/labour law/business law and civil law
 - One should know how to drive Bike/Car, have driving license
@@ -123,7 +126,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
-- One should know how to use Youtube and google to gain knowledge and usefule information
+- One should know how to use Youtube and Google to gain knowledge and usefule information
 - Do not get into any business/things without having a basic knowlegde
 - Mind your business in life
 - Always listen when experieced/ elder people are telling something good
@@ -133,7 +136,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be aware of provokers in life
 - Be aware that if something goes wrong in life, it would be very difficult to fix/get back to post incident. Therefore, be careful about your actions and decision in your life always.
 - Read/listen to Bhagavad gita, which teaches about process
-- Learn to Adapt, ignore, listen, control youself, compromise, 
+- Learn to Adapt, ignore, listen, control youself, compromise
 - Have a mentor in life and for your kids always
 - No body knows everything in life, so people learn as they grow
 - Do not try to experiece/have everything in life, it is better not to experience/have some things in life
@@ -218,12 +221,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Go out for a walk and free your mind first
 - never ever take any decisions in urgent
 - never ever take any decisions when you are happy/sad
-- while walking think about pros and cons of your decision
+- while walking think about pros and cons of your decision and write them down in mobile/sticky notes
 - talk to someone( family member/friends/stranger) about your thoughts process for your decision 
 - write down your thoughts and pros and cons of your decisions process
 - Get more information about your decisions 
 - Do proper research once again
-- Do not consider grass is greener on other side always
+- Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 
 ### Patience
@@ -324,7 +327,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - 
 -
 -
--
+- Each kid should have his/her own room after 14 years old/9th standard
 - Kids follow what others do and say, so do good things to make kids to follow
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
@@ -366,14 +369,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Passive income
 
 ### Money saving tips
-- 
+- Will be added later
+
+### Loans
+- Will be added later
+
+  
 ## Study
 
 ### How to keep your study environment
 - Always have a plan for your studies every day 
-- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house
+- Always study for one/ one and half hour and take 10 minutes break/ go for a small walk outside/on top of your house/outside your house
 - Do not study in dark room
-- Join study group for preparing for competitive exams on facebook, reddit 
+- Join study group for preparing for competitive exams on facebook, reddit, whatsapp
 - get and walk for 5-10 minutes around your room if you feel overwhelmed while studying
 - Always study under proper sun light/big room
 - Always have a good study table and chair for each person like below
@@ -401,6 +409,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 - Use sticky notes to make a To-do list and important things like below
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
+- 
 
 ### Build a daily routine for Exams/Study
 - This is an example plan, so adjust the plan according to your benefits
@@ -471,6 +480,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
 - Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
+
+### Free Education
+- Always try to get good education with low cost through NGOs, Religious schools such as BGS schools and so on
+- Try to find cheap and good schools, colleges and universities
+- Give exams to free schools/colleges/universities like below
+- Sainik Schools Society https://aissee.nta.nic.in/ from 5th standard
+- Navodaya from 5th standard
+- Private/state funded exams for free education
   
 ### After 10th
 - If you are confident enough to clear Science, then take PCMB for Medicine/Engineering, PCMC only for engineering/BBA/BCA
@@ -566,19 +583,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
 "what are the important government exams in india/your state?
 - find a better study partner/s for any government exams
-- Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. Government job is always government job
+- Do not fall for the easy traps that your friend/neighbour/relative is already working and making money in private jobs. 
 - Please give first and formost priority to government jobs in your life. 
 - Please read below website to know about how to prepare for government exams
 - https://medium.com/@crazyboysonushri/how-to-find-a-government-job-in-india-8b6ef5054f3c
 - You just need Bachelor Degree to give any government exams in India/any State
 - First Get any Grade C/D jobs and focus on Grade A/B jobs in government. https://www.sarkarinaukriblog.com/2019/04/sarkari-naukri-employee-types.html#Group-D
 - Always get coaching for any government jobs at-least 6 months/one year full-time/part-time(during the degree/after degree) and then preapre for the exams for yourself
-- Getting coaching for exams gives you a better understanding of exams preparation and exams structure
+- Getting coaching for exams gives you a better understanding of exams preparation and exams structure/patterns
 - If your main focus is governement jobs, please take simple degree/master degree and prepare for government exams
 - You need to take care of your financial things while preparing for government exams, so I recommend to have a simple job(either in private/governent) while preparing for government exams,if you have financial issues
 - You also need soft skills for government jobs https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - Be with people who are preparing for government exams
-- talk to people who cleared government exams as well
+- talk to people who cleared government exams as well recently
 - if you think, government jobs are not meant for you, then focus on private jobs primarily 
 
 ###### Important government exams/Jobs -----> Staff Selection Committee(SSC), (State)PSC, PSI, PDO, FDA/SDA, VA, AE/JE/EE(for Civil/Mechanical/Electrical). AHO(Assistant Horiculture officers), RI(Revenue Inspector), AAO(Assistant Agriculture officer), DRFO(Deputy Range Forest Officer), RFO(Range Forest Officer), RTO(Regional Transport Officer), RBI exams, Railways exams, Post Office Exams, Police Constable(PC)
@@ -602,7 +619,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
   
-### Department specific exams in a state with specific degree 
+### Department specific exams in a state with a specific degrees
 - Do not write for department specific exams without having specific degrees in most of the time
 - Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree)
 - Forest officer (called once in 5 years for minimum 400 positions with B.Sc Forestry degree)
@@ -632,6 +649,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
+- You need to prepare every day for the exams until you get one job
   
 ### How to preapre for government jobs with 4 years degree
 - Without patience and tolerance, you can not clear any government exams
@@ -642,7 +660,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - After coaching, start giving exams and simultaneoursly prepare for other exams
 - First and fore most thing is to get any government job(which gives to safety in your life) and focus on higher level government exams
 - After getting first government job, you can still prepare for other government jobs if needed
-  
+- You need to prepare every day for the exams until you get one job
+
 ### Benefits of Government jobs
 - Job security, first and foremost in life
 - You can work for the betterment of society
@@ -668,7 +687,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - IBPS exams https://www.ibps.in/
 - SEBI https://www.sebi.gov.in/department/human-resources-department-37/overview.html
 - RBI https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
-  
+- NADARD - https://www.nabard.org/careers-notices1.aspx?cid=693&id=26
+- LIC careers https://licindia.in/careers
+- CTET https://ctet.nic.in/
+- CBSE - https://www.cbse.gov.in/cbsenew/recruitment.html
+- 
   
 ### Books for Government exams
 - Competative exam books for Karnataka exams: spardha spoorthi, sparda vijeta and others
@@ -815,6 +838,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ## Business
 - Do your own research on this topic
-  
+
+### Business_stratergy
+- Dynamic pricing
+- Offering different plans for an exmple, 2 months, 3 months plan
+- 
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
