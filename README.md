@@ -35,6 +35,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     17. [Patience](#patience)
     18. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
     19. [Build a daily routine](#build-a-daily-routine)
+    20. [Internet](#internet)
+    21. [Documentation](#documentation)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -238,11 +240,17 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
 
 ### Build a daily routine
-- Wake up at 6🕥
+- Wake up at 6:00/6:30
 - Get fresh and drink glass of water
 - Go to work,
 - come back to work and going for jogging /walking/gym
 - Do yoga and meditation at home
+
+### Internet
+- Know what is internet and it advantages in life
+
+### Documentation
+- Learn the importance of documentation in life
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
