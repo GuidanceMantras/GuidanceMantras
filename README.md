@@ -811,6 +811,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - For your future sake and parents sake, stay away from higher education.
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
 - Indians always think that grass is greener on the other side
+- You will have a language problem in EU countries. Difficult to grow and also you will have bad social life.
 
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
