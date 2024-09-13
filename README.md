@@ -37,6 +37,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     19. [Build a daily routine](#build-a-daily-routine)
     20. [Internet](#internet)
     21. [Documentation](#documentation)
+    22. [Self Management](#self-management)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -341,6 +342,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
 - Be a part of kids, when they are studying at home at-least until 12/13 years
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
+- Train kids for each and everything things in life such as,
+      * Exam,
+      * Study
+      * Competative exams
+      * Mentality
+      * Money management
+      * Angry Management
+      * Behaviour
+      * Personality
+      * Speaking
+      * Patience
+      * Education
+      * So on
 
 ### Activities for kids/adults
 - Music class, dance class, drawing
