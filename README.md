@@ -1,7 +1,7 @@
 # Guidance_Mantras
 A simple page for providing a guidance for all parents, kids and adults in India
 
-# Please read this webpage before taking any decisions in your life
+# Please read this webpage before taking any decisions in your life. This is my sincere request to everyone to spend 30 minutes. 
 
 A simple repo for providing guidances for all the kids, adults and parents in India
 
