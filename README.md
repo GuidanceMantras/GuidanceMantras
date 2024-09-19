@@ -742,7 +742,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Only for private jobs
 - Use Udemy https://www.udemy.com/ for learning new skills in your life, you need to pay for it
 - You can also bookmark all the important web pages on google chrome including this page! like below
-  ![chrome_bookmark](Chrome_bookmark.PNG]
+  ![Google_BookMark](Google_BookMark.png]
 
 ## Profession
 - Everybody wants to save their ass and life, so be careful while dealing with people
