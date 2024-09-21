@@ -13,34 +13,40 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
 ###### I will update this web page whenever I have new information/missing content is found and content is outdated. The content will also be optimized topic wise.
 
+### When my father used to say all these things, I used to call my father mad. Now I relaize the importance of his works everyday. Therefore, never ever neglect elders suggestions and thoughts
+
 # Table of Content 
 ###### (Click on the blue color, which takes you the topic information)
 1.  [Life](#life)
     1. [Life 1](#life-1)
     2. [Life 2](#life-2)
-    3. [Family](#family)
-    4. [Friends](#friends)
-    5. [Social life](#social-life)
-    6. [Discipline and Persistance](#discipline-and-persistance)
-    7. [Social Media](#social-media)
-    8. [Environment](#environment)
-    9. [Minimalistic](#minimalistic)
-    10. [Planning](#planning)
-    11. [Networking](#networking)
-    12. [Do It Yourself](#do-it-yourself)
-    13. [Chain of effects in life](#chain-of-effects-in-life)
-    14. [Responsibilities](#responsibilities)
-    15. [Problems](#problems)
-    16. [Decision Making](#decision-making)
-    17. [Patience](#patience)
-    18. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
-    19. [Build a daily routine](#build-a-daily-routine)
-    20. [Internet](#internet)
-    21. [Documentation](#documentation)
-    22. [Self Management](#self-management)
-    23. [Build Good habits](#build-googd-habits)
-    24. [Fitness](#fitness)
-    25. [Spirituality](#spirituality)
+    3. [Life_3(#life-3)
+    4. [Family](#family)
+    5. [Friends](#friends)
+    6. [Social life](#social-life)
+    7. [Discipline and Persistance](#discipline-and-persistance)
+    8. [Social Media](#social-media)
+    9. [Environment](#environment)
+    10. [Minimalistic](#minimalistic)
+    11. [Planning](#planning)
+    12. [Networking](#networking)
+    13. [Do It Yourself](#do-it-yourself)
+    14. [Chain of effects in life](#chain-of-effects-in-life)
+    15. [Responsibilities](#responsibilities)
+    16. [Problems](#problems)
+    17. [Decision Making](#decision-making)
+    18. [Patience](#patience)
+    19. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
+    20. [Build a daily routine](#build-a-daily-routine)
+    21. [Internet](#internet)
+    22. [Documentation](#documentation)
+    23. [Self Management](#self-management)
+    24. [Build Good habits](#build-googd-habits)
+    25. [Fitness](#fitness)
+    26. [Spirituality](#spirituality)
+    27. [Open-communications](#open-communications)
+    28. [Problem-solving](#problem-solving)
+    29. [Habits](#habits)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -150,7 +156,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Not all people are good on earth, similarly, not all people are bad.
 - World is not fair for everyone, it does not mean that world will be bad for you. Always try for better in life irrespective of anything
 - Never ever put legs on two boats in life or in profession
-  
+
+### Life-3
+- Understandt what the life is first, before begin
+- 
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
 - Build a bond with everyone as much as possible
