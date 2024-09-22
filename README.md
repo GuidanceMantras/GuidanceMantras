@@ -601,7 +601,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - if you are not from Financially well and stable family, one kid go for government and other kid go to private so. 
 - So private kid can support family until other kid gets government job
 - if  you are from financially well and stable family, both go for government jobs
-- Sometimes, both the kids take risk to go for government jobs, even they are not from financially well stable family
+- Sometimes, both the kids take risk to go for government jobs, even they are not from financially well stable family. I would never recommend it
   
 ### Government Jobs
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
