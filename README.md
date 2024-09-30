@@ -20,7 +20,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 1.  [Life](#life)
     1. [Life 1](#life-1)
     2. [Life 2](#life-2)
-    3. [Life_3(#life-3)
+    3. [Life_3](#life-3)
     4. [Family](#family)
     5. [Friends](#friends)
     6. [Social life](#social-life)
@@ -41,12 +41,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     21. [Internet](#internet)
     22. [Documentation](#documentation)
     23. [Self Management](#self-management)
-    24. [Build Good habits](#build-googd-habits)
+    24. [Build Good Habits](#build-good-habits)
     25. [Fitness](#fitness)
     26. [Spirituality](#spirituality)
     27. [Open-communications](#open-communications)
     28. [Problem-solving](#problem-solving)
     29. [Habits](#habits)
+    30. [Knowledge Sharing](#knowldge-sharing)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -158,8 +159,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never ever put legs on two boats in life or in profession
 
 ### Life-3
-- Understandt what the life is first, before begin
-- 
+- Understand what the life is first, before begin
+- Money only does not bring/give you everything in life
+- Never ever make life complicated, always try to make life easier everyday
+  
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
 - Build a bond with everyone as much as possible
@@ -263,7 +266,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Know what is internet and it advantages in life
 
 ### Documentation
-- Learn the importance of documentation in life
+- Learn the importance of documentation in life such as storing each and every bill you paid upto some time
+- Documenting your learning/knowledge gainings
+- Learn how to keep each and every documents until the end
+
+### Knowledge Sharing
+- Whatever you learn, always build the habits of sharing
+- Always share your knowledge with others such as brothers, sisters, relatives and friends
+- Sometimes, even with strangers
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
