@@ -709,6 +709,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Being with your family always
 - Fame and power, comes with struggles.
 - Do not need to sit infront of laptop whole day
+- Do not need to study everyday, once you get into government jobs, like in private jobs. 
 - Once you enter any government department, no need to write/clearing another exams or give interviews
 - You can not be fired from your job in government sector. In private sector, you will be in constant fear of losing your job each day.
 - You get time to better plan for your kids and family
@@ -742,7 +743,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com/
 - IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
 - Private jobs are good for just 10 years, later that everyday you regret private jobs
-- Please have a account on LinkedIn 
+- Please have a account on LinkedIn
+- Never ever think that you do not need to study in private jobs, you need to keep on updating with new skills each year, otherwise you will loose your job
 - You should know how to search for private jobs in India
   * Visit Individual company websites
   * Search on LinkedIn, Naukri, Indeed and others
