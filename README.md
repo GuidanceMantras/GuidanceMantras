@@ -701,7 +701,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Benefits of Government jobs
 - Job security, first and foremost in life
 - You can work for the betterment of society
-- You are not a slave, even though salary is less
+- You are not a slave, nowadays, salaries are good in government jobs also.
+- Every 5 years, government is coming up with new pay commission, which increases the government jobs salary by 20%-30%.
+- The salary of Assistant engineer in karnataka is 90,000 per month in 2023, which is similar to software engineer with 4 years of experience.
+- The basic salary of Sub inspector in Karnataka is around 80,000 per month in 2023, by the time of retirement, sub-inspector became DCP with a salary of around 4-5 lakhs per month. 
 - Better prepare for higher position while working as a government employee for better pay and Work-life balance
 - Being with your family always
 - Fame and power, comes with struggles.
