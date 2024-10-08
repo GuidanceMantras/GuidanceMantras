@@ -162,7 +162,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Understand what the life is first, before begin
 - Money only does not bring/give you everything in life
 - Never ever make life complicated, always try to make life easier everyday
-  
+- Learn to know what is needed for you and what is not needed for you in life
+- Negative things/people/thoughts/actions attracts more than positive things/people/thoughts/actions, so always move towards positive things is very difficult.
+- One should know that what should be studied for what you want to became in life
+- One should know that What will happen if you do something
+
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
 - Build a bond with everyone as much as possible
