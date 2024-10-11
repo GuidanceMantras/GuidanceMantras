@@ -54,6 +54,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. [Yoga and meditation](#yoga-and-meditation)
     4. [Sleeping problems and solutions](#sleeping-problems-and-solutions)
     5. [Health Test](#health-test)
+    6. [Influencer](#influencer)
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset 1](#mindset-1)
     2. [Mindset 2](#mindset-2)
@@ -355,7 +356,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get eye test every year, either free or for paid one
 - Get full blood check up every year,  either free or for paid one
 - Get full body check up every year, either free or for paid one
-  
+
+### Influencer
+- People will always get influenced by other people
+- People such as our parents, our kids, our friends and our sisters and our bothers 
+- Our relatives will be influenced by influencers for smoking, drinking alcohol,
+- for buying expensive things such as expensive phones, expensive cars, expensive dress and so on
+- 
 ## Kids
 
 ### How to raise Kids
