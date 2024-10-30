@@ -908,6 +908,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### New Place or New Place Of Work
 - When move to any new place for work/life, get to know the place/city first
+- Travel around the city/place and make local friends if possible
+- Look for any whatsapp group/facebook group for community
+- Get to know the transportation in the city
 
 ### For boys and Gents for above 15 years old
 - Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
