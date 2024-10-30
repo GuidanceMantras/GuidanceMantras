@@ -97,7 +97,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
-13. [Others](#others)
+13. [Others_1](#others-1)
     1. [Travelling](#travelling)
     2. [Power of Music](#power-of-music)
     3. [Electronics](#electronics)
@@ -105,16 +105,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Mood swing](#mood-swing)
     6. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
     7. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
-    8. [Studying in abroad](#studying-in-abroad)
-    9. [Reading](#reading)
-    10. [Ethics](#ethics)
-    11. [Electronics](#electronics)
-    12. [Important Applications](#important-applications)
-    13. [Agreements and Contracts](#agreements-and-contracts)
-    14. [Cloud Future](#cloud)
-    15. [Thoughts and problems](#thoughts-and-problems)
+ 14. [Others_2](#others-2)   
+    9. [Studying in abroad](#studying-in-abroad)
+    10. [Reading](#reading)
+    11. [Ethics](#ethics)
+    12. [Electronics](#electronics)
+    13. [Important Applications](#important-applications)
+    14. [Agreements and Contracts](#agreements-and-contracts)
+    15. [Cloud Future](#cloud)
+    16. [Thoughts and problems](#thoughts-and-problems)
+    17. [New Place or New Place Of Work)(#new-place-or-new-place-of-work)
    
-14. [Business](#business)
+15. [Business](#business)
     1. [Business_stratergy](#business-stratergy)
 ## Life 
 
@@ -891,6 +893,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please teach your kids to respect elders
 - Please teach your kids to know the value of honesty, trust
 - Please teach your kids to know the importance of keeping a relationships(either father-son relationships, mother-daughter relationships, business-partner relationships)
+
+### New Place or New Place Of Work
+- When move to any new place for work/life, get to know the place/city first
 
 ### For boys and Gents for above 15 years old
 - Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
