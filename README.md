@@ -137,6 +137,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep in mind, younger generation will have the advantages in their life always as compared to you
 - Kids born in 2000s have more advantages than kids born in 1990s in terms of money, life, technology, information, education
 - There will be some turbalence/problems in life, one has to lear how to move on/live with  them
+- Never be emotional in life, emotions kills you and ruin your life
   
 ### Life 2
 - Do not follow any Actress and actors, you have no benefits from them
@@ -167,7 +168,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Negative things/people/thoughts/actions attracts more than positive things/people/thoughts/actions, so always move towards positive things is very difficult.
 - One should know that what should be studied for what you want to became in life
 - One should know that What will happen if you do something
-
+- Never be emotional in life, emotions kills you and ruin your life
+  
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
 - Build a bond with everyone as much as possible
@@ -235,12 +237,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - People use mind-game  to manipulate others, so be aware of it
 - Always stay away from any financial things with other people/strangers
 - People will be nice when taking money from you, afterwards, people behave strangely.
+- Learn to interpret a person via his/her personalities, his/her talking, from his/her past if possible, his/her motive
+- Stay away from person if you feel that a person is not good for you.
   
 ### Chain of effects in life
 - will be added with diagram
 
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
+- Do not allow your emotions to influence your decisions
 - Go out for a walk and free your mind first
 - never ever take any decisions in urgent
 - never ever take any decisions when you are happy/sad
@@ -360,9 +365,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Influencer
 - People will always get influenced by other people
 - People such as our parents, our kids, our friends and our sisters and our bothers 
-- Our relatives will be influenced by influencers for smoking, drinking alcohol,
+- Our relatives will be influenced by influencers for smoking, drinking alcohol, for having girl friend/boy friend
 - for buying expensive things such as expensive phones, expensive cars, expensive dress and so on
-- 
+
 ## Kids
 
 ### How to raise Kids
@@ -400,6 +405,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Teach kids not to follow any actors and actress, you have no benefits from them
   
 ## Financial management
+- Never be emotional in money matters with anyone such as parents, patners, friends, stangers, relatives, siblings and so on
 - Please teach your kids the value of money, which means how the money should be spent
 - Please teach your kids how to track expenses in their life
 - Never ever buy/give everything for your kids, so that you should make them to learn/know the importance of being not having something/everything in their life.
@@ -608,20 +614,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you are preparing for government exams, find free coaching providers/financial supporters in and around your cities on internet
   
 ## Jobs
-- Try to get any government job either in central or state before 27/28 years old.
+- If you are aiming for government exams, Try to get any government job either in central or state before 27/28 years old.
 - If you do not know hindi, you need english to write central government exams
-- For Government exams, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
+- If you are aiming for government exams,, always choose Simple Degree such as B.A, B.com, B.Sc in General, B.Sc. Horiculture, B.Sc, Agriculture, B.Sc. Forestry, B.Sc.others. 
 - If you are aiming for government jobs, you need to give at-least 2-3 years or maximum 5 years after your degree to get any Government jobs.
-- One can start preparing for government exams after 3rd year of Engineering degree/ or 2nd year of Bsc/Bcom/BA.
+- If you are aiming for government exams, One can start preparing for government exams after 3rd year of Engineering degree/ or 2nd year of Bsc/Bcom/BA.
 - https://www.clearias.com/reservation-in-india/#:~:text=In%20simple%20terms%2C%20reservation%20in,be%20seen%20as%20positive%20discrimination.
-- If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
+- In Government exams, If you prepare for Big exams such as UPSC/KPSC for two years, you can clear at-least PSI, KAS, FDA/SDA, PDO exams in one/two years
 - For private jobs, you just need good degree and skills along with good communication
 - If you start at 18 year olf for doing preparation to collect informations/books for exams, it takes at-least one year to get everything for government jobs and set your mind for it.
 - 
 ### How-to-decide-which-Job-either-Government-or-Private
 - if you are not from Financially well and stable family, one kid go for government and other kid go to private so. 
 - So private kid can support family until other kid gets government job
-- if  you are from financially well and stable family, both go for government jobs
 - Sometimes, both the kids take risk to go for government jobs, even they are not from financially well stable family. I would never recommend it
   
 ### Government Jobs
@@ -635,7 +640,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Government Exams
 - Start preparing for government exams at 20(3 years degree) or 21 years old(4 years degree)
 - Some government jobs are not good in the first 5-10 years, after that government jobs are best in life
-- Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
+- If you are aiming for government exams, Do not fall for the quick and easy private jobs, think in the long term for your personal benefits
 - Do search on google like below
 " How to prepare for government exams' or "How to prepare for government exams reddit" or on Quora
 "what are the important government exams in india/your state?
@@ -761,9 +766,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Private Jobs
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
-- You can improve/gain technical skills via Udemy  application https://www.udemy.com/
-- IT/ Software jobs are being reduced significantly over the years due to AI automation and also salaries are not high.
-- Private jobs are good for just 10 years, later that everyday you regret private jobs
+- You can improve/gain technical skills via Udemy  application https://www.udemy.com
 - Please have a account on LinkedIn
 - Never ever think that you do not need to study in private jobs, you need to keep on updating with new skills each year, otherwise you will loose your job
 - You should know how to search for private jobs in India
