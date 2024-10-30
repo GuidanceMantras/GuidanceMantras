@@ -48,6 +48,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     28. [Problem-solving](#problem-solving)
     29. [Habits](#habits)
     30. [Knowledge Sharing](#knowldge-sharing)
+    31. [Future](#future)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -288,6 +289,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Whatever you learn, always build the habits of sharing
 - Always share your knowledge with others such as brothers, sisters, relatives and friends
 - Sometimes, even with strangers
+
+### Future
+- Learn to think for future
+- Learn to fit for future
+- Learn to save for future
+- Learn to work for future
+- Learn to guide for future
+- Learn to grow for future
+- Learn to learn for future
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
