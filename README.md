@@ -119,6 +119,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    
 15. [Business](#business)
     1. [Business_stratergy](#business-stratergy)
+       
 ## Life 
 
 ### Life 1
