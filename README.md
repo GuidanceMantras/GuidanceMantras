@@ -406,6 +406,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ## Financial management
 - Never be emotional in money matters with anyone such as parents, patners, friends, stangers, relatives, siblings and so on
+- Rule of thumb: Never pay full amount of anything such as buying, schools/college/universities fees and so on.
 - Please teach your kids the value of money, which means how the money should be spent
 - Please teach your kids how to track expenses in their life
 - Never ever buy/give everything for your kids, so that you should make them to learn/know the importance of being not having something/everything in their life.
@@ -433,8 +434,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### Loans
-- Will be added later
-
+- In life, try not to take loans
+- If needed, always look for minimum interest positions with more flexibilities such as varibale payment 
   
 ## Study
 
