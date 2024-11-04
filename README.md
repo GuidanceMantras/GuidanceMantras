@@ -59,6 +59,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     29. [Habits](#habits)
     30. [Knowledge Sharing](#knowldge-sharing)
     31. [Future](#future)
+    32. [Emotions](#emotions)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
