@@ -14,8 +14,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ```
 
 # My Thoughts
+```diff
 - This web page is only for providing my expierence and knowledge to other people. I am not responsible for your any decisions/your any actions in your life based on this web page informations.
 - I am not recommending any application for money here as well.
+```
 ###### Please read this page once in a week, please also make your kids to read this page once in a week.
 ### Please do share this web page with anyone, anybody can benefit from all this informations. 
 ### Please share this page with other Whatsapp group, especially among parents, teachers, students and other groups
