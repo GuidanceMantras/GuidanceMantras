@@ -5,6 +5,14 @@ A simple page for providing a guidance for all parents, kids and adults in India
 
 A simple repo for providing guidances for all the kids, adults and parents in India
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 # My Thoughts
 - This web page is only for providing my expierence and knowledge to other people. I am not responsible for your any decisions/your any actions in your life based on this web page informations.
 - I am not recommending any application for money here as well.
