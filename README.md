@@ -312,6 +312,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to guide for future
 - Learn to grow for future
 - Learn to learn for future
+- Learn to eat good for future
+- Learn to exercise for future
+- Learn to build for future
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
