@@ -61,6 +61,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     31. [Future](#future)
     32. [Emotions](#emotions)
     33. [Follow](#follow)
+    34. [Inferiority-complex](#inferiority-complex)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
