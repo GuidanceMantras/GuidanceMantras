@@ -455,13 +455,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Investment
 - Passive income
-
+- Stocks(If you have basic knowledge)
+- Mutual funds
+- Pension funds
+- Commercial properties
+- Commercial buildings
+- Land(Agriculture/residentail land)
+  
 ### Money saving tips
 - Will be added later
-
+- Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
+  
 ### Loans
-- In life, try not to take loans
-- If needed, always look for minimum interest positions with more flexibilities such as varibale payment 
+- If loans are needed, always look for minimum interest options with more flexibilities such as varibale payment instead fixed payment
   
 ## Study
 
