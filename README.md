@@ -261,6 +261,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - People will be nice when taking money from you, afterwards, people behave strangely.
 - Learn to interpret a person via his/her personalities, his/her talking, from his/her past if possible, his/her motive
 - Stay away from person if you feel that a person is not good for you.
+- Learn to be gentlemen and nice, when you need something from someone or want some work from someone
   
 ### Chain of effects in life
 - will be added with diagram
@@ -964,6 +965,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Travel around the city/place and make local friends if possible
 - Look for any whatsapp group/facebook group for community
 - Get to know the transportation in the city
+- Roam around the city simple for 2 or 3 months on weekdays to know the city
 
 ### For boys and Gents for above 15 years old
 - Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
