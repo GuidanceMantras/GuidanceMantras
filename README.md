@@ -986,6 +986,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Business_stratergy
 - Dynamic pricing
 - Offering different plans for an exmple, 2 months, 3 months plan
-- 
+- Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
+  
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
