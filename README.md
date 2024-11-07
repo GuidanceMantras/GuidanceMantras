@@ -63,6 +63,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     33. [Follow](#follow)
     34. [Inferiority-complex](#inferiority-complex)
     35. [Comparison](#comparison)
+    36. [Doing nothing](#doing-nothing)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -317,6 +318,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to eat good for future
 - Learn to exercise for future
 - Learn to build for future
+
+### Doing nothing
+- Sometimes in life, it is better not to do anything
+- Everyday, just sit for 1 hour without doing anything
+- Sit/do nothing for 5-10 minutes while working for 1 or 1:30 hour work
+- On saturday and sunday focus on your life, family, personal development, your finance or your goal always no other people work
+- On holidays, just focus on your life and enjoyment, no other thinking or other people work
+- After 5 or 6 in the evening, until 6/7 in the morning, no to work or no to other people work or no to other people in your personal life/professional life
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
