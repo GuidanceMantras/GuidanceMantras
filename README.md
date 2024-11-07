@@ -108,7 +108,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Investment](#investment)
    2. [Money saving tips](#money-saving-tips)
-   3. [Loans](#loans)
+   3. [Buying anything](#buying-anything)
+   4. [Payment](#payment)
+   5. [Loans](#loans)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -470,6 +472,25 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Money saving tips
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
+
+### Buying things
+- Take at-least 2 or three weeks to buy anything
+- As soon as someone tells you to buy something, always ask for time
+- If you think that you need something/buy something, always takes at-least 2-3 weeks
+- How to think and analyze before buying anything
+  * First think what is the use case of buying something
+  * then think whether you can afford or not
+  * then think whether you need it now or later
+  * then think whether you need an used one or new one
+  * then think best possible way to afford it either through EMI or late payment
+  * Never pay full amount to any buying in life
+  * Analyze above points once again before making a decision to buy something/anything
+
+### Payment
+- Never pay full amount to any buying such as electronics(phone, laptop, cars and so on), clothes,
+- Never pay full amount to anyone such as schools, colleges or universities or so on
+- Never pay full amount to anyone when asked.
+- Always go for EMI options or last payment options or monthly payment options
   
 ### Loans
 - If loans are needed, always look for minimum interest options with more flexibilities such as varibale payment instead fixed payment
