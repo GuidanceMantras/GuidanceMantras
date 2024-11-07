@@ -969,7 +969,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get to know the transportation in the city
 - Roam around the city simple for 2 or 3 months on weekdays to know the city
 - Make a friends to being with you until you find the city well
-
+- Travel to near by good places, go for hiking, trekking, or cycling
+- Join sports club for cricket, badminton, swimming, for cultural activities
+  
 ### For boys and Gents for above 15 years old
 - Avoid watching sex and porn videos. [Negative impacts of porn addiction] https://www.sandstonecare.com/blog/porn-addiction/
 - How to overcome porn addiction -- https://www.wikihow.com/Deal-With-Porn-Addiction
