@@ -133,7 +133,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      6. [Agreements and Contracts](#agreements-and-contracts)
      7. [Cloud Future](#cloud)
      8. [Thoughts and problems](#thoughts-and-problems)
-     9. [New Place or New Place Of Work)(#new-place-or-new-place-of-work)
+     9. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
    
 15. [Business](#business)
     1. [Business_stratergy](#business-stratergy)
