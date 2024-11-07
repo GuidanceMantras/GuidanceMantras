@@ -354,6 +354,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep your ego aside in life when you need to be better person, ego make your life hell.
 - Do not carry over ego or fight with anyone
 - Never be in a slave mentality
+- Being a good person does not help always in personal and professional life
+- Bad attitude, bad mindset, bad friends circle, bad mentors, bad thinking make you bad in life
   
 ### Behaviour
 - Less talk, more listen
