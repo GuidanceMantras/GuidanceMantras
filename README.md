@@ -270,6 +270,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - if you want to make any decision in your life please follow below approach
 - Do not allow your emotions to influence your decisions
 - Go out for a walk and free your mind first
+- Learn to take decision based on data and informations
 - never ever take any decisions in urgent
 - never ever take any decisions when you are happy/sad
 - while walking think about pros and cons of your decision and write them down in mobile/sticky notes
@@ -302,6 +303,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn the importance of documentation in life such as storing each and every bill you paid upto some time
 - Documenting your learning/knowledge gainings
 - Learn how to keep each and every documents until the end
+- Learn to sort the documents.
+- Keep a different document holder for each topics such as Family, Finance, Health and so on
 
 ### Knowledge Sharing
 - Whatever you learn, always build the habits of sharing
@@ -614,7 +617,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
 - Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
-
+- Never spend too much money on education of kids or yourself
+  
 ### Free Education
 - Always try to get good education with low cost through NGOs, Religious schools such as BGS schools and so on
 - Try to find cheap and good schools, colleges and universities
@@ -701,6 +705,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Sometimes, both the kids take risk to go for government jobs, even they are not from financially well stable family. I would never recommend it
   
 ### Government Jobs
+- At maxminum, spend only 4-5 years for government jobs, if you do not get government within 4-5 years, focus on private jobs or own business
 - There are lots of government jobs for engineering degree holder in Civil/Electrical/Mechanical via SSC(Staff Selection Committe)/(State)PSC
 - Always remember government exams are not tough, but it is competative. More people wants government jobs. so
 - Yes, there are lots of struggles to get government job, but that struggle is less compared to struggle in working for private company after 30 years old. When you are young and in 20's, you can take risk and struggle to get a government job, not after 30 years old.
@@ -862,6 +867,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not think that you have to do everything on your own and company will not run without my work
 - You should know how to work with old and young people in life and behave/deal with old and young people
 
+## Economy
+- Learn to interpret economy, so that you can make financial decision in your life
+
+
 ## Technologies
 - If you are a non technical degree holder, it is better to have a basic knowledge of each technologies such as Programming, Data Base, Artificial Intelligence, Cloud
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
@@ -985,7 +994,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ## Business
 - Do your own research on this topic
-
+- In business, nobody knows everything, often people start business with just littel knowledge
+- But basic minimum knowledge is necessary in business
+- In business, never ever  you everything by yourself.
+  
 ### Business_stratergy
 - Dynamic pricing
 - Offering different plans for an exmple, 2 months, 3 months plan
