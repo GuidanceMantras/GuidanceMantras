@@ -509,6 +509,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Loans
 - If loans are needed, always look for minimum interest options with more flexibilities such as varibale payment instead fixed payment
+
+### Lending
+- Never lend money to anyone such as relatives, friends, strangers and colleagues without any document or collateral
   
 ## Study
 
