@@ -461,7 +461,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One can earn money at any age, but not health, education or relationships
 - Learn what is inflation and how it affects your life and savings?
 - Learn about Capitalism and investment
-- How money works
 - What is economy?
 - One should know the different between business, friendship without money, relationship without money, relative without money
 - Use application to track your spending and earnings https://goodbudget.com/ for free
@@ -475,6 +474,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
 
+### Money Handling
+- How money works
+- Learn to handle money from small at 1 Rs to big 1 cr and more
+- Learn to handle money in tough and easy situation
+  
 ### Investment
 - Passive income
 - Stocks(If you have basic knowledge)
