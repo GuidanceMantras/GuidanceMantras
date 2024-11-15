@@ -61,9 +61,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     31. [Future](#future)
     32. [Emotions](#emotions)
     33. [Follow](#follow)
-    34. [Inferiority-complex](#inferiority-complex)
+    34. [Inferiority-Superiority-complex](#inferiority-superiority-complex)
     35. [Comparison](#comparison)
     36. [Doing nothing](#doing-nothing)
+    37. [Solution Findings](#solution-findings)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -330,6 +331,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - On saturday and sunday focus on your life, family, personal development, your finance or your goal always no other people work
 - On holidays, just focus on your life and enjoyment, no other thinking or other people work
 - After 5 or 6 in the evening, until 6/7 in the morning, no to work or no to other people work or no to other people in your personal life/professional life
+
+### Solution Findings
+- Always remember, there will be solution to any problem in life
+- You need patience to think and find the solution for your problem
+- Learn to find the solution for each and every problem in your life via patience
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
@@ -399,9 +405,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Sleeping problems and solutions
 - Nearly 80% of adults/kids have sleeping problems
-- Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1/2 hours
-- Do yoga and meditation in the evening
+- Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1 or 2 hours
+- Do yoga and meditation in the evening before dinner
 - Do not use phone one hour before going to sleep
+- Get good bath with hot water on shoulders and on back body
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 
