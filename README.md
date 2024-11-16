@@ -65,6 +65,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     35. [Comparison](#comparison)
     36. [Doing nothing](#doing-nothing)
     37. [Solution Findings](#solution-findings)
+    38. [Life Complexity](#life-complexity)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -336,6 +337,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always remember, there will be solution to any problem in life
 - You need patience to think and find the solution for your problem
 - Learn to find the solution for each and every problem in your life via patience
+
+### Life Complexity
+- Learn how to make life easier, not complex every day
+- Learn from others how to lead easy life
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
