@@ -516,13 +516,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * then think best possible way to afford it either through EMI or late payment
   * Never pay full amount to any buying in life
   * Analyze above points once again before making a decision to buy something/anything
-- Always go for second hand buy as a first option on different application such as olx, ebay or others
+- Always go for second hand buy as a first option on different application such as olx, ebay , amazon or others
+
 ### Payment
 - Never pay full amount to any buying such as electronics(phone, laptop, cars and so on), clothes,
 - Never pay full amount to anyone such as schools, colleges or universities or so on
 - Never pay full amount to anyone when asked.
 - Always go for EMI options or last payment options or monthly payment options
-  
+ 
 ### Loans
 - If loans are needed, always look for minimum interest options with more flexibilities such as varibale payment instead fixed payment
 
