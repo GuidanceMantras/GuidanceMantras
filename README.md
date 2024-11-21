@@ -250,7 +250,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Problems
 - World problems are not your problems, keep in mind
 - Your problems are only your problems, keep in mind
-
+- Always get to know the root cause of your problems to find the solutions for your problems
+  
 ### Responsibilities
 - You should know your responsibilites/obligation in your life first such as financial, job, home and parents
 - Take care of your finance for your future and your family future
@@ -337,7 +338,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always remember, there will be solution to any problem in life
 - You need patience to think and find the solution for your problem
 - Learn to find the solution for each and every problem in your life via patience
-
+- Always get to know the root cause of your problems to find the solutions for your problems
+  
 ### Life Complexity
 - Learn how to make life easier, not complex every day
 - Learn from others how to lead easy life
