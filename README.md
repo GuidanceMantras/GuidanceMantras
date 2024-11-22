@@ -982,6 +982,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Udemy( For learning new skills)
 - Splitwise(To share expenses with friends or someone)
 - Notion(To make notes)
+- Ebay or olx (to sell abd buy used good, there is also an option to bid the items)
 
 ### Electronics
 - Any electronics objects such as car, phones, headphones and so on lose their value as days goes
