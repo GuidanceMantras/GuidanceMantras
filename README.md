@@ -862,6 +862,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Search for competative exams books for each jobs online
   
 ### Private Jobs
+- Due to Artificial Intelligence and Automation, lot of jobs will be removed in private/ IT sector.
+- Due to Artifical Intelligence, many people will lose job and also less people will be needed in private/IT sector
+- Please be aware of down side of private /IT sector
 - For private jobs in India especially in Engineering, you just need technical skills and soft skills.
 - Soft skills https://www.thebalancemoney.com/what-are-soft-skills-2060852#:~:text=Soft%20skills%20include%20interpersonal%20(people,for%20just%20about%20every%20job.
 - You can improve/gain technical skills via Udemy  application https://www.udemy.com
