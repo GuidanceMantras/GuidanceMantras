@@ -109,11 +109,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    7. [Private Jobs](#private-jobs)
    8. [Skills](#skills)
 9. [Financial Management](#financial-management)
-   1. [Investment](#investment)
-   2. [Money saving tips](#money-saving-tips)
-   3. [Buying anything](#buying-anything)
-   4. [Payment](#payment)
-   5. [Loans](#loans)
+   1. [Finance 1](#finance-1)
+   2. [Finance 2](#finance-2)
+   3. [Investment](#investment)
+   4. [Money saving tips](#money-saving-tips)
+   5. [Buying anything](#buying-anything)
+   6. [Payment](#payment)
+   7. [Loans](#loans)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -467,6 +469,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Teach kids not to follow any actors and actress, you have no benefits from them
   
 ## Financial management
+### Finance 1
 - Never be emotional in money matters with anyone such as parents, patners, friends, stangers, relatives, siblings and so on
 - Rule of thumb: Never pay full amount of anything such as buying, schools/college/universities fees and so on.
 - Please teach your kids the value of money, which means how the money should be spent
@@ -476,7 +479,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn what is inflation and how it affects your life and savings?
 - Learn about Capitalism and investment
 - What is economy?
-- One should know the different between business, friendship without money, relationship without money, relative without money
+
+### Finance 2
+- One should know the different between business, friendship without money, relationship without money, relative without money, colleagues without money
 - Use application to track your spending and earnings https://goodbudget.com/ for free
 - Write down your earning, expenses, given money, received money in a dairy every day
 - Spend at-least half a day to check your finance every week.
