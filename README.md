@@ -66,6 +66,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     36. [Doing nothing](#doing-nothing)
     37. [Solution Findings](#solution-findings)
     38. [Life Complexity](#life-complexity)
+    39. [People](#people)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -345,6 +346,17 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Life Complexity
 - Learn how to make life easier, not complex every day
 - Learn from others how to lead easy life
+
+### People
+- Not all the people on earth are rich or poor , some maybe middle class or maybe ultra rich
+- Not all the people on earth are earning same money or good money
+- Not all the people on earth are good in studies, or finance or stratergy or thinking analytically or critically
+- Not all the people on earth are good in behaviour or mental health
+- Not all the people on earth are good in health
+- Not all the people on earth are good in family
+- Not all the people on earth are good with everyone
+- Not all the people on earth are good in society
+- Not all the people on earth are good in everything
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
