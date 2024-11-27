@@ -415,9 +415,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Sleeping problems and solutions
 - Nearly 80% of adults/kids have sleeping problems
 - Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1 or 2 hours
-- Do yoga and meditation in the evening before dinner
+- Do yoga and meditation for 30 mins in the evening before dinner
 - Do not use phone one hour before going to sleep
-- Get good bath with hot water on shoulders and on back body
+- Get good bath with hot water on shoulders and on back body before dinner in the evening
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 
