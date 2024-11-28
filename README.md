@@ -67,6 +67,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     37. [Solution Findings](#solution-findings)
     38. [Life Complexity](#life-complexity)
     39. [People](#people)
+    40. [Each year](#each-year)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -272,6 +273,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Chain of effects in life
 - will be added with diagram
 
+### Each year
+- Always have a target/goal for next year in life/professional life
+- Always have a financial target for next few years in life
+  
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
 - Do not allow your emotions to influence your decisions
