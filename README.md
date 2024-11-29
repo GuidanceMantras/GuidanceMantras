@@ -546,6 +546,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * Never pay full amount to any buying in life
   * Analyze above points once again before making a decision to buy something/anything
 - Always go for second hand buy as a first option on different application such as olx, ebay , amazon or others
+- Always buy either new or second hand in festival season or offer season such as Diwali, black friday, big billion day, or christmas offer or so on
 
 ### Payment
 - Never pay full amount to any buying such as electronics(phone, laptop, cars and so on), clothes,
