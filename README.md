@@ -259,6 +259,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Responsibilities
 - You should know your responsibilites/obligation in your life first such as financial, job, home and parents
 - Take care of your finance for your future and your family future
+- Your life your responsibility
   
 ### Dealing with people
 - Not all the people on earth are good, similarly, not all the people are bad
@@ -322,6 +323,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always share your knowledge with others such as brothers, sisters, relatives and friends
 - Sometimes, even with strangers
 
+### Emotions
+- Emotions ruin your life and your finance
+- Never be emotional in life
+  
 ### Future
 - Learn to think for future
 - Learn to fit for future
