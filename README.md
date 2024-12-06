@@ -68,6 +68,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     38. [Life Complexity](#life-complexity)
     39. [People](#people)
     40. [Each year](#each-year)
+    41. [Materialistic Life](#materialistic-life)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -277,7 +278,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Each year
 - Always have a target/goal for next year in life/professional life
 - Always have a financial target for next few years in life
-  
+
+### Materialistic Life
+- Do not be a materialistic person, which means buying everything which you see
+- Some people buy 1 phone every year and change car every 2 years.
+- In life, a person need one phone, one laptop, one car or one house to live
+- You can buy assests, not liabilities such as laptop, car, phone every year
+- Assests are biggest investment than liabilities
+   
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
 - Do not allow your emotions to influence your decisions
