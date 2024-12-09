@@ -237,7 +237,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Environment 
 - Our behaviour depends on our surrounding environment
 - So kids should grow in good environment. 
-- Stay away fron negative people
+- Stay away from negative people
+- Watching bad videos make you think and act bad
+- Being with bad people make you become bad person
+- Being in bad environment, make you become a bad person
+- Seeing/watching bad things, make you do bad things
+- Having bad soul/mind/manasu, make you bad person
 
 ### Minimalistic
 - The meaning of minimalistic is to having only needed things in life
