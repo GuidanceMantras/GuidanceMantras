@@ -69,6 +69,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     39. [People](#people)
     40. [Each year](#each-year)
     41. [Materialistic Life](#materialistic-life)
+    42. [Saying Yes or No](#saying-yes-or-no)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -285,7 +286,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - In life, a person need one phone, one laptop, one car or one house to live
 - You can buy assests, not liabilities such as laptop, car, phone every year
 - Assests are biggest investment than liabilities
-   
+
+### Saying Yes or No
+- Will be added later
+  
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
 - Do not allow your emotions to influence your decisions
