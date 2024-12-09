@@ -31,45 +31,46 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [Life 1](#life-1)
     2. [Life 2](#life-2)
     3. [Life_3](#life-3)
-    4. [Family](#family)
-    5. [Friends](#friends)
-    6. [Social life](#social-life)
-    7. [Discipline and Persistance](#discipline-and-persistance)
-    8. [Social Media](#social-media)
-    9. [Environment](#environment)
-    10. [Minimalistic](#minimalistic)
-    11. [Planning](#planning)
-    12. [Networking](#networking)
-    13. [Do It Yourself](#do-it-yourself)
-    14. [Chain of effects in life](#chain-of-effects-in-life)
-    15. [Responsibilities](#responsibilities)
-    16. [Problems](#problems)
-    17. [Decision Making](#decision-making)
-    18. [Patience](#patience)
-    19. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
-    20. [Build a daily routine](#build-a-daily-routine)
-    21. [Internet](#internet)
-    22. [Documentation](#documentation)
-    23. [Self Management](#self-management)
-    24. [Build Good Habits](#build-good-habits)
-    25. [Fitness](#fitness)
-    26. [Spirituality](#spirituality)
-    27. [Open-communications](#open-communications)
-    28. [Problem-solving](#problem-solving)
-    29. [Habits](#habits)
-    30. [Knowledge Sharing](#knowldge-sharing)
-    31. [Future](#future)
-    32. [Emotions](#emotions)
-    33. [Follow](#follow)
-    34. [Inferiority-Superiority-complex](#inferiority-superiority-complex)
-    35. [Comparison](#comparison)
-    36. [Doing nothing](#doing-nothing)
-    37. [Solution Findings](#solution-findings)
-    38. [Life Complexity](#life-complexity)
-    39. [People](#people)
-    40. [Each year](#each-year)
-    41. [Materialistic Life](#materialistic-life)
-    42. [Saying Yes or No](#saying-yes-or-no)
+    4. [Life_4](#life-4)
+    5. [Family](#family)
+    6. [Friends](#friends)
+    7. [Social life](#social-life)
+    8. [Discipline and Persistance](#discipline-and-persistance)
+    9. [Social Media](#social-media)
+    10. [Environment](#environment)
+    11. [Minimalistic](#minimalistic)
+    12. [Planning](#planning)
+    13. [Networking](#networking)
+    14. [Do It Yourself](#do-it-yourself)
+    15. [Chain of effects in life](#chain-of-effects-in-life)
+    16. [Responsibilities](#responsibilities)
+    17. [Problems](#problems)
+    18. [Decision Making](#decision-making)
+    19. [Patience](#patience)
+    20. [Critical-Analytical-logical-thinking and reasoning](#critical-analytical-logical-thinking-and-reasoning)
+    21. [Build a daily routine](#build-a-daily-routine)
+    22. [Internet](#internet)
+    23. [Documentation](#documentation)
+    24. [Self Management](#self-management)
+    25. [Build Good Habits](#build-good-habits)
+    26. [Fitness](#fitness)
+    27. [Spirituality](#spirituality)
+    28. [Open-communications](#open-communications)
+    29. [Problem-solving](#problem-solving)
+    30. [Habits](#habits)
+    31. [Knowledge Sharing](#knowldge-sharing)
+    32. [Future](#future)
+    33. [Emotions](#emotions)
+    34. [Follow](#follow)
+    35. [Inferiority-Superiority-complex](#inferiority-superiority-complex)
+    36. [Comparison](#comparison)
+    37. [Doing nothing](#doing-nothing)
+    38. [Solution Findings](#solution-findings)
+    39. [Life Complexity](#life-complexity)
+    40. [People](#people)
+    41. [Each year](#each-year)
+    42. [Materialistic Life](#materialistic-life)
+    43. [Saying Yes or No](#saying-yes-or-no)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -199,6 +200,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know that what should be studied for what you want to became in life
 - One should know that What will happen if you do something
 - Never be emotional in life, emotions kills you and ruin your life
+
+### Life_4
+- Negative/bad things attractive us very fast than positive things
+- Bad/wrong things spread very fast than good things
+- For people, far hill/mountain appears good, but in reality, far hills/mountain is empty.
+- For people, other side always appears good than their side in life
   
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
@@ -288,7 +295,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Assests are biggest investment than liabilities
 
 ### Saying Yes or No
-- Will be added later
+- People should know when to say "YES" or "NO" for someone requests
+- When relatives/friends/strangers request something/somework, first always give some time to react/commit to any request
+- When colleagues request something/somework, first always give some time to react/commit to any request
+  * Think your capabilities first
+  * Think about your time and efforts, health, finance
+  * think about consequences
+- Take always more time to react
+  
   
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
@@ -479,7 +493,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be a part of kids, when they are studying at home at-least until 12/13 years
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
 - Train kids for each and everything things in life such as,
-      * Exam,
+      * Exam
       * Study
       * Competative exams
       * Mentality
@@ -491,6 +505,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
       * Patience
       * Education
       * So on
+  - Teach/train kids not to react to anything very fast whatever in life
+    
 
 ### Activities for kids/adults
 - Music class, dance class, drawing
