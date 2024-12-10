@@ -71,6 +71,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     41. [Each year](#each-year)
     42. [Materialistic Life](#materialistic-life)
     43. [Saying Yes or No](#saying-yes-or-no)
+    44. [Template](#template)
+    45. [Bias](#bias)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -329,6 +331,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
 - Patience helps to navigate difficult situations in life and dealing with other people in life
 
+### Template
+- Always remember template helps you to learn something very fast / do something very fast
+- In life, everything is in the format of template. Template is basically blueprint which will be  in certain oder to learn something or do something
+- Many people use template to build something very fast, such as educational institutions, building, business or learning something
+- In template, you identitfy the common pattern across very things, such as learning something or doing something
+- For an example, Using template concept
+
+### Bias
+- Will be added later
+  
 ### Critical-Analytical-logical-thinking and reasoning
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
 
@@ -608,6 +620,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Study environment_pic](./Study_environment_pic.jpeg) 
 
 ### How to study 1
+- Always use template stratergy to learn something fast
 - Always study for one or one and half hours continuously and take 10-20 minutes break for walking or going outside or for drinking water/tea
 - Make a study time table always and subject wise study table(one/one and half hour for each subject)
 - Same for competitive exams based on books/domain/topics
@@ -1090,6 +1103,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Dynamic pricing
 - Offering different plans for an exmple, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
+- Use template stratergy to build any business, or to grow faster
+
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
