@@ -73,7 +73,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     43. [Saying Yes or No](#saying-yes-or-no)
     44. [Template](#template)
     45. [Bias](#bias)
-    46. [Hope/Focus/SelfControl/Confidence and Thoughts](#hope-/-focus-/-selfcontrol-/-confidence-and-thoughts)
+    46. [Hope Focus SelfControl Confidence and Thoughts](#hope-focus-selfcontrol-confidence-and-thoughts)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -311,7 +311,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * think about consequences
 - Take always more time to react
 
-### Hope/Focus/Control/SelfConfidence and Thoughts
+### Hope Focus SelfControl Confidence and Thoughts
 - Man needs hope, focus, control himself, confidence to face the life and problems,
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
