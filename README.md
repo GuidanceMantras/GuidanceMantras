@@ -135,6 +135,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Mood swing](#mood-swing)
     6. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
     7. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
+    8. [Women](#women)
        
  14. [Others_2](#others-_-2)
      1. [Studying in abroad](#studying-in-abroad)
@@ -1100,6 +1101,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - learn to respect girls and women
 - Many indians need to come out of the mindsets that women are for bad things
 - Clear bad thoughts about women in your mind
+
+### Women
+- Being a man, man should learn to understand women and her feelings in life
+- Nealry 99% of women are not intelligent, not good in planning, not good in thinking, not good in many things in life
+- So Man has to learn to deal with women in life both personal and professional life
+- Here I am not defaming/undermining women, it is a universal truth
   
 ## Business
 - Do your own research on this topic
