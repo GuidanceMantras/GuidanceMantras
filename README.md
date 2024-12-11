@@ -73,6 +73,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     43. [Saying Yes or No](#saying-yes-or-no)
     44. [Template](#template)
     45. [Bias](#bias)
+    46. [Hope Focus Control Confidence and Thoughts](#hope-focus-control-confidence-and-thoughts)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -309,7 +310,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * Think about your time and efforts, health, finance
   * think about consequences
 - Take always more time to react
-  
+
+### Hope Focus Control Confidence and Thoughts
+- Man needs hope, focus, control himself, confidence to face the life and problems,
+- Man needs to control negative thoughts and have positive thoughts and strong mind
+- Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
+- People use chant as  "Jai shri Ram" and "Om Namah Shivaya" and " All is well", "I can, I can"
   
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
