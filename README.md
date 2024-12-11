@@ -1001,6 +1001,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
 - https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
+- Check this playlist on spotify https://open.spotify.com/playlist/2ISw3LVQxqYUSwURihZ5Yc?si=_SwmF-T3RGGIichduo1BSQ
 
 ### Mood swing
 - There is a great pro-verb in English. "Your mood is depending on Weather"
