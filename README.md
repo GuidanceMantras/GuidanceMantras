@@ -536,6 +536,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Swimming
 - cricket/badmiton/running
 - Gym/workout
+- Learning new language English, Hindi
 - Make sure that your kids listen to Hindu Mantras for 5-10 minutes, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
 - Allow/Teach kids to think about their actions/thoughts everyday for one hour, which allows for reasoning, logical and critical thinking ability.
 - Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
