@@ -79,6 +79,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     46. [Hope Focus SelfControl Confidence and Thoughts](#hope-focus-selfcontrol-confidence-and-thoughts)
     47. [Build Good thinking and Good Thoughts](#build-good-thinking-and-good-thoughts)
     48. [Build Good Routine](#build-good-routine)
+    49. [Brain](#brain)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -428,6 +429,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Build Good Routine
 - Will be added later
+
+### Brain
+- Train your brain for everything each day
+- Brain is like a stomach and Muscle
+- If you eat good food, your stomach will be good, if you eat bad food, your stomach will be bad
+- Similarly, feed good information into your brain, your brain works well
+- Train your brain with good information each day
+- Train your kids as well
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
