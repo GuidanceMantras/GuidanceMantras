@@ -12,7 +12,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
+### To-Do
+- Correct all the hyper link problems and add missing content of topics
+- Translation into Kannada and Hindi
+  
 # My Thoughts
 ```diff
 - This web page is only for providing my expierence and knowledge to other people. I am not responsible for your any decisions/your any actions in your life based on this web page informations.
@@ -74,6 +77,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     44. [Template](#template)
     45. [Bias](#bias)
     46. [Hope Focus SelfControl Confidence and Thoughts](#hope-focus-selfcontrol-confidence-and-thoughts)
+    47. [Build Good thinking and Good Thoughts](#build-good-thinking-and-good-thoughts)
+    48. [Build Good Routine](#build-good-routine)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -417,6 +422,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Not all the people on earth are good with everyone
 - Not all the people on earth are good in society
 - Not all the people on earth are good in everything
+
+### Build Good thinking and Good Thoughts
+- Will be added later
+  
+### Build Good Routine
+- Will be added later
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
