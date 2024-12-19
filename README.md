@@ -604,6 +604,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - How money works
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
+- It is your responsibility to save you money, not others, always remember
   
 ### Investment
 - Passive income
