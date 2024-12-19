@@ -80,6 +80,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     47. [Build Good thinking and Good Thoughts](#build-good-thinking-and-good-thoughts)
     48. [Build Good Routine](#build-good-routine)
     49. [Brain](#brain)
+    50. [Experience and Exposure](#experience-and-exposure)
+    51. [Learning from others](#learning-from-others)
+    52. [Red Flags](#red-flags)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -437,6 +440,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Similarly, feed good information into your brain, your brain works well
 - Train your brain with good information each day
 - Train your kids as well
+
+### Experience and Exposure
+- Will be added later
+
+### Learning from others
+- Will be added later
+
+### Red Flags
+- Will be added later
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
