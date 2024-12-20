@@ -83,6 +83,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     50. [Experience and Exposure](#experience-and-exposure)
     51. [Learning from others](#learning-from-others)
     52. [Red Flags](#red-flags)
+    53. [Followers](#followers)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -326,6 +327,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
 - People use chant as  "Jai shri Ram" and "Om Namah Shivaya" and " All is well", "I can, I can"
+
+### Followers
+- Basically followers mean, anyone in the family or friends circle or professional circle
+- For an example, if you wake up at 8:00 AM, your wife or son or other people wake up at 8:00, even though they have work, you do not have work
+- So they follow your behaviour patterns, routines
+- If you watch more phone/use more phone, they also does the same thing
+- Therefore, keep an eye on your behaviour, daily routines, personalities and talk
   
 ### Decision Making
 - if you want to make any decision in your life please follow below approach
