@@ -15,6 +15,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### To-Do
 - Correct all the hyper link problems and add missing content of topics
 - Translation into Kannada and Hindi
+- Create Website
+- Share on reddit channels/ twitter /facebook/whatsapp groups
+- 
   
 # My Thoughts
 ```diff
