@@ -547,6 +547,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Our relatives will be influenced by influencers for smoking, drinking alcohol, for having girl friend/boy friend
 - for buying expensive things such as expensive phones, expensive cars, expensive dress and so on
 
+### Spirituality 
+- https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN?si=8ywHDk8vTk6TPY31e2yn0w
+- 
+
+
 ## Kids
 
 ### How to raise Kids
