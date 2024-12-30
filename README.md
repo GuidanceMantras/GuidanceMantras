@@ -13,7 +13,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 @@ text in purple (and bold)@@
 ```
 ### To-Do
-- Correct all the hyper link problems and add missing content of topics, start from Kids
+- Correct all the hyper link problems, ---->Start from kids
+- Add missing content of topics
 - Add images to few topics
 - Translation into Kannada and Hindi
 - Check the content once again and make them correct if anything is wrong
