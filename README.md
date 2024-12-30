@@ -67,7 +67,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     32. [Future](#future)
     33. [Emotions](#emotions)
     34. [Follow](#follow)
-    35. [Inferiority-Superiority-complex](#inferiority-superiority-complex)
+    35. [Inferiority Superiority Complex](#inferiority-superiority-complex)
     36. [Comparison](#comparison)
     37. [Doing nothing](#doing-nothing)
     38. [Solution Findings](#solution-findings)
@@ -86,6 +86,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     51. [Learning from others](#learning-from-others)
     52. [Red Flags](#red-flags)
     53. [Followers](#followers)
+    54. [Manipulators](#manipulators)
+    55. [Provokers](#provokers)
+    56. [Influencers](#influencers)
+    57. [Jealousy And Angry](#jealousy-and-angry)
+    58. [Controlling](#controlling)
+    59. [Rest And Mindfulness](#rest-and-mindfulness)
+    60. [Personal Development](#personal-development)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -324,6 +331,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * think about consequences
 - Take always more time to react
 
+### Follow
+- Will be added later
+
+### Inferiority Superirity Complex
+- Will be added later
+
+### Comparison
+- Will be added later
+
+
 ### Hope Focus SelfControl Confidence and Thoughts
 - Man needs hope, focus, control himself, confidence to face the life and problems,
 - Man needs to control negative thoughts and have positive thoughts and strong mind
@@ -475,6 +492,27 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Red Flags
 - Will be added later
+
+### Manipulators
+- Will be added later
+  
+### Provokers
+- Will be added later
+
+### Influencers
+- Will be added later
+
+### Jealousy And Angry
+- Will be added later
+
+### Controlling
+- Will be added later
+  
+### Rest And Mindfulness
+- Will be added later
+  
+### Personal Development
+- Will be added later
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
@@ -487,7 +525,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Personality-Behaviour and Psychology
 
 ### Personality
-- Teach/Learn your kids how to respect girls and women
+- Teach/Learn yourself/your kids how to respect girls and women
 - Teach/learn how to handle the urges for yourself/kids
 - Learn/Teach about eating habits for yourself/kids
 - Learn/teach not be feel inferior to other person in terms of knowledge/studies/money for yourself/kids
