@@ -61,10 +61,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     25. [Build Good Habits](#build-good-habits)
     26. [Fitness](#fitness)
     27. [Spirituality](#spirituality)
-    28. [Open-communications](#open-communications)
+    28. [Open Communications](#open-communications)
     29. [Problem-solving](#problem-solving)
-    30. [Habits](#habits)
-    31. [Knowledge Sharing](#knowldge-sharing)
+    31. [Knowledge Sharing](#knowledge-sharing)
     32. [Future](#future)
     33. [Emotions](#emotions)
     34. [Follow](#follow)
@@ -388,6 +387,22 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to sort the documents.
 - Keep a different document holder for each topics such as Family, Finance, Health and so on
 
+### Self Management
+- Will be added later
+
+### Build Good Habits
+- Added photo
+- Will be added later
+
+### Fitnes
+- Will be added later and add photo
+
+### Open Communications
+- Will be added later
+
+### Problem Solving
+- Will be added later
+  
 ### Knowledge Sharing
 - Whatever you learn, always build the habits of sharing
 - Always share your knowledge with others such as brothers, sisters, relatives and friends
