@@ -13,11 +13,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 @@ text in purple (and bold)@@
 ```
 ### To-Do
-- Correct all the hyper link problems and add missing content of topics
+- Correct all the hyper link problems and add missing content of topics, start from Kids
+- Add images to few topics
 - Translation into Kannada and Hindi
+- Check the content once again and make them correct if anything is wrong
+- Remove duplicate content
 - Create Website
 - Share on reddit channels/ twitter /facebook/whatsapp groups
-- 
   
 # My Thoughts
 ```diff
