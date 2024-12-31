@@ -154,7 +154,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 13. [Technologies](#technologies)
     1. [Programming](#programming)
     2. [Data Base](#data-base)
-    3. [Artificial Intelligence(AI)](#artificial-intelligence(AI))
+    3. [Artificial Intelligence](#artificial-intelligence)
     4. [Cloud](#cloud)
        
 14. [Others 1](#others-1)
@@ -1108,11 +1108,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
 - A particular task would be building social media applications such as Instagram, Facebook and software for Cars and TV. 
 
-### Data base
+### Data Base
 - A hardware device, where you data such as Personal details, health information and so on will be stored. The data can be access, changed, deleted from the data base using
   specific programming languages such as SQL.
 
-### Artificial Intelligence (AI)
+### Artificial Intelligence
+- Artifical Intelligence or AI
 - An algorithmic model, which will be written in any programming language and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
 
 ### Cloud
