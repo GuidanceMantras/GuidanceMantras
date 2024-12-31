@@ -87,16 +87,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     49. [Brain](#brain)
     50. [Experience and Exposure](#experience-and-exposure)
     51. [Learning from others](#learning-from-others)
-    52. [Red Flags](#red-flags)
-    53. [Followers](#followers)
-    54. [Manipulators](#manipulators)
-    55. [Provokers](#provokers)
-    56. [Influencers](#influencers)
-    57. [Jealousy And Angry](#jealousy-and-angry)
-    58. [Controlling](#controlling)
-    59. [Rest And Mindfulness](#rest-and-mindfulness)
-    60. [Personal Development](#personal-development)
-    61. [Cunning And Liar](#cunning-and-liar)
+    52. [Happiness](#happiness)
+    53. [Red Flags](#red-flags)
+    54. [Followers](#followers)
+    55. [Manipulators](#manipulators)
+    56. [Provokers](#provokers)
+    57. [Influencers](#influencers)
+    58. [Jealousy And Angry](#jealousy-and-angry)
+    59. [Controlling](#controlling)
+    60. [Rest And Mindfulness](#rest-and-mindfulness)
+    61. [Personal Development](#personal-development)
+    62. [Cunning And Liar](#cunning-and-liar)
+    63. [Helping Others](#helping others)
+      
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -142,12 +145,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Finance 1](#finance-1)
    2. [Finance 2](#finance-2)
-   3. [Investment](#investment)
-   4. [Money Saving Tips](#money-saving-tips)
-   5. [Buying Things](#buying-things)
-   6. [Payment](#payment)
-   7. [Loans](#loans)
-   8. [Lending](#lending)
+   3. [Budgeting](#budgeting)
+   4. [Investment](#investment)
+   5. [Money Saving Tips](#money-saving-tips)
+   6. [Buying Things](#buying-things)
+   7. [Payment](#payment)
+   8. [Loans](#loans)
+   9. [Lending](#lending)
+    
 10. [Profession](#profession)
 11. [Economy](#economy)
     
@@ -380,6 +385,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 
+### Happiness
+- Will be added later
+
+### Helping Others
+- Will be added later
+  
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
@@ -692,6 +703,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
 - It is your responsibility to save you money, not others, always remember
+
+### Budgeting
+- Will be added later
   
 ### Investment
 - Passive income
@@ -701,6 +715,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial properties
 - Commercial buildings
 - Land(Agriculture/residentail land)
+- Gold
   
 ### Money Saving Tips
 - Will be added later
