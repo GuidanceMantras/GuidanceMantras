@@ -171,6 +171,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     6. [Important Applications](#important-applications)
     7. [Thoughts and problems](#thoughts-and-problems)
     8. [Agreements and Contracts](#agreements-and-contracts)
+    9. [Boys And Men](#boys-and-men)
+    10. [Girls And Women](#girls-and-women)
        
  15. [Others 2](#others-2)
      1. [Studying in abroad](#studying-in-abroad)
@@ -1169,6 +1171,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
+### Boys And Men
+- Will be added later
+
+### Girls And Women
+- Will be added later
+  
 ## Others 2
 ### Reading
 - Always read book about life/finance/Management/Technology/Education
