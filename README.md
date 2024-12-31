@@ -183,6 +183,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-and-women-for-above-15-years-old)
      7. [Cloud Future](#cloud)
      8. [Women](#women)
+     9. [Son](#son)
+     10. [Daughter](#daughter)
     
    
 16. [Business](#business)
@@ -232,7 +234,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - World is not fair for everyone, it does not mean that world will be bad for you. Always try for better in life irrespective of anything
 - Never ever put legs on two boats in life or in profession
 
-### Life-3
+### Life 3
 - Understand what the life is first, before begin
 - Money only does not bring/give you everything in life
 - Never ever make life complicated, always try to make life easier everyday
@@ -1251,6 +1253,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Nealry 99% of women are not intelligent, not good in planning, not good in thinking, not good in many things in life
 - So Man has to learn to deal with women in life both personal and professional life
 - Here I am not defaming/undermining women, it is a universal truth
+
+### Son
+- Will be added later
+
+### Daughter
+- Will be added later
   
 ## Business
 - Do your own research on this topic
