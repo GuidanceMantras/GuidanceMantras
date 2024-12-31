@@ -173,7 +173,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      3. [Ethics](#ethics)
      4. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
      5. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
-     6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
+     6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-and-women-for-above-15-years-old)
      7. [Cloud Future](#cloud)
      8. [Women](#women)
     
