@@ -13,11 +13,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 @@ text in purple (and bold)@@
 ```
 ### To-Do
-- Correct all the hyper link problems and add missing content of topics
+- Correct all the hyper link problems, ---->Start from kids
+- Add missing content of topics
+- Add images to few topics
 - Translation into Kannada and Hindi
+- Check the content once again and make them correct if anything is wrong
+- Remove duplicate content
 - Create Website
 - Share on reddit channels/ twitter /facebook/whatsapp groups
-- 
   
 # My Thoughts
 ```diff
@@ -36,8 +39,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 1.  [Life](#life)
     1. [Life 1](#life-1)
     2. [Life 2](#life-2)
-    3. [Life_3](#life-3)
-    4. [Life_4](#life-4)
+    3. [Life 3](#life-3)
+    4. [Life 4](#life-4)
     5. [Family](#family)
     6. [Friends](#friends)
     7. [Social life](#social-life)
@@ -61,14 +64,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     25. [Build Good Habits](#build-good-habits)
     26. [Fitness](#fitness)
     27. [Spirituality](#spirituality)
-    28. [Open-communications](#open-communications)
+    28. [Open Communications](#open-communications)
     29. [Problem-solving](#problem-solving)
-    30. [Habits](#habits)
-    31. [Knowledge Sharing](#knowldge-sharing)
+    31. [Knowledge Sharing](#knowledge-sharing)
     32. [Future](#future)
     33. [Emotions](#emotions)
     34. [Follow](#follow)
-    35. [Inferiority-Superiority-complex](#inferiority-superiority-complex)
+    35. [Inferiority Superiority Complex](#inferiority-superiority-complex)
     36. [Comparison](#comparison)
     37. [Doing nothing](#doing-nothing)
     38. [Solution Findings](#solution-findings)
@@ -85,8 +87,19 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     49. [Brain](#brain)
     50. [Experience and Exposure](#experience-and-exposure)
     51. [Learning from others](#learning-from-others)
-    52. [Red Flags](#red-flags)
-    53. [Followers](#followers)
+    52. [Happiness](#happiness)
+    53. [Red Flags](#red-flags)
+    54. [Followers](#followers)
+    55. [Manipulators](#manipulators)
+    56. [Provokers](#provokers)
+    57. [Influencers](#influencers)
+    58. [Jealousy And Angry](#jealousy-and-angry)
+    59. [Controlling](#controlling)
+    60. [Rest And Mindfulness](#rest-and-mindfulness)
+    61. [Personal Development](#personal-development)
+    62. [Cunning And Liar](#cunning-and-liar)
+    63. [Helping Others](#helping others)
+      
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -105,7 +118,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Behaviour](#Behaviour)
     3. [Patterns and Psychology](#patterns-and-psychology)
 6. [Kids](#kids)
-   1. [Activities for kids/adults](#activities-for-kids-/-adults)
+   1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
 6. [Education](#education)
     1. [Free Education](#free-education)
     2. [After 10th](#after-10th)
@@ -117,7 +130,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [Build a daily routine for Exams/Study](#build-a-daily-routine-for-exams-/-study)
+    4. [Build a daily routine for Exams or Study](#build-a-daily-routine-for-exams-or-study)
     5. [How to learn english](#how-to-learn-english)
     6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
@@ -132,37 +145,50 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Finance 1](#finance-1)
    2. [Finance 2](#finance-2)
-   3. [Investment](#investment)
-   4. [Money saving tips](#money-saving-tips)
-   5. [Buying anything](#buying-anything)
-   6. [Payment](#payment)
-   7. [Loans](#loans)
+   3. [Budgeting](#budgeting)
+   4. [Investment](#investment)
+   5. [Money Saving Tips](#money-saving-tips)
+   6. [Buying Things](#buying-things)
+   7. [Payment](#payment)
+   8. [Loans](#loans)
+   9. [Lending](#lending)
+    
 10. [Profession](#profession)
 11. [Economy](#economy)
-12. [Technologies](#technologies)
-13. [Others_1](#others-_-1)
+    
+13. [Technologies](#technologies)
+    1. [Programming](#programming)
+    2. [Data Base](#data-base)
+    3. [Artificial Intelligence](#artificial-intelligence)
+    4. [Cloud](#cloud)
+       
+14. [Others 1](#others-1)
     1. [Travelling](#travelling)
     2. [Power of Music](#power-of-music)
     3. [Electronics](#electronics)
     4. [Addictions](#addictions)
     5. [Mood swing](#mood-swing)
-    6. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
-    7. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
-    8. [Women](#women)
+    6. [Important Applications](#important-applications)
+    7. [Thoughts and problems](#thoughts-and-problems)
+    8. [Agreements and Contracts](#agreements-and-contracts)
+    9. [Boys And Men](#boys-and-men)
+    10. [Girls And Women](#girls-and-women)
        
- 14. [Others_2](#others-_-2)
+ 15. [Others 2](#others-2)
      1. [Studying in abroad](#studying-in-abroad)
      2. [Reading](#reading)
      3. [Ethics](#ethics)
-     4. [Electronics](#electronics)
-     5. [Important Applications](#important-applications)
-     6. [Agreements and Contracts](#agreements-and-contracts)
+     4. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
+     5. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
+     6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-and-women-for-above-15-years-old)
      7. [Cloud Future](#cloud)
-     8. [Thoughts and problems](#thoughts-and-problems)
-     9. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
+     8. [Women](#women)
+     9. [Son](#son)
+     10. [Daughter](#daughter)
+    
    
-15. [Business](#business)
-    1. [Business_stratergy](#business-stratergy)
+16. [Business](#business)
+    1. [Business_Stratergy](#business-stratergy)
        
 ## Life 
 
@@ -208,7 +234,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - World is not fair for everyone, it does not mean that world will be bad for you. Always try for better in life irrespective of anything
 - Never ever put legs on two boats in life or in profession
 
-### Life-3
+### Life 3
 - Understand what the life is first, before begin
 - Money only does not bring/give you everything in life
 - Never ever make life complicated, always try to make life easier everyday
@@ -325,6 +351,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * think about consequences
 - Take always more time to react
 
+### Follow
+- Will be added later
+
+### Inferiority Superirity Complex
+- Will be added later
+
+### Comparison
+- Will be added later
+
+
 ### Hope Focus SelfControl Confidence and Thoughts
 - Man needs hope, focus, control himself, confidence to face the life and problems,
 - Man needs to control negative thoughts and have positive thoughts and strong mind
@@ -353,6 +389,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 
+### Happiness
+- Will be added later
+
+### Helping Others
+- Will be added later
+  
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
@@ -388,6 +430,22 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to sort the documents.
 - Keep a different document holder for each topics such as Family, Finance, Health and so on
 
+### Self Management
+- Will be added later
+
+### Build Good Habits
+- Added photo
+- Will be added later
+
+### Fitnes
+- Will be added later and add photo
+
+### Open Communications
+- Will be added later
+
+### Problem Solving
+- Will be added later
+  
 ### Knowledge Sharing
 - Whatever you learn, always build the habits of sharing
 - Always share your knowledge with others such as brothers, sisters, relatives and friends
@@ -408,6 +466,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to eat good for future
 - Learn to exercise for future
 - Learn to build for future
+- Learn to Analyze for future
 
 ### Doing nothing
 - Sometimes in life, it is better not to do anything
@@ -460,6 +519,33 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Red Flags
 - Will be added later
+
+### Manipulators
+- Will be added later
+  
+### Provokers
+- Will be added later
+
+### Influencers
+- Will be added later
+
+### Jealousy And Angry
+- Will be added later
+
+### Controlling
+- Will be added later
+  
+### Rest And Mindfulness
+- Will be added later
+  
+### Personal Development
+- Will be added later
+
+### Two Faces
+- Will be added later
+  
+### Cunning and Liar
+- Will be added later
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
@@ -472,7 +558,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Personality-Behaviour and Psychology
 
 ### Personality
-- Teach/Learn your kids how to respect girls and women
+- Teach/Learn yourself/your kids how to respect girls and women
 - Teach/learn how to handle the urges for yourself/kids
 - Learn/Teach about eating habits for yourself/kids
 - Learn/teach not be feel inferior to other person in terms of knowledge/studies/money for yourself/kids
@@ -580,7 +666,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   - Teach/train kids not to react to anything very fast whatever in life
     
 
-### Activities for kids/adults
+### Activities For Kids or Adults
 - Music class, dance class, drawing
 - Swimming
 - cricket/badmiton/running
@@ -621,6 +707,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
 - It is your responsibility to save you money, not others, always remember
+
+### Budgeting
+- Will be added later
   
 ### Investment
 - Passive income
@@ -630,12 +719,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial properties
 - Commercial buildings
 - Land(Agriculture/residentail land)
+- Gold
   
-### Money saving tips
+### Money Saving Tips
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
 
-### Buying things
+### Buying Things
 - Take at-least 2 or three weeks to buy anything
 - As soon as someone tells you to buy something, always ask for time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
@@ -699,7 +789,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 - 
 
-### Build a daily routine for Exams/Study
+### Build a daily routine for Exams or Study
 - This is an example plan, so adjust the plan according to your benefits
 - Wake up at 6🕥/6🕡, get fresh, drinke glass of water, clean your room
 - Go for small walk and come back study.
@@ -1037,17 +1127,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
 - A particular task would be building social media applications such as Instagram, Facebook and software for Cars and TV. 
 
-### Data base
+### Data Base
 - A hardware device, where you data such as Personal details, health information and so on will be stored. The data can be access, changed, deleted from the data base using
   specific programming languages such as SQL.
 
-### Artificial Intelligence (AI)
+### Artificial Intelligence
+- Artifical Intelligence or AI
 - An algorithmic model, which will be written in any programming language and the algorithmic model will be trained with data such as Images/photos, texts, and signal to perform particular tasks such as image recognition. 
 
 ### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-## Others_1
+## Others 1
 ### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
@@ -1082,7 +1173,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
-## Others_2
+### Boys And Men
+- Will be added later
+
+### Girls And Women
+- Will be added later
+  
+## Others 2
 ### Reading
 - Always read book about life/finance/Management/Technology/Education
 - You can save your online books in Github as well
@@ -1156,6 +1253,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Nealry 99% of women are not intelligent, not good in planning, not good in thinking, not good in many things in life
 - So Man has to learn to deal with women in life both personal and professional life
 - Here I am not defaming/undermining women, it is a universal truth
+
+### Son
+- Will be added later
+
+### Daughter
+- Will be added later
   
 ## Business
 - Do your own research on this topic
@@ -1163,7 +1266,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - But basic minimum knowledge is necessary in business
 - In business, never ever  you everything by yourself.
   
-### Business_stratergy
+### Business Stratergy
 - Dynamic pricing
 - Offering different plans for an exmple, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
