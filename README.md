@@ -150,30 +150,36 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    8. [Lending](#lending)
 10. [Profession](#profession)
 11. [Economy](#economy)
-12. [Technologies](#technologies)
-13. [Others_1](#others-_-1)
+    
+13. [Technologies](#technologies)
+    1. [Programming](#programming)
+    2. [Data Base](#data-base)
+    3. [Artificial Intelligence(AI)](#artificial-intelligence(AI))
+    4. [Cloud](#cloud)
+       
+14. [Others 1](#others-1)
     1. [Travelling](#travelling)
     2. [Power of Music](#power-of-music)
     3. [Electronics](#electronics)
     4. [Addictions](#addictions)
     5. [Mood swing](#mood-swing)
-    6. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
-    7. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
-    8. [Women](#women)
+    6. [Important Applications](#important-applications)
+    7. [Thoughts and problems](#thoughts-and-problems)
+    8. [Agreements and Contracts](#agreements-and-contracts)
        
- 14. [Others_2](#others-_-2)
+ 15. [Others 2](#others-2)
      1. [Studying in abroad](#studying-in-abroad)
      2. [Reading](#reading)
      3. [Ethics](#ethics)
-     4. [Electronics](#electronics)
-     5. [Important Applications](#important-applications)
-     6. [Agreements and Contracts](#agreements-and-contracts)
+     4. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
+     5. [For boys and Gents for above 15 years old](#for-boys-and-gents-for-above-15-years-old)
+     6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-women-for-above-15-years-old)
      7. [Cloud Future](#cloud)
-     8. [Thoughts and problems](#thoughts-and-problems)
-     9. [New Place or New Place Of Work](#new-place-or-new-place-of-work)
+     8. [Women](#women)
+    
    
-15. [Business](#business)
-    1. [Business_stratergy](#business-stratergy)
+16. [Business](#business)
+    1. [Business_Stratergy](#business-stratergy)
        
 ## Life 
 
@@ -1112,7 +1118,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Cloud
 - A hardware device, which will be located somewhere and owned by a company. This hardware device can be used to store data and retrieve data such as CCTV cameras, your videos and Data for AI and also you can use the hardware for computational purpose also.
 
-## Others_1
+## Others 1
 ### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneliness
 - Read below web page to know more about power of music
@@ -1147,7 +1153,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Like above create a folder your Family/Personal and store the data only related to those folders
 - You can keep all your text books in cloud/Github for free for future purpose
 
-## Others_2
+## Others 2
 ### Reading
 - Always read book about life/finance/Management/Technology/Education
 - You can save your online books in Github as well
@@ -1228,7 +1234,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - But basic minimum knowledge is necessary in business
 - In business, never ever  you everything by yourself.
   
-### Business_stratergy
+### Business Stratergy
 - Dynamic pricing
 - Offering different plans for an exmple, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
