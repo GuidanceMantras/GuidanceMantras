@@ -96,6 +96,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     58. [Controlling](#controlling)
     59. [Rest And Mindfulness](#rest-and-mindfulness)
     60. [Personal Development](#personal-development)
+    61. [Cunning And Liar](#cunning-and-liar)
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -114,7 +115,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Behaviour](#Behaviour)
     3. [Patterns and Psychology](#patterns-and-psychology)
 6. [Kids](#kids)
-   1. [Activities for kids/adults](#activities-for-kids-/-adults)
+   1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
 6. [Education](#education)
     1. [Free Education](#free-education)
     2. [After 10th](#after-10th)
@@ -126,7 +127,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [Build a daily routine for Exams/Study](#build-a-daily-routine-for-exams-/-study)
+    4. [Build a daily routine for Exams or Study](#build-a-daily-routine-for-exams-or-study)
     5. [How to learn english](#how-to-learn-english)
     6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
@@ -142,10 +143,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    1. [Finance 1](#finance-1)
    2. [Finance 2](#finance-2)
    3. [Investment](#investment)
-   4. [Money saving tips](#money-saving-tips)
-   5. [Buying anything](#buying-anything)
+   4. [Money Saving Tips](#money-saving-tips)
+   5. [Buying Anything](#buying-anything)
    6. [Payment](#payment)
    7. [Loans](#loans)
+   8. [Lending](#lending)
 10. [Profession](#profession)
 11. [Economy](#economy)
 12. [Technologies](#technologies)
@@ -443,6 +445,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to eat good for future
 - Learn to exercise for future
 - Learn to build for future
+- Learn to Analyze for future
 
 ### Doing nothing
 - Sometimes in life, it is better not to do anything
@@ -515,6 +518,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Personal Development
+- Will be added later
+
+### Two Faces
+- Will be added later
+  
+### Cunning and Liar
 - Will be added later
   
 ## Mind-Manasu and Soul
@@ -636,7 +645,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   - Teach/train kids not to react to anything very fast whatever in life
     
 
-### Activities for kids/adults
+### Activities For Kids or Adults
 - Music class, dance class, drawing
 - Swimming
 - cricket/badmiton/running
@@ -687,11 +696,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial buildings
 - Land(Agriculture/residentail land)
   
-### Money saving tips
+### Money Saving Tips
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
 
-### Buying things
+### Buying Anything
 - Take at-least 2 or three weeks to buy anything
 - As soon as someone tells you to buy something, always ask for time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
@@ -755,7 +764,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![Highlighter_and_sticky_notes](./highlighter_and_sticky_notes.jpg) .
 - 
 
-### Build a daily routine for Exams/Study
+### Build a daily routine for Exams or Study
 - This is an example plan, so adjust the plan according to your benefits
 - Wake up at 6🕥/6🕡, get fresh, drinke glass of water, clean your room
 - Go for small walk and come back study.
