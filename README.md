@@ -144,7 +144,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    2. [Finance 2](#finance-2)
    3. [Investment](#investment)
    4. [Money Saving Tips](#money-saving-tips)
-   5. [Buying Anything](#buying-anything)
+   5. [Buying Things](#buying-things)
    6. [Payment](#payment)
    7. [Loans](#loans)
    8. [Lending](#lending)
@@ -706,7 +706,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
 
-### Buying Anything
+### Buying Things
 - Take at-least 2 or three weeks to buy anything
 - As soon as someone tells you to buy something, always ask for time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
