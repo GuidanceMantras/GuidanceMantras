@@ -183,8 +183,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      6. [Behaviour with girls and women for above 15 years old](#behaviour-with-girls-and-women-for-above-15-years-old)
      7. [Cloud Future](#cloud)
      8. [Women](#women)
-     9. [Son](#son)
-     10. [Daughter](#daughter)
+     9. [Dear Son](#dear-son)
+     10. [Dear Daughter](#dear-daughter)
     
    
 16. [Business](#business)
@@ -1151,7 +1151,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know how to control mood swing in life using Music, Meditation, and doing other activities.
 
 ### Addictions
-- Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
+- Control your emotions so that you will not be addicted to anything such as Smoking/drinking/sex videos and other things
 - If you feel that you are addicted/being addicted to anything, start doing activities such as Meditation/Yoga, running, Hiking, Drawing and so on to get rid of addictions
 
 ### Thoughts and problems
@@ -1159,9 +1159,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Write down your problems on a paper, which gives you a more flexibility to solutions
 
 ### Travelling
-- If you feel bored/ tired of life, go for hiking/trip with friends or solo for 2/3 days
+- If you feel bored/ tired of life, go for hiking/trip with friends or solo trip for 2/3 days
 - long drive
-- 
+  
 ### Cloud Future
 - Future is data, you need to know how to store your data on cloud
 - You can use free cloud service on phone/laptop such as google cloud in your gmail, micro-soft cloud for free
@@ -1213,10 +1213,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Microsoft ToDo(for listing yoir daily tasks)
 - Udemy( For learning new skills)
 - Splitwise(To share expenses with friends or someone)
-- Notion(To make notes)
 - Ebay or olx (to sell abd buy used good, there is also an option to bid the items)
 
 ### Electronics
+- What are electronics products: Phone, Car, Headphones, TV, Fridge, Home Appliances, Agriculture products. 
 - Any electronics objects such as car, phones, headphones and so on lose their value as days goes
 - So be realisitic when buying electronics objects.
 - Value of first hand electronics goes down as the days go. For an example, The same phone costs less in 2023 than in 2022.
@@ -1254,10 +1254,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - So Man has to learn to deal with women in life both personal and professional life
 - Here I am not defaming/undermining women, it is a universal truth
 
-### Son
+### Dear Son
 - Will be added later
 
-### Daughter
+### Dear Daughter
 - Will be added later
   
 ## Business
