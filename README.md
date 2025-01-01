@@ -69,7 +69,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     31. [Knowledge Sharing](#knowledge-sharing)
     32. [Future](#future)
     33. [Emotions](#emotions)
-    34. [Follow](#follow)
+    34. [Following](#following)
     35. [Inferiority Superiority Complex](#inferiority-superiority-complex)
     36. [Comparison](#comparison)
     37. [Doing nothing](#doing-nothing)
@@ -98,7 +98,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     60. [Rest And Mindfulness](#rest-and-mindfulness)
     61. [Personal Development](#personal-development)
     62. [Cunning And Liar](#cunning-and-liar)
-    63. [Helping Others](#helping others)
+    63. [Helping Others](#helping-others)
+    64. [Self Reflection](#self-reflection)
+    65. [Self Improvement](#self-improvement)
+    66. [Calmness And Angry](#calmness-and-angry)
+    67. [Life Boundaries](#life-boundaries)
+    68. [Strength And Weakness](#strength-and-weakness)
+    69. [Mentor](#mentor)
+    70. [Ignore And Adapt](#ignore-and-adapt)
+    71. [Two Face](#two-face)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -366,6 +374,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
 - People use chant as  "Jai shri Ram" and "Om Namah Shivaya" and " All is well", "I can, I can"
+- ![hindu_mudra](./Hindu_mudra.JPG)
 
 ### Followers
 - Basically followers mean, anyone in the family or friends circle or professional circle
@@ -391,7 +400,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Happiness
 - Will be added later
-
+- ![happiness](./Happiness.JPG)
+  
 ### Helping Others
 - Will be added later
   
@@ -436,7 +446,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Build Good Habits
 - Added photo
 - Will be added later
-
+- ![habits](./Habits.JPG)
+  
 ### Fitnes
 - Will be added later and add photo
 
@@ -510,6 +521,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Similarly, feed good information into your brain, your brain works well
 - Train your brain with good information each day
 - Train your kids as well
+  - ![brain](./Brain.JPG)
 
 ### Experience and Exposure
 - Will be added later
@@ -534,10 +546,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Controlling
 - Will be added later
+- ![controlling](./Controlling.jpg)
   
 ### Rest And Mindfulness
+
 - Will be added later
-  
+- ![rest](./Rest_Merge.png)  
 ### Personal Development
 - Will be added later
 
@@ -626,7 +640,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get eye test every year, either free or for paid one
 - Get full blood check up every year,  either free or for paid one
 - Get full body check up every year, either free or for paid one
-
+- Get all Vitamin tests every year
+  - ![vitamin_protein](./Vitamin_Protein.png)
+    
 ### Influencer
 - People will always get influenced by other people
 - People such as our parents, our kids, our friends and our sisters and our bothers 
@@ -636,7 +652,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Spirituality 
 - https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN?si=8ywHDk8vTk6TPY31e2yn0w
 - 
-
+### Insurance
+- Always have a health insurance in life for everything
 
 ## Kids
 
@@ -739,7 +756,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * Analyze above points once again before making a decision to buy something/anything
 - Always go for second hand buy as a first option on different application such as olx, ebay , amazon or others
 - Always buy either new or second hand in festival season or offer season such as Diwali, black friday, big billion day, or christmas offer or so on
-
+- Always look for areas in your cities, where things will be cheaper
+- In Bengaluru, people get cheap products in different areas like below
+- JC Road in Bengaluru: cheap car and bicycle parts, cheap laptop, mobile and parts, cheap electronics parts 
+- SP road in Bengaluru : cheap second hand books and new ones
+- Chikkpete in Bengaluru: cheap clothes
+- Shriram pura and cubbonpete in Bengaluru : branded clothes for less money
+  
 ### Payment
 - Never pay full amount to any buying such as electronics(phone, laptop, cars and so on), clothes,
 - Never pay full amount to anyone such as schools, colleges or universities or so on
@@ -818,6 +841,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Use Tongue exercises such as like this one https://www.youtube.com/watch?v=HHRNcIPxijY
 - Then do tongue twister  ---> https://www.stagemilk.com/articulation-exercises/
 - Articulation for tongue: https://www.youtube.com/watch?v=HHRNcIPxijY
+- - ![tongue_twister](./Tongue_twister.jpg)
 
 ## Mindset-Mentality and Brain
 
@@ -1175,6 +1199,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Boys And Men
 - Will be added later
+  ![Men](./Boys_Men.JPG)
 
 ### Girls And Women
 - Will be added later
@@ -1256,7 +1281,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Dear Son
 - Will be added later
-
+- ![Son](./Son_Men_Merge.png)
+  
 ### Dear Daughter
 - Will be added later
   
