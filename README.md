@@ -115,6 +115,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     77. [Negotiations](#negotiations)
     78. [Compromise](#compromise)
     79. [Egoisstic And Saddistic](#egoissitc-and-saddistic)
+    80. [Life Phase](#life-phase)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -569,7 +570,40 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Cunning and Liar
 - Will be added later
+
+
+### Shortcuts
+- Will be added later
   
+### Doing Things
+  - Will be added later
+    
+### Selfishness and Unselfishness
+- Will be added later
+  
+### Basic Civil and Criminal Law
+- Will be added later
+  
+### Sex Appeal
+- Will be added later
+      
+### Negotiations
+- Will be added later
+  
+### Compromise
+- Will be added later
+  
+### Egoisstic And Saddistic
+- Will be added later
+  
+### Life Phase
+- Kids
+- Students
+- Adults with degree
+- Adults with Job
+- Marriage
+- Married with Kids
+
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
