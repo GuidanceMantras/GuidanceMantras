@@ -107,6 +107,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     69. [Mentor](#mentor)
     70. [Ignore And Adapt](#ignore-and-adapt)
     71. [Two Face](#two-face)
+    72. [Shortcuts](#shortcuts)
+    73. [Doing Things](#doing-things)
+    74. [Selfishness and Unselfishness](#selfishness-and-unselfishness)
+    75. 
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -120,7 +124,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Mindset 2](#mindset-2)
     3. [Mentality](#mentality)
     4. [Brain](#brain)
-4. [Mind-Manasu and Soul](#mind-manasu-and-soul)
+4. [Mind/Manasu and Soul](#mind-/-manasu-and-soul)
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
     1. [Personality](#personality)
     2. [Behaviour](#Behaviour)
@@ -138,9 +142,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
     3. [How to study 2](#how-to-study-2)
-    4. [Build a daily routine for Exams or Study](#build-a-daily-routine-for-exams-or-study)
-    5. [How to learn english](#how-to-learn-english)
-    6. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
+    4. [Shortcuts](#shortcuts)
+    5. [Build a daily routine for Exams or Study](#build-a-daily-routine-for-exams-or-study)
+    6. [How to learn english](#how-to-learn-english)
+    7. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
 8. [Jobs](#Jobs) 
    1. [How-to-decide-which-Job-either-Government-or-Private](#how-to-decide-which-job-either-government-or-private)
    2. [Government Jobs](#government-jobs)
@@ -546,7 +551,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Controlling
 - Will be added later
-- ![controlling](./Controlling.jpg)
+- ![controlling](./Controlling.JPG)
   
 ### Rest And Mindfulness
 
