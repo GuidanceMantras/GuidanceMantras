@@ -110,7 +110,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     72. [Shortcuts](#shortcuts)
     73. [Doing Things](#doing-things)
     74. [Selfishness and Unselfishness](#selfishness-and-unselfishness)
-    75. 
+    75. [Basic Civil and Criminal Law](#basic-civil-criminal-law)
+    76. [Sex Appeal](#sex-appeal)
+    77. [Negotiations](#negotiations)
+    78. [Compromise](#compromise)
+    79. [Egoisstic And Saddistic](#egoissitc-and-saddistic)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
