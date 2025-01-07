@@ -203,6 +203,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      8. [Women](#women)
      9. [Dear Son](#dear-son)
      10. [Dear Daughter](#dear-daughter)
+     11. [Men](#men)
     
    
 16. [Business](#business)
@@ -1328,6 +1329,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Dear Daughter
 - Will be added later
+
+### Men
+- If you appear weak in your life, people take your life for a ride
+- If you appear weak pyhsically and mentally, people again take your life for a ride
+- Always be tough, decisive, routhless and agressive
   
 ## Business
 - Do your own research on this topic
