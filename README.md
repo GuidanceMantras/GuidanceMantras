@@ -116,6 +116,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     78. [Compromise](#compromise)
     79. [Egoisstic And Saddistic](#egoissitc-and-saddistic)
     80. [Life Phase](#life-phase)
+    81. [Genius And Dumb](#genius-and-dumb)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -604,6 +605,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Adults with Job
 - Marriage
 - Married with Kids
+
+### Genius And Dumb
+####### Genius
+-
+
+####### Dumb
+-
 
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
