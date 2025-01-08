@@ -384,7 +384,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Man needs hope, focus, control himself, confidence to face the life and problems,
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
-- People use chant as  "Jai shri Ram" and "Om Namah Shivaya" and " All is well", "I can, I can"
+- People use chant as  "Jai Shri Ram, Jai Jai Shri Ram" and "Om Namah Shivaya", "Om Shanthi, Om Shanthi" and " All is Well", "I can, I can"
 - ![hindu_mudra](./Hindu_mudra.JPG)
 
 ### Followers
