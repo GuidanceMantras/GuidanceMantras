@@ -607,10 +607,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Married with Kids
 
 ### Genius And Dumb
-####### Genius
+########## Genius
 -
 
-####### Dumb
+########## Dumb
 -
 
 ## Mind-Manasu and Soul
