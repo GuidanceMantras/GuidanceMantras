@@ -117,6 +117,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     79. [Egoisstic And Saddistic](#egoissitc-and-saddistic)
     80. [Life Phase](#life-phase)
     81. [Genius And Dumb](#genius-and-dumb)
+    82. [Selective](#selective)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
