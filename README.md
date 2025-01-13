@@ -717,24 +717,28 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Each kid should have his/her own room after 14 years old/9th standard
 - Kids follow what others do and say, so do good things to make kids to follow
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
-- Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle
-- Be a part of kids, when they are studying at home at-least until 12/13 years
+- Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle for at-least 30 minutes
+- Be a part of kids, when they are studying at home at-least until 18/19 years old.
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
 - Train kids for each and everything things in life such as,
-      * Exam
-      * Study
-      * Competative exams
-      * Mentality
-      * Money management
-      * Angry Management
-      * Behaviour
-      * Personality
-      * Speaking
-      * Patience
-      * Education
-      * So on
+    1. Education
+    2. Exam
+    3. Study
+    4. Competative exams
+    5. Mentality
+    6. Money and Time management
+    7. Angry Management
+    8. Behaviour
+    9. Personality
+    10. Speaking
+    11. Patience
+    12. Dealing with People
+    13. Health
+    14. Friends circle
+    15. Good Habits
+
   - Teach/train kids not to react to anything very fast whatever in life
-    
+  - 
 
 ### Activities For Kids or Adults
 - Music class, dance class, drawing
