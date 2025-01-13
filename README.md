@@ -118,6 +118,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     80. [Life Phase](#life-phase)
     81. [Genius And Dumb](#genius-and-dumb)
     82. [Selective](#selective)
+    83. [Think Analyze and Act](#think-analyze-and-act)
+    84. [Plan And Act](#plan-and-act)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
