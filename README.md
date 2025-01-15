@@ -122,6 +122,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     84. [Plan And Act](#plan-and-act)
     85. [Purpose In Life](#purpose-in-life)
     86. [Fear Mongers](#fear-mongers)
+    87. [Insurance](#insurance)
+    88. [Shortcuts](#shortcuts)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -130,6 +132,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     4. [Sleeping problems and solutions](#sleeping-problems-and-solutions)
     5. [Health Test](#health-test)
     6. [Influencer](#influencer)
+    7. [Insurance](#insurance)
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset 1](#mindset-1)
     2. [Mindset 2](#mindset-2)
@@ -185,6 +188,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     2. [Data Base](#data-base)
     3. [Artificial Intelligence](#artificial-intelligence)
     4. [Cloud](#cloud)
+    5. [Embedded](#embedded)
        
 14. [Others 1](#others-1)
     1. [Travelling](#travelling)
@@ -352,6 +356,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to interpret a person via his/her personalities, his/her talking, from his/her past if possible, his/her motive
 - Stay away from person if you feel that a person is not good for you.
 - Learn to be gentlemen and nice, when you need something from someone or want some work from someone
+- Never ever thinks that their ass is better than your ass
   
 ### Chain of effects in life
 - will be added with diagram
@@ -785,7 +790,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
 - It is your responsibility to save you money, not others, always remember
-
+- One has to be very strict and conditional with money
+  
 ### Budgeting
 - Will be added later
   
@@ -1288,6 +1294,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If you get the chance for Job directly from foreign companies, take it. do not go for studies
 - Indians always think that grass is greener on the other side
 - You will have a language problem in EU countries. Difficult to grow and also you will have bad social life.
+- Never ever thinks that white ass is better than your ass
 
 ### Agreements and Contracts
 - Read the entire agreements first and understand it properly before signing it
