@@ -798,6 +798,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial buildings
 - Land(Agriculture/residentail land)
 - Gold
+- Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
   
 ### Money Saving Tips
 - Will be added later
@@ -1363,7 +1364,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Offering different plans for an exmple, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
 - Use template stratergy to build any business, or to grow faster
-
+-Start small always
+- Village--->small town--->big town--->state---->national---->global
+  
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
 # A new webpage will be created and all the above information will be added there(Work is in progress)
