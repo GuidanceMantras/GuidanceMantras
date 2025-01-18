@@ -124,6 +124,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     86. [Fear Mongers](#fear-mongers)
     87. [Insurance](#insurance)
     88. [Shortcuts](#shortcuts)
+    89. [Two Mentality](#two-mentality)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
