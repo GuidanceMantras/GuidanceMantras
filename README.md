@@ -125,6 +125,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     87. [Insurance](#insurance)
     88. [Shortcuts](#shortcuts)
     89. [Two Mentality](#two-mentality)
+    90. [Words](#words)
+    91. [Reaction](#reaction)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -173,13 +175,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 9. [Financial Management](#financial-management)
    1. [Finance 1](#finance-1)
    2. [Finance 2](#finance-2)
-   3. [Budgeting](#budgeting)
-   4. [Investment](#investment)
-   5. [Money Saving Tips](#money-saving-tips)
-   6. [Buying Things](#buying-things)
-   7. [Payment](#payment)
-   8. [Loans](#loans)
-   9. [Lending](#lending)
+   3. [Earning](#earning)
+   4. [Budgeting](#budgeting)
+   5. [Investment](#investment)
+   6. [Money Saving Tips](#money-saving-tips)
+   7. [Buying Things](#buying-things)
+   8. [Payment](#payment)
+   9. [Loans](#loans)
+   10. [Lending](#lending)
     
 10. [Profession](#profession)
 11. [Economy](#economy)
@@ -786,12 +789,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Keep a dairy for Money management, write down everything in it!
 - Check your bank statements or any other applications every week
 
+### Earning
+- Earning money is part of life, but you should know why you are earning money
+- You are earning money for good life, to pay rent or to build own house or to build own business
+- You are earning money to buy land or lend to someone
+  
 ### Money Handling
 - How money works
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
 - It is your responsibility to save you money, not others, always remember
 - One has to be very strict and conditional with money
+
   
 ### Budgeting
 - Will be added later
