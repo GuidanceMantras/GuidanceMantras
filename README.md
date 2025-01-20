@@ -1381,8 +1381,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Offering different plans for an exmple, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
 - Use template stratergy to build any business, or to grow faster
--Start small always
+- Start small always and grow big like below
 - Village--->small town--->big town--->state---->national---->global
+- Should know how to keep the margin of business to make profit
+- 
   
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
