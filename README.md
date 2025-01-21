@@ -130,6 +130,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     92. [Asking And Questioning](#asking-and-questioning)
     93. [Make A Peace ](#make-a-peace)
     94. [Worrying](#worrying)
+    95. [Rush And Hurry](#rush-and-hurry)
+    96. 
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
