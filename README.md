@@ -111,7 +111,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     73. [Doing Things](#doing-things)
     74. [Selfishness and Unselfishness](#selfishness-and-unselfishness)
     75. [Basic Civil Criminal And Labor Law](#basic-civil-criminal-and-labor-law)
-    76. [Sex Appeal](#sex-appeal)
+    76. [Argument](#argument)
     77. [Negotiations](#negotiations)
     78. [Compromise](#compromise)
     79. [Egoisstic And Saddistic](#egoissitc-and-saddistic)
@@ -129,6 +129,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     91. [Reaction](#reaction)
     92. [Asking And Questioning](#asking-and-questioning)
     93. [Make A Peace ](#make-a-peace)
+    94. [Worrying](#worrying)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -138,18 +139,22 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Health Test](#health-test)
     6. [Influencer](#influencer)
     7. [Insurance](#insurance)
+       
 3. [Mindset-Mentality and Brain](#mindset-mentality-and-brain)
     1. [Mindset 1](#mindset-1)
     2. [Mindset 2](#mindset-2)
     3. [Mentality](#mentality)
     4. [Brain](#brain)
+       
 4. [Mind/Manasu and Soul](#mind-/-manasu-and-soul)
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
     1. [Personality](#personality)
     2. [Behaviour](#Behaviour)
     3. [Patterns and Psychology](#patterns-and-psychology)
+       
 6. [Kids](#kids)
    1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
+      
 6. [Education](#education)
     1. [Free Education](#free-education)
     2. [After 10th](#after-10th)
@@ -157,6 +162,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     4. [After Degree](#after-degree)
     5. [Effective Use of Government schemes and Services](#effective-use-of-government-schemes-and-services)
     6. [Education for Government Jobs](#education-for-government-jobs)
+       
 7. [Study](#study)
     1. [How to keep your study environment](#how-to-keep-your-study-environment)
     2. [How to study 1](#how-to-study-1)
@@ -165,6 +171,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     5. [Build a daily routine for Exams or Study](#build-a-daily-routine-for-exams-or-study)
     6. [How to learn english](#how-to-learn-english)
     7. [Improve Speaking and your voice](#improve-speaking-and-your-voice)
+       
 8. [Jobs](#Jobs) 
    1. [How-to-decide-which-Job-either-Government-or-Private](#how-to-decide-which-job-either-government-or-private)
    2. [Government Jobs](#government-jobs)
@@ -174,6 +181,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    6. [Books for Government exams](#books-for-government-exams)
    7. [Private Jobs](#private-jobs)
    8. [Skills](#skills)
+      
 9. [Financial Management](#financial-management)
    1. [Finance 1](#finance-1)
    2. [Finance 2](#finance-2)
@@ -187,7 +195,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    10. [Lending](#lending)
     
 10. [Profession](#profession)
-11. [Economy](#economy)
+    
+12. [Economy](#economy)
     
 13. [Technologies](#technologies)
     1. [Programming](#programming)
@@ -207,6 +216,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     8. [Agreements and Contracts](#agreements-and-contracts)
     9. [Boys And Men](#boys-and-men)
     10. [Girls And Women](#girls-and-women)
+    11. [Sex Appeal](#sex-appeal)
        
  15. [Others 2](#others-2)
      1. [Studying in abroad](#studying-in-abroad)
@@ -221,7 +231,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      10. [Dear Daughter](#dear-daughter)
      11. [Men](#men)
     
-   
 16. [Business](#business)
     1. [Business_Stratergy](#business-stratergy)
        
