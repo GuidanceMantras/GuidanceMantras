@@ -128,6 +128,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     90. [Words](#words)
     91. [Reaction](#reaction)
     92. [Asking And Questioning](#asking-and-questioning)
+    93. [Make A Peace ](#make-a-peace)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
