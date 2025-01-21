@@ -127,6 +127,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     89. [Two Mentality](#two-mentality)
     90. [Words](#words)
     91. [Reaction](#reaction)
+    92. [Asking And Questioning](#asking-and-questioning)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
