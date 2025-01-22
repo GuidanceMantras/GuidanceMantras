@@ -380,6 +380,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Stay away from person if you feel that a person is not good for you.
 - Learn to be gentlemen and nice, when you need something from someone or want some work from someone
 - Never ever thinks that their ass is better than your ass
+- Follow the rule: Be with everyone, trust no one in life
+- Parents, Siblings and relative, friends are also people
+- Learn to deal with Parents, Siblings, relatives, friends
   
 ### Chain of effects in life
 - will be added with diagram
