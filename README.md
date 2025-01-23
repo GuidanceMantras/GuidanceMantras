@@ -138,6 +138,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     100. [5M](#5m)
     101. [Process](#process)
     102. [Learning By Observing](#learning-by-observing)
+    103. [Gratitude](#gratitude)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
