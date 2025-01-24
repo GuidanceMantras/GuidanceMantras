@@ -140,6 +140,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     102. [Learning By Observing](#learning-by-observing)
     103. [Gratitude](#gratitude)
     104. [Life Goal](#life-goal)
+    105. [Development](#development)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
