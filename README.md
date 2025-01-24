@@ -139,6 +139,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     101. [Process](#process)
     102. [Learning By Observing](#learning-by-observing)
     103. [Gratitude](#gratitude)
+    104. [Life Goal](#life-goal)
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -204,6 +205,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    10. [Payment](#payment)
    11. [Loans](#loans)
    12. [Lending](#lending)
+   13. [Financial Goal](#financial-goal)
     
 10. [Profession](#profession)
     
