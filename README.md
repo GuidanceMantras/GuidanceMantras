@@ -141,6 +141,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     103. [Gratitude](#gratitude)
     104. [Life Goal](#life-goal)
     105. [Development](#development)
+    106. [Information Gathering](#information-gathering)
+    107. [Work And Task Split](#work-and-task-split)
+    108. 
       
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
