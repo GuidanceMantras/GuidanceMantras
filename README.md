@@ -641,7 +641,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
       
 ### Negotiations
 - Will be added later
-  
+
 ### Compromise
 - Will be added later
   
@@ -663,6 +663,102 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ########## Dumb
 -
 
+### Selective
+- Will be added later
+
+### Think Analyze Plan and Act
+- Will be added later
+  
+### Plan And Act
+- Will be added later
+  
+### Purpose In Life
+- Will be added later
+  
+### Fear Mongers
+- Will be added later
+  
+### Insurance
+- Will be added later
+  
+### Shortcuts
+- Will be added later
+  
+### Two Mentality
+- Will be added later
+  
+### Words
+- Will be added later
+  
+### Reaction
+- Will be added later
+  
+### Asking And Questioning
+- Will be added later
+  
+### Make A Peace 
+- Will be added later
+  
+### Worrying
+- Will be added later
+  
+### Rush And Hurry
+- Will be added later
+  
+### Giving Back To Society
+- Will be added later
+  
+### Collaboration
+- Will be added later
+  
+### Accountability And Responsibility
+- Will be added later
+  
+### Cooking
+- Will be added later
+  
+### 5M
+- Will be added later
+  
+### Process
+- Will be added later
+  
+### Learning By Observing
+- Will be added later
+  
+### Gratitude
+- Will be added later
+  
+### Life Goal
+- Will be added later
+  
+### Development
+- Will be added later
+  
+### Information Gathering
+- Will be added later
+  
+### Work And Task Split
+- Will be added later
+  
+### Self Awareness And Self Consciousness
+- Will be added later
+  
+### Emotional Intelligence
+- Will be added later
+  
+### Listening
+- Will be added later
+  
+### Blaming
+- Will be added later
+  
+### Good And Bad
+- Will be added later
+  
+### Legs on Two Boats
+- Will be added later
+  
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
