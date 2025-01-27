@@ -99,8 +99,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     61. [Personal Development](#personal-development)
     62. [Cunning And Liar](#cunning-and-liar)
     63. [Helping Others](#helping-others)
-    64. [Self Reflection](#self-reflection)
-    65. [Self Improvement](#self-improvement)
+    64. [Self Reflection And Self Improvement](#self-reflection-and-self-improvement)
     66. [Calmness And Angry](#calmness-and-angry)
     67. [Life Boundaries](#life-boundaries)
     68. [Strength And Weakness](#strength-and-weakness)
@@ -146,6 +145,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     108. [Self Awareness And Self Consciousness](#self-awareness-and-self-consciousness)
     109. [Emotional Intelligence](#emotional-intelligence)
     110. [Listening](#listening)
+    111. [Blaming](#blaming)
+    112. [Good And Bad](#good-and-bad)
+    113. 
          
       
 2.  [Health](#health) 
