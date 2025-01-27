@@ -728,8 +728,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Nearly 80% of adults/kids have sleeping problems
 - Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1 or 2 hours
 - Do yoga and meditation for 30 mins in the evening before dinner
-- Do not use phone one hour before going to sleep
+- Do not use phone one hour before going to sleep, avoid watching TV/using laptop one hour before bed
+- Never ever drink tea or coffee of any kind, 4-5 hours before bed
+- Avoid drinking lots of water after dinner, just one small cup(250ml/300ml) is enough.
+- Keep phone is slient mode at night
 - Get good bath with hot water on shoulders and on back body before dinner in the evening
+- Maintain proper sleeping cycle at night. for an example, from 9:30 pm to 6:00 AM
+- Never ever sleep more than 30 minutes during day time
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 
