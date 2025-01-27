@@ -145,6 +145,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     107. [Work And Task Split](#work-and-task-split)
     108. [Self Awareness And Self Consciousness](#self-awareness-and-self-consciousness)
     109. [Emotional Intelligence](#emotional-intelligence)
+    110. [Listening](#listening)
          
       
 2.  [Health](#health) 
