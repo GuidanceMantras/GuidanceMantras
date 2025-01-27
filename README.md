@@ -436,7 +436,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
 - People use chant as  "Jai Shri Ram, Jai Jai Shri Ram" and "Om Namah Shivaya", "Om Shanthi, Om Shanthi" and " All is Well", "I can, I can"
-- ![hindu_mudra](./Hindu_mudra.JPG)
+- ![hindu_mudra](./Hindu_mudra_merge.png)
 
 ### Followers
 - Basically followers mean, anyone in the family or friends circle or professional circle
@@ -484,7 +484,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Critical-Analytical-logical-thinking and reasoning
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
-
+- ![analytical_thinking](./analytical_thinking.JPG)
 ### Build a daily routine
 - Wake up at 6:00/6:30
 - Get fresh and drink glass of water
@@ -527,7 +527,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Emotions
 - Emotions ruin your life and your finance
 - Never be emotional in life
-  
+- ![emotions](./emotions_merge.png)
 ### Future
 - Learn to think for future
 - Learn to fit for future
@@ -845,7 +845,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Budgeting
 - Will be added later
-  
+- ![budget](./budget.JPG)
 ### Investment
 - Passive income
 - Stocks(If you have basic knowledge)
