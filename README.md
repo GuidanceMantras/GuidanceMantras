@@ -646,7 +646,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
       
 ### Negotiations
 - Will be added later
-
+- ![Negotiation_1](./negotiation_merge_1.png)
+- ![Negotiation_2](./negotiation_merge_2.png)
+- ![Negotiation_3](./negotiation_merge_3.png)
+  
 ### Compromise
 - Will be added later
   
