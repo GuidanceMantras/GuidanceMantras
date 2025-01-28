@@ -139,7 +139,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     102. [Learning By Observing](#learning-by-observing)
     103. [Gratitude](#gratitude)
     104. [Life Goal](#life-goal)
-    105. [Development](#development)
+    105. [Personal Development](#personal-development)
     106. [Information Gathering](#information-gathering)
     107. [Work And Task Split](#work-and-task-split)
     108. [Self Awareness And Self Consciousness](#self-awareness-and-self-consciousness)
@@ -148,8 +148,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     111. [Blaming](#blaming)
     112. [Good And Bad](#good-and-bad)
     113. [Legs on Two Boats](#legs-on-two-boats)
+    114. [Organisation Leadership And Management Skills](#Organisation-leadership-and-management-skills)
+    115. [Mentoring Others](#mentoring-others)
+    116. [Preparation](#preparation)
+    117. [Reading](#reading)
+    118. [Personal And Professional Goal](#personal-and-professional-goal)
+    119. [Jai Shri Ram](#jai-shri-ram)
          
-      
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
