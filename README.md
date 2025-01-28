@@ -147,7 +147,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     110. [Listening](#listening)
     111. [Blaming](#blaming)
     112. [Good And Bad](#good-and-bad)
-    113. 
+    113. [Legs on Two Boats](#legs-on-two-boats)
          
       
 2.  [Health](#health) 
@@ -436,7 +436,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
 - People use chant as  "Jai Shri Ram, Jai Jai Shri Ram" and "Om Namah Shivaya", "Om Shanthi, Om Shanthi" and " All is Well", "I can, I can"
-- ![hindu_mudra](./Hindu_mudra.JPG)
+- ![hindu_mudra](./Hindu_mudra_merge.png)
 
 ### Followers
 - Basically followers mean, anyone in the family or friends circle or professional circle
@@ -484,7 +484,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Critical-Analytical-logical-thinking and reasoning
 - Learn/teach yourself/your kids to develop critical thinking, so that life become easier
-
+- ![analytical_thinking](./analytical_thinking.JPG)
 ### Build a daily routine
 - Wake up at 6:00/6:30
 - Get fresh and drink glass of water
@@ -527,7 +527,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Emotions
 - Emotions ruin your life and your finance
 - Never be emotional in life
-  
+- ![emotions](./emotions_merge.png)
 ### Future
 - Learn to think for future
 - Learn to fit for future
@@ -641,7 +641,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
       
 ### Negotiations
 - Will be added later
-  
+
 ### Compromise
 - Will be added later
   
@@ -663,6 +663,102 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ########## Dumb
 -
 
+### Selective
+- Will be added later
+
+### Think Analyze Plan and Act
+- Will be added later
+  
+### Plan And Act
+- Will be added later
+  
+### Purpose In Life
+- Will be added later
+  
+### Fear Mongers
+- Will be added later
+  
+### Insurance
+- Will be added later
+  
+### Shortcuts
+- Will be added later
+  
+### Two Mentality
+- Will be added later
+  
+### Words
+- Will be added later
+  
+### Reaction
+- Will be added later
+  
+### Asking And Questioning
+- Will be added later
+  
+### Make A Peace 
+- Will be added later
+  
+### Worrying
+- Will be added later
+  
+### Rush And Hurry
+- Will be added later
+  
+### Giving Back To Society
+- Will be added later
+  
+### Collaboration
+- Will be added later
+  
+### Accountability And Responsibility
+- Will be added later
+  
+### Cooking
+- Will be added later
+  
+### 5M
+- Will be added later
+  
+### Process
+- Will be added later
+  
+### Learning By Observing
+- Will be added later
+  
+### Gratitude
+- Will be added later
+  
+### Life Goal
+- Will be added later
+  
+### Development
+- Will be added later
+  
+### Information Gathering
+- Will be added later
+  
+### Work And Task Split
+- Will be added later
+  
+### Self Awareness And Self Consciousness
+- Will be added later
+  
+### Emotional Intelligence
+- Will be added later
+  
+### Listening
+- Will be added later
+  
+### Blaming
+- Will be added later
+  
+### Good And Bad
+- Will be added later
+  
+### Legs on Two Boats
+- Will be added later
+  
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
@@ -845,7 +941,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Budgeting
 - Will be added later
-  
+- ![budget](./budget.JPG)
 ### Investment
 - Passive income
 - Stocks(If you have basic knowledge)
