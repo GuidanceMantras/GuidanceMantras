@@ -93,14 +93,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     55. [Manipulators](#manipulators)
     56. [Provokers](#provokers)
     57. [Influencers](#influencers)
-    58. [Jealousy And Angry](#jealousy-and-angry)
+    58. [Jealousy](#jealousy)
     59. [Controlling](#controlling)
     60. [Rest And Mindfulness](#rest-and-mindfulness)
     61. [Personal Development](#personal-development)
     62. [Cunning And Liar](#cunning-and-liar)
     63. [Helping Others](#helping-others)
     64. [Self Reflection And Self Improvement](#self-reflection-and-self-improvement)
-    66. [Calmness And Angry](#calmness-and-angry)
+    65. [Anger Management](#anger-management)
+    66. [Calmness](#calmness)
     67. [Life Boundaries](#life-boundaries)
     68. [Strength And Weakness](#strength-and-weakness)
     69. [Mentor](#mentor)
@@ -470,7 +471,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Helping Others
 - Will be added later
+
+### Self Reflection And Self Improvement
+- Will be added later
+- ![happiness](./Happiness.JPG)
   
+### Anger Management
+- Will be added later
+- ![anger_management](./anger_management.png)
+        
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
@@ -508,7 +517,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Self Management
 - Will be added later
-- ![self-management](./SELF-MANAGEMENT-2-320.webp)
+- ![self-management](./self_management_merge.png)
 
 ### Build Good Habits
 - Added photo
@@ -749,13 +758,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Self Awareness And Self Consciousness
 - Will be added later
-- ![self-awareness](./Self-Awareness-Strategies.webp)
+- ![self-awareness](./self_awarness_merge.png)
   
 ### Emotional Intelligence
 - Will be added later
   
 ### Listening
 - Will be added later
+- ![happiness](./listening_merge.png)
   
 ### Blaming
 - Will be added later
