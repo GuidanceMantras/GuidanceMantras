@@ -141,7 +141,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     103. [Gratitude](#gratitude)
     104. [Life Goal](#life-goal)
     105. [Personal Development](#personal-development)
-    106. [Information Gathering](#information-gathering)
+    106. [Information Gathering And Knowledge Acquiring](#information-gathering-and-knowledge-acquiring)
     107. [Work And Task Split](#work-and-task-split)
     108. [Self Awareness And Self Consciousness](#self-awareness-and-self-consciousness)
     109. [Emotional Intelligence](#emotional-intelligence)
@@ -154,7 +154,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     116. [Preparation](#preparation)
     117. [Reading](#reading)
     118. [Personal And Professional Goal](#personal-and-professional-goal)
-    119. [Jai Shri Ram](#jai-shri-ram)
+    119. [Positive And Negative](#positive-and-negative)
+    120. [Jai Shri Ram](#jai-shri-ram)
          
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
