@@ -407,6 +407,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Follow the rule: Be with everyone, trust no one in life
 - Parents, Siblings and relative, friends are also people
 - Learn to deal with Parents, Siblings, relatives, friends
+- Learn to deal with people with different personalities  and behaviour such as Rude, Negative, difficult, soft and hard
+- Learn to deal with people at work
+
   
 ### Chain of effects in life
 - will be added with diagram
