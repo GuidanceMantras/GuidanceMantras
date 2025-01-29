@@ -145,7 +145,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     108. [Self Awareness And Self Consciousness](#self-awareness-and-self-consciousness)
     109. [Emotional Intelligence](#emotional-intelligence)
     110. [Listening](#listening)
-    111. [Blaming](#blaming)
+    111. [Blaming And Responsibility](#blaming-and-responsibility)
     112. [Good And Bad](#good-and-bad)
     113. [Legs on Two Boats](#legs-on-two-boats)
     114. [Organisation Leadership And People Management Skills](#Organisation-leadership-and-people-management-skills)
@@ -650,9 +650,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Basic Civil and Criminal Law
 - Will be added later
   
-### Sex Appeal
-- Will be added later
-      
 ### Negotiations
 - Will be added later
 - ![Negotiation_1](./negotiation_merge_1.png)
@@ -767,7 +764,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 - ![happiness](./listening_merge.png)
   
-### Blaming
+### Blaming And Responsibility
 - Will be added later
   
 ### Good And Bad
@@ -1453,6 +1450,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   ![Men](./Boys_Men.JPG)
 
 ### Girls And Women
+- Will be added later
+
+### Sex Appeal
 - Will be added later
   
 ## Others 2
