@@ -106,7 +106,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     69. [Mentor](#mentor)
     70. [Ignore And Adapt](#ignore-and-adapt)
     71. [Two Face](#two-face)
-    72. [Shortcuts](#shortcuts)
     73. [Doing Things](#doing-things)
     74. [Selfishness and Unselfishness](#selfishness-and-unselfishness)
     75. [Basic Civil Criminal And Labor Law](#basic-civil-criminal-and-labor-law)
@@ -148,7 +147,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     111. [Blaming](#blaming)
     112. [Good And Bad](#good-and-bad)
     113. [Legs on Two Boats](#legs-on-two-boats)
-    114. [Organisation Leadership And Management Skills](#Organisation-leadership-and-management-skills)
+    114. [Organisation Leadership And People Management Skills](#Organisation-leadership-and-people-management-skills)
     115. [Mentoring Others](#mentoring-others)
     116. [Preparation](#preparation)
     117. [Reading](#reading)
@@ -509,6 +508,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Self Management
 - Will be added later
+- ![self-management](./SELF-MANAGEMENT-2-320.webp)
 
 ### Build Good Habits
 - Added photo
@@ -588,7 +588,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Similarly, feed good information into your brain, your brain works well
 - Train your brain with good information each day
 - Train your kids as well
-  - ![brain](./Brain.JPG)
+- ![brain](./Brain.JPG)
 
 ### Experience and Exposure
 - Will be added later
@@ -616,9 +616,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - ![controlling](./Controlling.JPG)
   
 ### Rest And Mindfulness
-
 - Will be added later
-- ![rest](./Rest_Merge.png)  
+- ![rest](./Rest_Merge.png)
+  
 ### Personal Development
 - Will be added later
 
@@ -689,9 +689,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Insurance
 - Will be added later
   
-### Shortcuts
-- Will be added later
-  
 ### Two Mentality
 - Will be added later
   
@@ -727,7 +724,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### 5M
 - Will be added later
-  
+- ![5M](./5M.jfif)
+    
 ### Process
 - Will be added later
   
@@ -751,6 +749,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Self Awareness And Self Consciousness
 - Will be added later
+- ![self-awareness](./Self-Awareness-Strategies.webp)
   
 ### Emotional Intelligence
 - Will be added later
@@ -766,7 +765,26 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Legs on Two Boats
 - Will be added later
+
+### Organisation Leadership And People Management Skills
+- Will be added later
   
+### Mentoring Others
+- Will be added later
+  
+### Preparation
+- Will be added later
+  
+### Reading
+- Will be added later
+  
+### Personal And Professional Goal
+- Will be added later
+  
+### Jai Shri Ram
+- Will be added later
+- ![Jai Jai Shri Ram](./Jai_Jai_Shree_ram.jfif)
+    
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
