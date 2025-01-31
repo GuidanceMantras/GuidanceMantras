@@ -980,7 +980,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to handle money in tough and easy situation
 - It is your responsibility to save you money, not others, always remember
 - One has to be very strict and conditional with money
-
+- Stop spending like there is no tomorrow
   
 ### Budgeting
 - Will be added later
