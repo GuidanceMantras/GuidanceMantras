@@ -156,6 +156,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     118. [Personal And Professional Goal](#personal-and-professional-goal)
     119. [Positive And Negative](#positive-and-negative)
     120. [Jai Shri Ram](#jai-shri-ram)
+    121. [Thick Skin](#think-skin)
+    122. [Strong Backup And Strong Backbone](#strong-backup-and-strongbone)
          
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
