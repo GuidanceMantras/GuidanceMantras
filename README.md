@@ -158,7 +158,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     120. [Jai Shri Ram](#jai-shri-ram)
     121. [Thick Skin](#think-skin)
     122. [Strong Backup And Strong Backbone](#strong-backup-and-strongbone)
-         
+    123. [Small Talk](#small-talk)
+    124. [Stop Oversharing](#stop-oversharing)
+    125. [Pretend](#pretend)
+    126. [Show Off](#show-off)
+        
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
