@@ -805,7 +805,32 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Jai Shri Ram
 - Will be added later
 - ![Jai Jai Shri Ram](./Jai_Jai_Shree_ram.jfif)
-    
+
+### Positive And Negative
+- Will be added later
+  
+### Thick Skin
+- Will be added later
+  
+### Strong Backup And Strong Backbone
+- Will be added later
+  
+### Small Talk
+- Learn how to start small talk
+- Small talk helps in building relationships, starting a relationships
+- Small talk helps in resolving conflicts, problem sloving, understanding other people
+- Small talk helps in getting information, gaining knowledge
+- Small talk helps in advising others, suggesting something
+  
+## Stop Oversharing
+- Will be added later
+  
+### Pretend
+- Will be added later
+  
+### Show Off
+- Will be added later
+  
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
 - Mind/Manasu helps you in your thoughts either positive/negative
