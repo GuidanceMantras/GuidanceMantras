@@ -441,11 +441,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * think about consequences
 - Take always more time to react
 
-### Follow
+### Following
 - Will be added later
 
-### Inferiority Superirity Complex
-- Will be added later
+### Inferiority Superiority Complex
+###### Inferiority Complex
+
+###### Superiority Complex
+- Most of the time in our life, we need to come out of mindset that other person is superior to you in terms of knowledge, wealth, intelligence and power
+- But, sometimes, we need to ack dumb infront of knowledgeable, intellgient, wealthy people
+- 
 
 ### Comparison
 - Will be added later
