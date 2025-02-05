@@ -1013,6 +1013,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You are earning money to buy land or lend to someone
   
 ### Money Handling
+- Be conditional with money, money comes first over friendships, relationships, professionalism and whatever it is.
 - How money works
 - Learn to handle money from small at 1 Rs to big 1 cr and more
 - Learn to handle money in tough and easy situation
