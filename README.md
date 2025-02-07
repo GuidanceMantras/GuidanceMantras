@@ -229,6 +229,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    11. [Loans](#loans)
    12. [Lending](#lending)
    13. [Financial Goal](#financial-goal)
+   14. [Making Money](#making-money)
     
 10. [Profession](#profession)
     
@@ -1020,6 +1021,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - It is your responsibility to save you money, not others, always remember
 - One has to be very strict and conditional with money
 - Stop spending like there is no tomorrow
+- Learn to play with money safely and focus on doubling it
   
 ### Budgeting
 - Will be added later
@@ -1071,6 +1073,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Lending
 - Never lend money to anyone such as relatives, friends, strangers and colleagues without any document or collateral
+
+### Making Money
+- Making money is a skills
+- Making money needs efforts and money as well
+- Making money needs your time or your money or some times both money and time
   
 ## Study
 
