@@ -1035,6 +1035,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial buildings
 - Land(Agriculture/residentail land)
 - Gold
+- Fixed Deposit in Banks
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
   
 ### Money Saving Tips
