@@ -420,7 +420,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not trsut anyone, but be with everyone
 - Keep the reltionships and money separate
 - If relationships need free money, stay away from those kind of relationships
-
+- Never ever do any kind of business or money transaction with anyone without any security documents or collateral 
   
 ### Chain of effects in life
 - will be added with diagram
@@ -1027,7 +1027,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to play with money safely and focus on doubling it
 - Keep the reltionships and money separate
 - If relationships need free money, stay away from those kind of relationships
-  
+- Never ever do any kind of business or money transaction with anyone without any security documents or collateral
+
+
 ### Budgeting
 - Will be added later
 - ![budget](./budget.JPG)
@@ -1080,11 +1082,15 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Lending
 - Never lend money to anyone such as relatives, friends, strangers and colleagues without any document or collateral
 
+
 ### Making Money
 - Making money is a skills
 - Making money needs efforts and money as well
 - Making money needs your time or your money or some times both money and time
-  
+
+### Agreements And Contracts
+- Always focus on having an agreements/contracts as per your wishes or on your side, in case of disputes, you can have upper hand in court
+
 ## Study
 
 ### How to keep your study environment
@@ -1546,7 +1552,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Read each clause and try to negotiate if you find something suspicious
 - When you are making agreements includes everything whatever is possible
 - People make money by giving bad agreements and taking agreements in real life
-
+- Always focus on having an agreements/contracts as per your wishes or on your side, in case of disputes, you can have upper hand in court
+    
 ### Important Applications 
 - Spotify(For songs/Mantras/Study and work music, English podcast)
 - Microsoft ToDo(for listing yoir daily tasks)
