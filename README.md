@@ -417,6 +417,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to deal with Parents, Siblings, relatives, friends
 - Learn to deal with people with different personalities  and behaviour such as Rude, Negative, difficult, soft and hard
 - Learn to deal with people at work
+- Do not trsut anyone, but be with everyone
+- Keep the reltionships and money separate
+- If relationships need free money, stay away from those kind of relationships
 
   
 ### Chain of effects in life
@@ -1022,6 +1025,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One has to be very strict and conditional with money
 - Stop spending like there is no tomorrow
 - Learn to play with money safely and focus on doubling it
+- Keep the reltionships and money separate
+- If relationships need free money, stay away from those kind of relationships
   
 ### Budgeting
 - Will be added later
