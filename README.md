@@ -1090,6 +1090,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Agreements And Contracts
 - Always focus on having an agreements/contracts as per your wishes or on your side, in case of disputes, you can have upper hand in court
+- Never ever sign any agreements/contracts without checking with two or three lawyers
+- Always take lawyer suggestions before signing any agreements or contracts
 
 ## Study
 
