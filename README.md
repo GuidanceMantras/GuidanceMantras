@@ -948,9 +948,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Kids
 
 ### How to raise Kids
-- 
--
--
+- Never ever reveal your wealth to kids until 23 years old
+- Always make sure that kids get want they needed, instead of buying expensive things
+- Kids should only know that they have their own home and that would be enough
 - Each kid should have his/her own room after 14 years old/9th standard
 - Kids follow what others do and say, so do good things to make kids to follow
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
@@ -973,6 +973,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     13. Health
     14. Friends circle
     15. Good Habits
+    16. Emotional intelligence
 
   - Teach/train kids not to react to anything very fast whatever in life
   - 
