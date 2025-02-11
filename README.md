@@ -187,6 +187,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
        
 6. [Kids](#kids)
    1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
+   2. [Being A Father](#being-a-father)
+   3. [Being A Mother](#being-a-mother)
       
 6. [Education](#education)
     1. [Free Education](#free-education)
