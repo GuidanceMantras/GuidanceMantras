@@ -166,6 +166,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     128. [Relationships](#relationships)
     129. [Shaming](#shaming)
     130. [Teasing And Taunting](#teasing-and-taunting)
+    131. [Involvement And Participation](#involvement-and-participation)
+    132. [Angry And Stress Management](#angry-and-stress-management)
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -956,13 +958,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Kids
 
 ### How to raise Kids
-- Never ever reveal your wealth to kids until 23 years old
-- Always make sure that kids get want they needed, instead of buying expensive things
+- Never ever reveal your wealth to kids until 20 years old
+- Always make sure that kids get only basic things in life, instead of buying expensive things
 - Kids should only know that they have their own home and that would be enough
-- Each kid should have his/her own room after 14 years old/9th standard
-- Kids follow what others do and say, so do good things to make kids to follow
+- Each kid should have his/her own room after 13 years old/8th standard
+- Kids follow what others do and say, so do good things to make kids to follow you
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
 - Talk to kids each day about their day, study, sports, mind, mental and physical health, friends circle for at-least 30 minutes
+- Train kids to physically and mentally fit each day.
 - Be a part of kids, when they are studying at home at-least until 18/19 years old.
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
 - Train kids for each and everything things in life such as,
@@ -971,8 +974,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. Study
     4. Competative exams
     5. Mentality
-    6. Money and Time management
-    7. Angry Management
+    6. Money and Time Management
+    7. Angry And Stress Management
     8. Behaviour
     9. Personality
     10. Speaking
@@ -982,6 +985,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     14. Friends circle
     15. Good Habits
     16. Emotional intelligence
+    17. Physical and Mental Fitness
 
   - Teach/train kids not to react to anything very fast whatever in life
   - 
