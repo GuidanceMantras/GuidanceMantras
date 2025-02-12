@@ -638,7 +638,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### Manipulators
-- Will be added later
+- People will manipulate you to do tasks or obey their orders
+- Based on your mentality, you decided to do the task or obey their orders
+- For an example, my friend used to manipulate me to drink alcohol when I told him about my sleeping problem
+- My friend tells me to drink alcohol to get better sleep, fortunately, due to my tough mentality, I ignored him
   
 ### Provokers
 - Will be added later
