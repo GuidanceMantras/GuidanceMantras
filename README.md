@@ -168,6 +168,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     130. [Teasing And Taunting](#teasing-and-taunting)
     131. [Involvement And Participation](#involvement-and-participation)
     132. [Angry And Stress Management](#angry-and-stress-management)
+    133. [Daily Needed Phrases](#daily-needed-phrases]
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -854,6 +855,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### Uncertainity In Life
+- Will be added later
+
+### Daily Needed Phrases
 - Will be added later
   
 ## Mind-Manasu and Soul
