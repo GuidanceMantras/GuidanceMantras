@@ -171,6 +171,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     133. [Daily Needed Phrases](#daily-needed-phrases]
     134. [Tolerance And Adapt](#tolerance-and-adapt)
     135. [Regret And Rectify/Overcome](#regret-and-rectify/Overcome)
+    136. [Individuality](#individuality)
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
