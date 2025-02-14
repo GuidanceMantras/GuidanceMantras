@@ -847,8 +847,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Small talk helps in resolving conflicts, problem sloving, understanding other people
 - Small talk helps in getting information, gaining knowledge
 - Small talk helps in advising others, suggesting something
+
+### Individuality
+- Each person is individual, each person has his own personalities, behaviour and skillset
+- Each person has his/her own responsibilities, problems, people and financial management skills
+- Each person has his/her own intelligence, knowledge, own living style, preferences
+- Each person has his/her own priorities, decision making skills, doing things
   
-## Stop Oversharing
+### Stop Oversharing
 - Will be added later
   
 ### Pretend
