@@ -170,6 +170,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     132. [Angry And Stress Management](#angry-and-stress-management)
     133. [Daily Needed Phrases](#daily-needed-phrases]
     134. [Tolerance And Adapt](#tolerance-and-adapt)
+    135. [Regret And Rectify/Overcome](#regret-and-rectify/Overcome)
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
