@@ -168,10 +168,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     130. [Teasing And Taunting](#teasing-and-taunting)
     131. [Involvement And Participation](#involvement-and-participation)
     132. [Angry And Stress Management](#angry-and-stress-management)
-    133. [Daily Needed Phrases](#daily-needed-phrases]
+    133. [Daily Needed Phrases](#daily-needed-phrases)
     134. [Tolerance And Adapt](#tolerance-and-adapt)
     135. [Regret And Rectify/Overcome](#regret-and-rectify/Overcome)
     136. [Individuality](#individuality)
+    137. [Playbook And Rule](#playbook-and-rule)
+    138. [Rule Of Thumb](#rule-of-thumb)
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
