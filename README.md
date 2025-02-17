@@ -178,6 +178,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     140. [Attitude And Aggression ](#attitude-and-aggression)
     141. [Ego And Swollen Head](#ego-and-swollen-head)
     142. [Simplicity](#simplicity)
+    143. [Requesting Help](#requesting-help)
+    144. [Being A Relative](#being-a-relative)
+    145. [Being A Friend](#being-a-friend)
 
         
 2.  [Health](#health) 
@@ -207,6 +210,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
    2. [Being A Father](#being-a-father)
    3. [Being A Mother](#being-a-mother)
+   4. [Being A Sister](#being-a-sister)
+   5. [Being A Brother](#being-a-brother)
       
 6. [Education](#education)
     1. [Free Education](#free-education)
