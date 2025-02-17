@@ -174,6 +174,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     136. [Individuality](#individuality)
     137. [Playbook And Rule](#playbook-and-rule)
     138. [Rule Of Thumb](#rule-of-thumb)
+    139. [Body Shaming And Bullying](#body-shaming-and-bullying)
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
