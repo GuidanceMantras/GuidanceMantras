@@ -175,6 +175,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     137. [Playbook And Rule](#playbook-and-rule)
     138. [Rule Of Thumb](#rule-of-thumb)
     139. [Body Shaming And Bullying](#body-shaming-and-bullying)
+    140. [Attitude And Aggression ](#attitude-and-aggression)
+    141. [Ego And Swollen Head](#ego-and-swollen-head)
+    142. [Simplicity](#simplicity)
+
         
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -194,8 +198,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 4. [Mind/Manasu and Soul](#mind-/-manasu-and-soul)
 5. [Personality-Behaviour and Psychology](#personality-behaviour-and-psychology)
     1. [Personality](#personality)
-    2. [Behaviour](#Behaviour)
-    3. [Patterns and Psychology](#patterns-and-psychology)
+         1. [Positive Personalities](#positive-personalities)
+         2. [Negative Personalities](#negative-personalities)
+    3. [Behaviour](#Behaviour)
+    4. [Patterns and Psychology](#patterns-and-psychology)
        
 6. [Kids](#kids)
    1. [Activities For Kids or Adults](#activities-for-kids-or-adults)
