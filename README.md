@@ -873,6 +873,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - "Sari Sari" or "Okay Okay" for everything such as asking/requesting/commending/ordering, procative, manipulative and influencing talks
 - "I need somemore time" or "I will think about it" or "I will give my response/answer later" for any decision making tasks
 - "I do not have" or "I will think about it" or "I will talk to you later", for any request such as money, time consuming helps
+- "I do not know" or "We will talk about it later" if anyone ask about someone or something
+- Depending upon the circumstances, use the above phrases
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
