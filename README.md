@@ -188,6 +188,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     150. [Actions And Consequences](#actions-and-consequences)
     151. [Move On](#move-on)
     152. [Gratitude](#gratitude)
+    153. [Perception](#perception)
 
         
 2.  [Health](#health) 
