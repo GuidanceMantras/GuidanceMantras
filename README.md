@@ -245,6 +245,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    14. [Lending](#lending)
    15. [Financial Goal](#financial-goal)
    16. [Making Money](#making-money)
+   17. [Money From Government](#money-from-government)
     
 10. [Profession](#profession)
     
@@ -1123,6 +1124,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never ever sign any agreements/contracts without checking with two or three lawyers
 - Always take lawyer suggestions before signing any agreements or contracts
 
+### Money From Government
+- Government money means your money. You pay tax directly and indirectly
+- You should focus also on government money even if you are not government employees.
+- There are different means to get government money such as getting all government services (hospital, education, bus and so on), government subsidies
+- You can also get government money via contactual work, leasing/lending something to government,
+  
 ## Study
 
 ### How to keep your study environment
