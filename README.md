@@ -870,7 +870,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### Daily Needed Phrases
-- Will be added later
+- "Sari Sari" or "Okay Okay" for everything such as asking/requesting/commending/ordering, procative, manipulative and influencing talks
+- "I need somemore time" or "I will think about it" or "I will give my response/answer later" for any decision making tasks
+- "I do not have" or "I will think about it" or "I will talk to you later", for any request such as money, time consuming helps
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
