@@ -458,6 +458,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never ever do any kind of business or money transaction with anyone without any security documents or collateral
 - Learn to deal with educated and uneducated people, poor and rich, smart and dumb, men and women, girls and boys, young and old
 - Learn to deal with weak and strong people, in terms of physic, power, money, knowledge, education, age, race, experience, background and so on
+- Learn to deal with people based on situation, mood, consequences, privilege, different personalities, area/region and so on
   
 ### Chain of effects in life
 - will be added with diagram
