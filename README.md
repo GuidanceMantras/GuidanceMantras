@@ -981,6 +981,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never ever reveal your wealth to kids until 20 years old
 - Always make sure that kids get only basic things in life, instead of buying expensive things
 - Kids should only know that they have their own home and that would be enough
+- Kids should never talk/know about your wealth until 23 years old
 - Each kid should have his/her own room after 13 years old/8th standard
 - Kids follow what others do and say, so do good things to make kids to follow you
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
