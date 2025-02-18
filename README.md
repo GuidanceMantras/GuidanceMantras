@@ -1005,6 +1005,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always make sure that kids get only basic things in life, instead of buying expensive things
 - Kids should only know that they have their own home and that would be enough
 - Kids should never talk/know about your wealth until 23 years old
+- Kids will not have easy access to money until 22 years either from you, relatives, strangers or friends
 - Each kid should have his/her own room after 13 years old/8th standard
 - Kids follow what others do and say, so do good things to make kids to follow you
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
@@ -1092,6 +1093,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Budgeting
 - Will be added later
 - ![budget](./budget.JPG)
+  
 ### Investment
 - Passive income
 - Stocks(If you have basic knowledge)
@@ -1102,6 +1104,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Land(Agriculture/residentail land)
 - Gold
 - Fixed Deposit in Banks
+- Diversification of investment for passive income
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
   
 ### Money Saving Tips
@@ -1157,6 +1160,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - You should focus also on government money even if you are not government employees.
 - There are different means to get government money such as getting all government services (hospital, education, bus and so on), government subsidies
 - You can also get government money via contactual work, leasing/lending something to government,
+
+### Be Aware
+- Always be aware of unemployed agents, brokers in any fields
+- Be aware of no-work governemnt employees, people
+- Most of the time, you lose your money for unemployed and no-work, jobless people
   
 ## Study
 
