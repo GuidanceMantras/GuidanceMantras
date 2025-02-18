@@ -196,6 +196,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     158. [Piece Of Pie](#piece-of-pie)
     159. [Stay UpTo Date](#stay-upto-date)
     160. [Caution](#caution)
+    161. [Delegate Or Outsourcing](#delegate-or-outsourcing)
          
 
 2.  [Health](#health) 
