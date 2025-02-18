@@ -197,7 +197,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     159. [Stay UpTo Date](#stay-upto-date)
     160. [Caution](#caution)
     161. [Delegate Or Outsourcing](#delegate-or-outsourcing)
-         
+    162. [Car](#car)
+    163. [Monkey](#money)
+    164. [Horse](#horse)
+    165. [Talking](#talking)
+                  
 
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
