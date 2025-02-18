@@ -1610,7 +1610,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always read book about life/finance/Management/Technology/Education
 - You can save your online books in Github as well
 - You can write everything in your life/your planning for a day in the below applications
-- Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/)
+- Use microsoft To-Do applications for free for planning (https://to-do.office.com/tasks/), use of life, finance, professional or business planning
 - Buy used second hand books for free
 - Search online best-seller for each topics
 
@@ -1638,7 +1638,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     
 ### Important Applications 
 - Spotify(For songs/Mantras/Study and work music, English podcast)
-- Microsoft ToDo(for listing yoir daily tasks)
+- Microsoft ToDo(for listing your daily tasks)  use of life, finance, professional or business planning
 - Udemy( For learning new skills)
 - Splitwise(To share expenses with friends or someone)
 - Ebay or olx (to sell abd buy used good, there is also an option to bid the items)
