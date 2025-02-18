@@ -183,12 +183,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     145. [Being A Friend](#being-a-friend)
     146. [Feedback](#feedback)
     147. [Unnecessary Talks](#unnecessary-talks)
-    148. [Good Gesture](#good-gesture)
+    148. [Good Gesture Or Treat Well](#good-gesture-or-treat-well)
     149. [Rewarding](#rewarding)
     150. [Actions And Consequences](#actions-and-consequences)
     151. [Move On](#move-on)
     152. [Gratitude](#gratitude)
     153. [Perception](#perception)
+    154. [Race](#race)
+    155. [Leave or Let Go](#leave-or-let-go)
 
         
 2.  [Health](#health) 
@@ -266,6 +268,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    15. [Financial Goal](#financial-goal)
    16. [Making Money](#making-money)
    17. [Money From Government](#money-from-government)
+   18. [Be Aware](#be-aware)
+   19. [Money Leaks](#money-leaks)
     
 10. [Profession](#profession)
     
@@ -1165,6 +1169,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always be aware of unemployed agents, brokers in any fields
 - Be aware of no-work governemnt employees, people
 - Most of the time, you lose your money for unemployed and no-work, jobless people
+
+### Money Leaks
+- Everyone will have money leaks, focus on patching the money leaks slowly
   
 ## Study
 
