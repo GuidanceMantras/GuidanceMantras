@@ -192,8 +192,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     154. [Race](#race)
     155. [Leave or Let Go](#leave-or-let-go)
     156. [Sustainability](#sustainability)
+    157. [Interpretation](#interpretation)
+    158. [Piece Of Pie](#piece-of-pie)
+    159. [Stay UpTo Date](#stay-upto-date)
+         
 
-        
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
     2. [Mental Health](#mental-health)
@@ -271,6 +274,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    17. [Money From Government](#money-from-government)
    18. [Be Aware](#be-aware)
    19. [Money Leaks](#money-leaks)
+   20. [Piece Of Pie](#piece-of-pie)
     
 10. [Profession](#profession)
     
@@ -1173,6 +1177,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Money Leaks
 - Everyone will have money leaks, focus on patching the money leaks slowly
+
+### Piece Of Pie
+- Everybody wants piece of pie in your success or money or happiness, learn to know how and when to share the piece of pie in your happiness, money or knowledge
+- Sometimes, giving piece of pie gives you peace in life
   
 ## Study
 
