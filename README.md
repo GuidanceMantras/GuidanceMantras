@@ -432,7 +432,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Networking
 - Please be connected with likely minded people everyday always
 - Networking gives you more knowledge than anything and sometimes help as well
-  
+- Networking gives you latest update about economy, money making ideas or ways, system loopholes, system schemes and subsidies
+
 ### Planning
 - Plan everything in your life, such as getting Jobs, going out or doing something, eventually it reduce the burden and save time
 - Always plan in your life for next 5 to 10 years ahead
