@@ -203,6 +203,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     165. [Talking](#talking)
     166. [Money God Family And Health](#money-god-family-health)
     167. [Optimization](#optimization)
+    168. [Open Minded](#open-minded)
         
                   
 2.  [Health](#health) 
