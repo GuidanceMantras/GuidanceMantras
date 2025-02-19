@@ -475,6 +475,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to deal with educated and uneducated people, poor and rich, smart and dumb, men and women, girls and boys, young and old
 - Learn to deal with weak and strong people, in terms of physic, power, money, knowledge, education, age, race, experience, background and so on
 - Learn to deal with people based on situation, mood, consequences, privilege, different personalities, area/region and so on
+- Learn to deal with negative personalities traits such as lazy, talktive, free-rider, gold digger, sponger, freeloader, parasite, moocher, leech, angry, agressive, jealous, gossip
+- Negative personalities: Irresponsible, Inflexible, Indecisive, Impatient, Narcissistic, 
+- Negative Personalities:
+- Learn to deal with people with positive personalities such as tolerant, patience, 
   
 ### Chain of effects in life
 - will be added with diagram
