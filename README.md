@@ -623,8 +623,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### Problem Solving
-- Will be added later
-  
+- You have to learn to solve problem in all the environments such as life, profession, business
+- Focus on problem one at a time
+- Write down the problem on a paper, find the possible root cause and fixes for it
+- Notedown pros and cons of each fixes, then chose the best out of all the fixes
+- Always, never ever rule out cons of fixes before taking decision
+- Find the root cause of each problem and fix for them
+- If you can not find the fix for the problem, then focus on eliminating the problem itself most of the time
+- Always remember, each problem will have a solution
+
+
 ### Knowledge Sharing
 - Whatever you learn, always build the habits of sharing
 - Always share your knowledge with others such as brothers, sisters, relatives and friends
