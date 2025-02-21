@@ -205,6 +205,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     167. [Optimization](#optimization)
     168. [Open Minded](#open-minded)
     169. [Interpreatation](#interpretation)
+    170. [Punishing](#punishing)
+    171. [Tolerance](#tolerance)
+    172. [Silence And Secrecy](#silence-and-secrecy)
+    173. 
         
                   
 2.  [Health](#health) 
@@ -790,7 +794,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Words
-- Will be added later
+- In life, always give sometime to think about each and every words before reacting to each words
+- If you can not think/analyze on the spontaneously, take time and just be calm at that time
+- When you get free time or free-up your mind, give time to think/analyze about other's people words/sentence
+- Sometimes, it is better not to react to any words/sentence at all for your peace
+- Sometimes, it is better to give time to think/analyze other's word for your future actions/planning
+- Sometimes, some words/sentence gives you future prospective of something/someone else behaviour/actions
+  
   
 ### Reaction
 - Will be added later
