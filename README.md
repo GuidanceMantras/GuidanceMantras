@@ -766,6 +766,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Discussion with two/three knowledgeable people about your negotiations
 - Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
 - Always quote the amount in the range(1,000-1,500rs), not fixed amount
+- During negotiations, people negotiate according to their advantages
+- Let's say, if I want to buy used car, you calculate the value of car based on depreciation and usability
+- plus, broken things, year of model, features and so on, and you keep the value of car as low as you can
+- so that value of car can fit your budget and your negotiations
+- But owner wants the value of car according to his calculations and advantages
 - ![Negotiation_1](./negotiation_merge_1.png)
 - ![Negotiation_2](./negotiation_merge_2.png)
 - ![Negotiation_3](./negotiation_merge_3.png)
