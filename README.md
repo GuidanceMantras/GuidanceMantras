@@ -438,7 +438,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - The meaning of minimalistic is to having only needed things in life
 - Minimalistic says that "One should buy only needed/essential things in life"
 - An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
-  
+- Minimalistic also means that use/buy of used items/second hand items if possible
 ### Networking
 - Please be connected with likely minded people everyday always
 - Networking gives you more knowledge than anything and sometimes help as well
