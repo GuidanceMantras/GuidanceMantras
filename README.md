@@ -560,6 +560,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 - Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
+- Learn to take the tough decisions in life, profession, business
   
 ### Happiness
 - Will be added later
@@ -764,6 +765,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Most of the time, negotiation depends on patience, knowlegde, information, support, region, area, thiking ability, anticipation, analysis, religion, caste, race, age, strength, people, privilege
 - Discussion with two/three knowledgeable people about your negotiations
 - Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
+- Always quote the amount in the range(1,000-1,500rs), not fixed amount
 - ![Negotiation_1](./negotiation_merge_1.png)
 - ![Negotiation_2](./negotiation_merge_2.png)
 - ![Negotiation_3](./negotiation_merge_3.png)
