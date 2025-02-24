@@ -209,6 +209,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     171. [Tolerance](#tolerance)
     172. [Silence And Secrecy](#silence-and-secrecy)
     173. [Anticipate](#anticipate)
+    174. [Commitment](#commitment)
         
                   
 2.  [Health](#health) 
@@ -390,6 +391,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Bad/wrong things spread very fast than good things
 - For people, far hill/mountain appears good, but in reality, far hills/mountain is empty.
 - For people, other side always appears good than their side in life
+- Life is all about compromise, negotiation, adapt, adjust, ignore, move-on, let go.
   
 ### Family
 - Family is everything in life such as parents, sisters, brothers, good relatives
@@ -556,7 +558,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do proper research once again
 - Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
-
+- Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
+  
 ### Happiness
 - Will be added later
 - ![happiness](./Happiness.JPG)
@@ -759,6 +762,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Who has more time/advantage, whether it is time critical,
 - Most of the time, negotiation depends on patience, knowlegde, information, support, region, area, thiking ability, anticipation, analysis, religion, caste, race, age, strength, people, privilege
 - Discussion with two/three knowledgeable people about your negotiations
+- Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
 - ![Negotiation_1](./negotiation_merge_1.png)
 - ![Negotiation_2](./negotiation_merge_2.png)
 - ![Negotiation_3](./negotiation_merge_3.png)
