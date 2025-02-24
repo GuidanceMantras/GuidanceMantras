@@ -208,7 +208,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     170. [Punishing](#punishing)
     171. [Tolerance](#tolerance)
     172. [Silence And Secrecy](#silence-and-secrecy)
-    173. 
+    173. [Anticipate](#anticipate)
         
                   
 2.  [Health](#health) 
@@ -754,7 +754,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Negotiations
-- Will be added later
+- Negotiations will work in different ways
+- Who has more leverage/upper hand in the situation
+- Who has more time/advantage, whether it is time critical,
+- Most of the time, negotiation depends on patience, knowlegde, information, support, region, area, thiking ability, anticipation, analysis, religion, caste, race, age, strength, people, privilege
+- Discussion with two/three knowledgeable people about your negotiations
 - ![Negotiation_1](./negotiation_merge_1.png)
 - ![Negotiation_2](./negotiation_merge_2.png)
 - ![Negotiation_3](./negotiation_merge_3.png)
@@ -927,7 +931,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Pretend
-- Will be added later
+- You should learn to pretend in your life
+- Know when to be Pretending like a poor, dumb, weak mind, weak person
+- Know when to pretend like a rich, clever, intelligent, rich, strong, tough mindset
+- Pretending is one of the basic personalities in life 
   
 ### Show Off
 - Will be added later
@@ -1157,6 +1164,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Buying Things
 - Take at-least 2 or three weeks to buy anything
 - As soon as someone tells you to buy something, always ask for time
+- As soon as you feel buying something, always take some time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
 - How to think and analyze before buying anything
   * First think what is the use case of buying something
@@ -1166,9 +1174,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * then think best possible way to afford it either through EMI or late payment
   * Never pay full amount to any buying in life
   * Analyze above points once again before making a decision to buy something/anything
-- Always go for second hand buy as a first option on different application such as olx, ebay , amazon or others
+- Always go for second hand buy as a first option on different application such as olx, ebay , amazon or facebook marketplac, whatsapp or other applications
 - Always buy either new or second hand in festival season or offer season such as Diwali, black friday, big billion day, or christmas offer or so on
 - Always look for areas in your cities, where things will be cheaper
+- Always llok for shops/companies, where things will be cheaper
 - In Bengaluru, people get cheap products in different areas like below
 - JC Road in Bengaluru: cheap car and bicycle parts, cheap laptop, mobile and parts, cheap electronics parts 
 - SP road in Bengaluru : cheap second hand books and new ones
