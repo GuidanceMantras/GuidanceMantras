@@ -400,7 +400,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Friends
 - Always be with good friends
 - Learn good things from other friends
-- Your future life and your behaviour depends on your friends and people around you. 
+- Your future life and your behaviour depends on your friends and people around you.
+- Always surrounded by likely-minded people whether it is family, friends, collegaues, business-partner, or strangers
 
 ### Life Plan And Goal
 - Will be added later
