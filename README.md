@@ -210,6 +210,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     172. [Silence And Secrecy](#silence-and-secrecy)
     173. [Anticipate](#anticipate)
     174. [Commitment](#commitment)
+    175. [Practice Makes You Perfect](#practice-makes-you-perfect)
+    176. [Perfectionist](#perfectionist)
         
                   
 2.  [Health](#health) 
