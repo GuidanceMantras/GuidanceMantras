@@ -1055,8 +1055,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - for buying expensive things such as expensive phones, expensive cars, expensive dress and so on
 
 ### Spirituality 
-- https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN?si=8ywHDk8vTk6TPY31e2yn0w
-- 
+- Spirituality is very important in life, believe in god for hope, peace is important
+- https://open.spotify.com/intl-de/artist/5yMmIhZ6dUYvVjjqzFOOzN?si=w2qOSCMeRjqKVoKniz66ww
+- Some people argue that I do not believe in god and so on. In reality, these people wants to make you ruin your life
+- Following spirituality, make your life happy, gives peace
+  
 ### Insurance
 - Always have a health insurance in life for everything
 
