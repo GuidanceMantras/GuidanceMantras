@@ -1156,7 +1156,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If relationships need free money, stay away from those kind of relationships
 - Never ever do any kind of business or money transaction with anyone without any security documents or collateral
 
-
+### Money Trap
+- Never use/buy Credit Card. Use of credit card makes you brankrupt
+- In case if you want to use credit card, pay the bill very next month itself
+- Credit card put almost the double interest than normal interest
+- Never ever loan complete amount for an investment
+  
 ### Budgeting
 - Will be added later
 - ![budget](./budget.JPG)
@@ -1173,7 +1178,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Fixed Deposit in Banks
 - Diversification of investment for passive income
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
-  
+
 ### Money Saving Tips
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
