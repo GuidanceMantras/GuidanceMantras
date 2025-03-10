@@ -1160,7 +1160,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Never use/buy Credit Card. Use of credit card makes you brankrupt
 - In case if you want to use credit card, pay the bill very next month itself
 - Credit card put almost the double interest than normal interest
-- Never ever loan complete amount for an investment
+- Never ever take the complete loan amount for an investment
+- Instead save at-least 50%-60% money and take 40% loan for investment, building house, buying cars or for something
+  
   
 ### Budgeting
 - Will be added later
