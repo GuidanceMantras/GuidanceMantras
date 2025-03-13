@@ -1162,6 +1162,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Credit card put almost the double interest than normal interest
 - Never ever take the complete loan amount for an investment
 - Instead save at-least 50%-60% money and take 40% loan for investment, building house, buying cars or for something
+- Never ever do business within close circle or no money transaction with family, friends, relatives at any cost
   
   
 ### Budgeting
