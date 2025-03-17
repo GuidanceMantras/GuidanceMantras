@@ -212,6 +212,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     174. [Commitment](#commitment)
     175. [Practice Makes You Perfect](#practice-makes-you-perfect)
     176. [Perfectionist](#perfectionist)
+    177. [Body Language](#body-language)
         
                   
 2.  [Health](#health) 
@@ -489,12 +490,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - If relationships need free money, stay away from those kind of relationships
 - Never ever do any kind of business or money transaction with anyone without any security documents or collateral
 - Learn to deal with educated and uneducated people, poor and rich, smart and dumb, men and women, girls and boys, young and old
-- Learn to deal with weak and strong people, in terms of physic, power, money, knowledge, education, age, race, experience, background and so on
+- Learn to deal with weak and strong people, in terms of physic, power, money, mind, knowledge, education, age, race, experience, background and so on
 - Learn to deal with people based on situation, mood, consequences, privilege, different personalities, area/region and so on
 - Learn to deal with negative personalities traits such as lazy, talktive, free-rider, gold digger, sponger, freeloader, parasite, moocher, leech, angry, agressive, jealous, gossip
 - Negative personalities: Irresponsible, Inflexible, Indecisive, Impatient, Narcissistic, 
 - Negative Personalities:
-- Learn to deal with people with positive personalities such as tolerant, patience, 
+- Learn to deal with people with positive personalities such as tolerant, patience
+- Use Psychological tactics and stratergy while dealing with people
+  
   
 ### Chain of effects in life
 - will be added with diagram
