@@ -791,6 +791,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Adults with Job
 - Marriage
 - Married with Kids
+- Retire
+- Enjoy with Grandkids
+
 
 ### Genius And Dumb
 ########## Genius
@@ -1031,16 +1034,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
 
 ### Sleeping problems and solutions
-- Nearly 80% of adults/kids have sleeping problems
-- Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton everyday for 1 or 2 hours
+- Nearly 80% of adults/kids have sleeping problems in India
+- Best way to get proper sleep is to punish your body and mind through work-outs at home, going to gym, going to jogging, doing sports such as cricket, badmiton and so on everyday for 1 or 2 hours in the evening
 - Do yoga and meditation for 30 mins in the evening before dinner
 - Do not use phone one hour before going to sleep, avoid watching TV/using laptop one hour before bed
 - Never ever drink tea or coffee of any kind, 4-5 hours before bed
-- Avoid drinking lots of water after dinner, just one small cup(250ml/300ml) is enough.
+- Avoid drinking lots of water after dinner, just one small cup(200ml/250ml) is enough.
 - Keep phone is slient mode at night
 - Get good bath with hot water on shoulders and on back body before dinner in the evening
 - Maintain proper sleeping cycle at night. for an example, from 9:30 pm to 6:00 AM
-- Never ever sleep more than 30 minutes during day time
+- Never ever sleep more than 15-20 minutes during day time
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 
@@ -1113,6 +1116,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Allow/Teach kids to think about their actions/thoughts everyday for one hour, which allows for reasoning, logical and critical thinking ability.
 - Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
 - Teach kids not to follow any actors and actress, you have no benefits from them
+
+### School College And University
+- Send kids to good government schools if there are or Send kids to average schools. Not to high tech schools with high fees
+- Sending kids to government/average schools helps kids to develop gratitude and understand life from the very beginning
+- Same goes to College and University
   
 ## Financial management
 ### Finance 1
