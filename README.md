@@ -213,6 +213,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     175. [Practice Makes You Perfect](#practice-makes-you-perfect)
     176. [Perfectionist](#perfectionist)
     177. [Body Language](#body-language)
+    178. [Yourself](#yourself)
         
                   
 2.  [Health](#health) 
