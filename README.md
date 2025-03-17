@@ -293,6 +293,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    19. [Money Leaks](#money-leaks)
    20. [Piece Of Pie](#piece-of-pie)
    21. [Government Properties](#government-properties)
+   22. [Tax](#tax)
     
 10. [Profession](#profession)
     
