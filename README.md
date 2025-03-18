@@ -214,6 +214,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     176. [Perfectionist](#perfectionist)
     177. [Body Language](#body-language)
     178. [Yourself](#yourself)
+    179. [Situation Analysis](#situation-analysis)
         
                   
 2.  [Health](#health) 
