@@ -1231,6 +1231,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Loans
 - If loans are needed, always look for minimum interest options with more flexibilities such as varibale payment instead fixed payment
 
+### Money Spending
+- Learn to spend the money wisely and intelligently
+- Always remember, there is tomorrow to spend money, not just today only.
+  
 ### Lending
 - Never lend money to anyone such as relatives, friends, strangers and colleagues without any document or collateral
 
@@ -1253,8 +1257,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Be Aware
 - Always be aware of unemployed agents, brokers in any fields
-- Be aware of no-work governemnt employees, people
-- Most of the time, you lose your money for unemployed and no-work, jobless people
+- Be aware of no-work governemnt employees, people, lawyers, consultants, rowdy-people, 
+- Most of the time, you lose your money for unemployed and no-work, jobless people, consultants, brokers, lazy lawyers, and to some strangers
 
 ### Money Leaks
 - Everyone will have money leaks, focus on patching the money leaks slowly
