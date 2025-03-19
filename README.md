@@ -475,10 +475,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Dealing with people
 - Not all the people on earth are good, similarly, not all the people are bad
 - You should know how to distinguish between good and bad people
-- People use mind-game  to manipulate others, so be aware of it
-- Always stay away from any financial things with other people/strangers
+- People use mind-game  to manipulate/influence/provokde others, so be aware of it
+- Always stay away from any financial things with other people/strangers without any proper agreements and contracts
 - People will be nice when taking money from you, afterwards, people behave strangely.
-- Learn to interpret a person via his/her personalities, his/her talking, from his/her past if possible, his/her motive
+- Learn to interpret a person via his/her personalities/body language/behaviour, his/her talking, from his/her past if possible, his/her motive
 - Stay away from person if you feel that a person is not good for you.
 - Learn to be gentlemen and nice, when you need something from someone or want some work from someone
 - Never ever thinks that their ass is better than your ass
@@ -487,19 +487,17 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to deal with Parents, Siblings, relatives, friends
 - Learn to deal with people with different personalities  and behaviour such as Rude, Negative, difficult, soft and hard
 - Learn to deal with people at work
-- Do not trsut anyone, but be with everyone
 - Keep the reltionships and money separate
 - If relationships need free money, stay away from those kind of relationships
-- Never ever do any kind of business or money transaction with anyone without any security documents or collateral
+- Be like bank when dealing with money and people
 - Learn to deal with educated and uneducated people, poor and rich, smart and dumb, men and women, girls and boys, young and old
 - Learn to deal with weak and strong people, in terms of physic, power, money, mind, knowledge, education, age, race, experience, background and so on
-- Learn to deal with people based on situation, mood, consequences, privilege, different personalities, area/region and so on
+- Learn to deal with people based on situation, mood, consequences, privilege, different personalities, area/region, religion and so on
 - Learn to deal with negative personalities traits such as lazy, talktive, free-rider, gold digger, sponger, freeloader, parasite, moocher, leech, angry, agressive, jealous, gossip
 - Negative personalities: Irresponsible, Inflexible, Indecisive, Impatient, Narcissistic, 
 - Negative Personalities:
 - Learn to deal with people with positive personalities such as tolerant, patience
 - Use Psychological tactics and stratergy while dealing with people
-  
   
 ### Chain of effects in life
 - will be added with diagram
