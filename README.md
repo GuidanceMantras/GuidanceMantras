@@ -1795,13 +1795,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Business Stratergy
 - Dynamic pricing
-- Offering different plans for an exmple, 2 months, 3 months plan
+- Offering different plans for an example, 2 months, 3 months plan
 - Most of the time, you do not need to invent the new idea for business, just copy other business ideas to start your own business
 - Use template stratergy to build any business, or to grow faster
 - Start small always and grow big like below
 - Village--->small town--->big town--->state---->national---->global
 - Should know how to keep the margin of business to make profit
-- 
+- Contact with likely-minded people or people in your business
   
   
 # If you like the above information, please click on star on the Top Right of the Page(Yellow color)
