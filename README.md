@@ -216,6 +216,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     178. [Yourself](#yourself)
     179. [Situation Analysis](#situation-analysis)
         
+        
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -297,6 +298,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    20. [Piece Of Pie](#piece-of-pie)
    21. [Government Properties](#government-properties)
    22. [Tax](#tax)
+   23. [Only One](#only-one)
     
 10. [Profession](#profession)
     
@@ -1189,7 +1191,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Commercial properties
 - Commercial buildings
 - Land(Agriculture/residentail land)
-- Gold
+- Gold(Raw/digital)
+- Rental properties
+- License to Chain such as Food chain license, Show-room chain license
 - Fixed Deposit in Banks
 - Diversification of investment for passive income
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
@@ -1265,6 +1269,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Piece Of Pie
 - Everybody wants piece of pie in your success or money or happiness, learn to know how and when to share the piece of pie in your happiness, money or knowledge
 - Sometimes, giving piece of pie gives you peace in life
+
+### Tax
+- Will be added later
+
+### Only One
+- One Bank account for personal life, one bank account for professional/business account
+- One gmail
+- Use only one company things for better financial management
   
 ## Study
 
