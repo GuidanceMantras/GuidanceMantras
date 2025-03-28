@@ -310,8 +310,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. [Artificial Intelligence](#artificial-intelligence)
     4. [Cloud](#cloud)
     5. [Embedded](#embedded)
+   
+14. [Internet And Social Media](#internet-and-social-media)
+      1. [Internet](#internet)
+      2. [Social Media](#social-media)
+      3. [Online Buying](#online-buying)
        
-14. [Others 1](#others-1)
+16. [Others 1](#others-1)
     1. [Travelling](#travelling)
     2. [Power of Music](#power-of-music)
     3. [Electronics](#electronics)
@@ -324,7 +329,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     10. [Girls And Women](#girls-and-women)
     11. [Sex Appeal](#sex-appeal)
        
- 15. [Others 2](#others-2)
+ 17. [Others 2](#others-2)
      1. [Studying in abroad](#studying-in-abroad)
      2. [Reading](#reading)
      3. [Ethics](#ethics)
@@ -337,7 +342,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
      10. [Dear Daughter](#dear-daughter)
      11. [Men](#men)
     
-16. [Business](#business)
+18. [Business](#business)
     1. [Business_Stratergy](#business-stratergy)
        
 ## Life 
