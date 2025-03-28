@@ -1082,11 +1082,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ## Kids
 
 ### How to raise Kids
-- Never ever reveal your wealth to kids until 20 years old
-- Always make sure that kids get only basic things in life, instead of buying expensive things
+- Never ever reveal your wealth to kids until 22 years old
+- Always make sure that kids get only basic/essential things in life, instead of buying expensive things
 - Kids should only know that they have their own home and that would be enough
-- Kids should never talk/know about your wealth until 23 years old
-- Kids will not have easy access to money until 22 years either from you, relatives, strangers or friends
+- Kids should never talk/know about your wealth until 22 years old
+- Kids should not have easy access to money until 22 years either from you, relatives, strangers or friends
 - Each kid should have his/her own room after 13 years old/8th standard
 - Kids follow what others do and say, so do good things to make kids to follow you
 - Make sure to teach kids to fix their mentality to study until 25-26 years age. Not just 10th, 12th Class or degree.
@@ -1095,24 +1095,28 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Be a part of kids, when they are studying at home at-least until 18/19 years old.
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
 - Train kids for each and everything things in life such as,
-    1. Education
-    2. Exam
-    3. Study
-    4. Competative exams
-    5. Mentality
-    6. Money and Time Management
-    7. Angry And Stress Management
-    8. Behaviour
-    9. Personality
-    10. Speaking
-    11. Patience
-    12. Dealing with People
-    13. Health
-    14. Friends circle
-    15. Good Habits
-    16. Emotional intelligence
-    17. Physical and Mental Fitness
-
+    1. Life
+    2. Education
+    3. Exam
+    4. Study
+    5. Competative exams
+    6. Mentality
+    7. Money and Time Management
+    8. Angry And Stress Management
+    9. Behaviour
+    10. Personality
+    11. Speaking
+    12. Patience
+    13. Dealing with People
+    14. Health
+    15. Friends circle
+    16. Good Habits
+    17. Emotional intelligence
+    18. Physical and Mental Fitness
+    19. Gratitude
+    20. Self-Control Mind Control, Self Management and Self-Organised
+    21. Financel Management
+        
   - Teach/train kids not to react to anything very fast whatever in life
   - 
 
