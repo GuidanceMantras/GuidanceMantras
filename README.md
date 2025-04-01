@@ -1224,7 +1224,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   * then think best possible way to afford it either through EMI or late payment
   * Never pay full amount to any buying in life
   * Analyze above points once again before making a decision to buy something/anything
-- Always go for second hand buy as a first option on different application such as olx, ebay , amazon or facebook marketplac, whatsapp or other applications
+- Always go for second hand buy as a first option on different application such as olx, ebay , amazon or facebook marketplac, whatsapp or other applications, quickr
 - Always buy either new or second hand in festival season or offer season such as Diwali, black friday, big billion day, or christmas offer or so on
 - Always look for areas in your cities, where things will be cheaper
 - Always llok for shops/companies, where things will be cheaper
@@ -1753,10 +1753,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Important Applications 
 - Spotify(For songs/Mantras/Study and work music, English podcast)
 - Microsoft ToDo(for listing your daily tasks)  use of life, finance, professional or business planning
-- Udemy( For learning new skills)
-- Splitwise(To share expenses with friends or someone)
-- Ebay or olx (to sell abd buy used good, there is also an option to bid the items)
-
+- Udemy( For learning new skills either technical or non technical)
+- Splitwise(To share expenses with friends or someone or relatives)
+- Ebay or olx, quickr, facebook marketplace (to sell and buy used good, there is also an option to bid the items)
+- Github cloud (to keep all your documents in a structured way)
+  
 ### Electronics
 - What are electronics products: Phone, Car, Headphones, TV, Fridge, Home Appliances, Agriculture products. 
 - Any electronics objects such as car, phones, headphones and so on lose their value as days goes
