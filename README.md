@@ -1524,7 +1524,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - PWD (Public welfare department) (called once in 5 years for minimum 500 positions)
 - Police/Fire department exams (called once in 5 years for minimum 1000 positions)
 - Revenue/Tax officer exams (called once in 5 years for minimum 1000 positions)
-- KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 500 positions)
+- KAS/KPSC/ state PSC (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 500 positions)
 - Social welfare department exams (called once in 5 years for minimum 500 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
 - PSI (Called once/twice in 5 years for minimum 500 positions)
@@ -1540,6 +1540,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Transportation department exams
 - BWSSB and BBMP exams
 - Muncipality department exams
+- Education department exams
+- Corporation department exams 
 
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
