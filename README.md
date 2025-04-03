@@ -1523,7 +1523,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - PDO, VA, EO(Executive officer) (called once in 5 years for minimum 1000 positions)
 - PWD (Public welfare department) (called once in 5 years for minimum 500 positions)
 - Police/Fire department exams (called once in 5 years for minimum 1000 positions)
-- Revenue/Tax officer  exams (called once in 5 years for minimum 1000 positions)
+- Revenue/Tax officer exams (called once in 5 years for minimum 1000 positions)
 - KAS (For decision making positions in state government, like UPSC) (called once in 5 years for minimum 500 positions)
 - Social welfare department exams (called once in 5 years for minimum 500 positions)
 - FDA/SDA (Called twice in 5 years for minimum 4000 positions)
@@ -1536,6 +1536,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Exercise Officer/inspector and department
 - Labour Officer
 - Food department Exams
+- Backward class department exams
+- Transportation department exams
+- BWSSB and BBMP exams
+- Muncipality department exams
 
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
