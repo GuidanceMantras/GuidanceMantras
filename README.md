@@ -1409,6 +1409,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Please remember that Education is just one of the essiential part of today's life along with water, Air, clothes and food
 - Always know that what happens if you study a specific course/domain, which means the benefits of it in terms of jobs either private/government 
 - Never spend too much money on education of kids or yourself
+- Never ever think that you need to invent something with education. Most of the things were already innovated/invented in the world
+- Just Get education to get the job
   
 ### Free Education
 - Always try to get good education with low cost through NGOs, Religious schools such as BGS schools and so on
