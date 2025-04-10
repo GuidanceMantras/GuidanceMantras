@@ -580,12 +580,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - while walking think about pros and cons of your decision and write them down in mobile/sticky notes
 - talk to someone( family member/friends/stranger) about your thoughts process for your decision 
 - write down your thoughts and pros and cons of your decisions process
+- Compare with other options
 - Get more information about your decisions 
 - Do proper research once again
 - Do not consider grass is greener on other side always, while taking decision
 - revisit your thoughts before finally agreeing with it
 - Keep your ego, attitude, and all the bad personalities of you aside while taking decisions
 - Learn to take the tough decisions in life, profession, business
+- Never clutter your mind while taking decision
   
 ### Happiness
 - Will be added later
@@ -1225,6 +1227,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Buying Things
 - Take at-least 2 or three weeks to buy anything
+- !Smart buying always
 - As soon as someone tells you to buy something, always ask for time
 - As soon as you feel buying something, always take some time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
