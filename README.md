@@ -1227,7 +1227,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Buying Things
 - Take at-least 2 or three weeks to buy anything
-- !Smart buying always
+- ```diff ! Smart buying always ```
 - As soon as someone tells you to buy something, always ask for time
 - As soon as you feel buying something, always take some time
 - If you think that you need something/buy something, always takes at-least 2-3 weeks
