@@ -1560,7 +1560,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - BWSSB and BBMP exams
 - Muncipality department exams
 - Education department exams
-- Corporation department exams 
+- Corporation department exams
+- SSC/SSC-CGL (cental government exams in Hindi/English exmas)
+- RRB(railway recuritment board exams in Hindi/english)
+- Indian Post(exams in Hindi/English)
+
 
   
 - In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
