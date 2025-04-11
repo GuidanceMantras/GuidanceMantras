@@ -1568,7 +1568,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 
   
-- In total, you can write at-least 10 different exams in 5 years for minimum 30,000 positions
+- In total, you can write at-least 10 different exams in 5 years for minimum 50,000 positions
   
 ### Department specific exams in a state with a specific degrees
 - Do not write for department specific exams without having specific degrees in most of the time
