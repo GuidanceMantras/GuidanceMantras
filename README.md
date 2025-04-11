@@ -1217,9 +1217,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Gold(Raw/digital)
 - Rental properties
 - License to Chain such as Food chain license, Show-room chain license
-- Fixed Deposit in Banks
+- Fixed Deposit/Recurring deposit in Banks
 - Diversification of investment for passive income
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
+- 
 
 ### Money Saving Tips
 - Will be added later
