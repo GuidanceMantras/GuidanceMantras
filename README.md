@@ -1561,7 +1561,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - BWSSB and BBMP exams
 - Muncipality department exams
 - Education department exams
-- Corporation department exams
+- Corporation department/bank exams
 - SSC/SSC-CGL (cental government exams in Hindi/English exmas)
 - RRB(railway recuritment board exams in Hindi/english)
 - Indian Post(exams in Hindi/English)
@@ -1572,16 +1572,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Department specific exams in a state with a specific degrees
 - Do not write for department specific exams without having specific degrees in most of the time
-- Agriculture officer (called once in 5 years for minimum 400 positions with B.Sc AG degree)
-- Forest officer (called once in 5 years for minimum 400 positions with B.Sc Forestry degree)
-- Veternary officer (called once in 5 years for minimum 400 positions with B.V.Sc  degree)
-- Horticulture officer (called once in 5 years for minimum 400 positions with B.Sc Horiculture degree(80%))
+- Agriculture officer (called once in 5 years for minimum 500 positions with B.Sc AG degree)
+- Forest officer (called once in 5 years for minimum 500 positions with B.Sc Forestry degree)
+- Veternary officer (called once in 5 years for minimum 500 positions with B.V.Sc  degree)
+- Horticulture officer (called once in 5 years for minimum 500 positions with B.Sc Horiculture degree(80%))
 - AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in EEE/EC degree(100%)
 - AE/JE/AEE/EE (called once in 5 years for minimum 5000 positions with B.E. in civil degree(100%)
 - AE/JE/AEE/EE (called once in 5 years for minimum 1000 positions with B.E. in Mechanical degree(100%)
 - Teacher/Lecture (called once in 5 years for minimum 3000 positions)
- Medical officer (M.B.B.S degree holder)
-- In total, you can write at-least 10 different exams in 5 years for 30,000 positions
+- Medical officer (M.B.B.S/Nursing degree holder)
+- In total, you can write at-least 10 different exams in 5 years for 20,000 positions
 
 ### Generic government exams in central government for any degree
 - SSC  (called twice/thrice in 5 years for minimum 30,000 positions)
