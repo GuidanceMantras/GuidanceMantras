@@ -216,6 +216,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     177. [Body Language](#body-language)
     178. [Yourself](#yourself)
     179. [Situation Analysis](#situation-analysis)
+    180. [Trust](#trust)
         
         
                   
@@ -248,6 +249,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    3. [Being A Mother](#being-a-mother)
    4. [Being A Sister](#being-a-sister)
    5. [Being A Brother](#being-a-brother)
+   6. [Being A Relative](#being-a-relative)
       
 6. [Education](#education)
     1. [Free Education](#free-education)
@@ -300,6 +302,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    21. [Government Properties](#government-properties)
    22. [Tax](#tax)
    23. [Only One](#only-one)
+   24. [Cost Cutting](#cost-cutting)
     
 10. [Profession](#profession)
     
