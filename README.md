@@ -1454,6 +1454,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - B.D.S (Bachelor of Dental Science)
 - Eye doctor, Ayurvedic doctor, homeopathy, speech and hearing,
 - Defense Academy degrees through NDA
+- ITI
+- Diploma
+- B.SC, Bilogogy, Chemistry, Physics, Pharmacy
+
 
 ### After Degree 
 - Please ask other people if you have no one to guide what to do next so that you will have better understanding of jobs and future studies
