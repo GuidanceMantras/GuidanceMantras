@@ -1437,26 +1437,24 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### After PUC
 - Bachelor of Science - B.Sc.
-- Bachelor of Arts - B.A
-- Bachelor of Commerce - B.Com.
-- Bachelor of Business Administration - B.B.A.
-- Bachelor of Education - B.Ed.
-- Bachelor of Laws - L.L.B.
-- Bachelor of Physical Education - B.P.Ed.
-- Bachelor of Fisheries Science - B.F.Sc./ B.Sc. (Fisheries).
-- Bachelor of Forestry
-- Bachelor of Science Agriculture - B.Sc.AG
-- Bachelor of Horticulture - B.Sc. Horticulture
-- Bachelor of Veterinary Science & Animal Husbandry - B.V.Sc. & A.H. / B.V.Sc
-- Bachelor of Engineering / Bachelor of Technology - B.E./B.Tech.
-- Bachelor of Computer Application (BCA)
-- M.B.B.S(Doctor) -----> Need Good rank in KCET/NEET
-- B.D.S (Bachelor of Dental Science)
-- Eye doctor, Ayurvedic doctor, homeopathy, speech and hearing,
-- Defense Academy degrees through NDA
-- ITI
-- Diploma
-- B.SC, Bilogogy, Chemistry, Physics, Pharmacy
+- Bachelor of Arts - B.A ---------------> Good for Government Exams
+- Bachelor of Commerce - B.Com.   --------------> Good for Finance both in private and government
+- Bachelor of Business Administration - B.B.A.  --------> Good for management/marketing in private
+- Bachelor of Education - B.Ed.   ----------> Good for teaching both in private and Government
+- Bachelor of Laws - L.L.B.       ---------> Lawyer
+- Bachelor of Physical Education - B.P.Ed. -------------> Good for teaching both in private and Government
+- Bachelor of Fisheries Science - B.F.Sc./ B.Sc. (Fisheries).  --------- > Good for department specific Government jobs
+- Bachelor of Forestry ---------------> Good for department specific Government jobs
+- Bachelor of Science Agriculture - B.Sc.AG  ---------------> Good for department specific Government jobs
+- Bachelor of Horticulture - B.Sc. Horticulture   --------------> Good for department specific Government jobs
+- Bachelor of Veterinary Science & Animal Husbandry - B.V.Sc. & A.H. / B.V.Sc   ------------> Good for department specific Government jobs
+- Bachelor of Engineering / Bachelor of Technology - B.E./B.Tech. ---------------> Good for private/IT jobs
+- Bachelor of Computer Application (BCA)   -----------> Good for private/IT jobs
+- M.B.B.S(Doctor) -----> Need Good rank in KCET/NEET ------------------> Good for both private and government jobs
+- B.D.S (Bachelor of Dental Science)  ------------------> Good for both private and government jobs
+- Eye doctor, Ayurvedic doctor, homeopathy, speech and hearing,   ------------------> Good for both private and government jobs
+- Defense Academy degrees through NDA   
+- B.SC, Bilogogy, Chemistry, Physics, Pharmacy  -------------------> Good for Government Exams
 
 
 ### After Degree 
