@@ -1454,7 +1454,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - B.D.S (Bachelor of Dental Science)  ------------------> Good for both private and government jobs
 - Eye doctor, Ayurvedic doctor, homeopathy, speech and hearing,   ------------------> Good for both private and government jobs
 - Defense Academy degrees through NDA   
-- B.SC, Bilogogy, Chemistry, Physics, Pharmacy  -------------------> Good for Government Exams
+- B.SC, Bilogogy, Chemistry, Physics, Pharmacy and Nursing -------------------> Good for Government Exams
+  
 
 
 ### After Degree 
