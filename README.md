@@ -17,6 +17,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Add missing content of topics
 - Add images to few topics
 - Translation into Kannada -> First main topic, then subtopic, then images of each subtopic and translate each subtopic
+- Translation into Hindi ---->
 - Check the content once again and make them correct if anything is wrong
 - Remove duplicate content
 - Share on reddit/whatsapp groups if needed
