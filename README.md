@@ -217,6 +217,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     178. [Yourself](#yourself)
     179. [Situation Analysis](#situation-analysis)
     180. [Trust](#trust)
+    181. [Differences](#differences)
         
         
                   
