@@ -1728,6 +1728,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - There is a great pro-verb in English. "Your mood is depending on Weather"
 - Nowadays, your mood is also depending on the people you live/work with. 
 - One should know how to control mood swing in life using Music, Meditation, and doing other activities.
+- Eat spicy or good hot food each day, each time
 
 ### Addictions
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/sex videos and other things
