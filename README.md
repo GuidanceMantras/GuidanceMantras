@@ -304,6 +304,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    22. [Tax](#tax)
    23. [Only One](#only-one)
    24. [Cost Cutting](#cost-cutting)
+   25. [Appreciation](#appreciation)
+   26. [Depreciation](#depreciation)
     
 10. [Profession](#profession)
     
@@ -824,8 +826,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Students
 - Adults with degree
 - Adults with Job
-- Marriage (before 25-25 for girls, before 26-27 for boys)
-- Married with Kids (before 30)
+- Marriage (before 24-25 for girls, before 26-27 for boys)
+- Married with Kids (before 27-28 for boys, 25-26 for girls)
 - Retire (60)
 - Enjoy with Grandkids
 
@@ -1075,6 +1077,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Get good bath with hot water on shoulders and on back body before dinner in the evening
 - Maintain proper sleeping cycle at night. for an example, from 9:30 pm to 6:00 AM
 - Never ever sleep more than 15-20 minutes during day time
+- In old days, people used to sleep only with Fan sounds, so you can use fan always while sleeping. tower fan maybe
 - use noise cancelling headphone to avoid disturbance at night like below. SoundCore earbuds https://www.amazon.in/Soundcore-Earphones-Bluetooth-Compatible-Waterproof/dp/B099K5YT5V
 - ![Ear_buds pic](Earbuds_pic_optimized.png)
 
@@ -1139,7 +1142,10 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     21. Financel Management
         
   - Teach/train kids not to react to anything very fast whatever in life
-  - 
+  - Be a part of kids life in all the moments until 23-24 years
+  - Both parents should contribute for the well-being of kids
+  - Both parents should make scacrifice for kids
+  - For example, no TV for family during important exams for kids
 
 ### Activities For Kids or Adults
 - Music class, dance class, drawing
