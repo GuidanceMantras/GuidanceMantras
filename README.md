@@ -1146,6 +1146,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   - Both parents should contribute for the well-being of kids
   - Both parents should make scacrifice for kids
   - For example, no TV for family during important exams for kids
+  - Do not differentiate between girl kid and boy kid , younger kid and older kid
+  - Differentiation based on gender and age of kid will have pschological impact on kids as they grow
 
 ### Activities For Kids or Adults
 - Music class, dance class, drawing
