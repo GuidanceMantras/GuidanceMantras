@@ -1063,6 +1063,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 ### Yoga and meditation
 - Do some small exercies for 10 minutes before doing meditation for 10 minutes
+- https://www.artofliving.org/in-en/yoga/beginners/top-ten-benefits-of-yoga
+- https://medium.com/@southindianplaces/the-importance-of-yoga-and-meditation-in-the-indian-lifestyle-fb7c099450
 - While breathing out during meditation, chant Omkara like this https://www.youtube.com/watch?v=_47wSw0gFX0
 - Purpose of doing meditation is to exercise your brain and stay away from distraction and keep your mind empty
 
