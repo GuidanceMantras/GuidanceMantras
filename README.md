@@ -219,6 +219,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     180. [Trust](#trust)
     181. [Differences](#differences)
     182. [Control Your Lust](#control-your-lust)
+    183. [Punish And Reward](#punish-and-reward)
         
         
                   
