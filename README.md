@@ -218,6 +218,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     179. [Situation Analysis](#situation-analysis)
     180. [Trust](#trust)
     181. [Differences](#differences)
+    182. [Control Your Lust](#control-your-lust)
         
         
                   
