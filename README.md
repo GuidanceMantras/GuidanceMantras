@@ -1323,7 +1323,16 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One Bank account for personal life, one bank account for professional/business account
 - One gmail
 - Use only one company things for better financial management
+
+### Appreciation
+- Always know the appreication objects
+- Gold, land, stocks and health are always appreication objects
+- Not all stocks and not all land
   
+### Depreciation
+- Always know the depreciation objects
+- Any electronics products such as phone, car, bike, laptop, fridge,  washing machine and so on are all depreication
+- Any metal products and wood products
 ## Study
 
 ### How to keep your study environment
