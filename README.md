@@ -522,7 +522,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to deal with people with different personalities  and behaviour such as Rude, Negative, difficult, soft and hard
 - Learn to deal with people at work
 - Keep the reltionships and money separate
-- If relationships need free money, stay away from those kind of relationships
+- If relationships need free money, stay away from those kind of relationships such as friendships, relative, strangers
 - Be like bank when dealing with money and people
 - Learn to deal with educated and uneducated people, poor and rich, smart and dumb, men and women, girls and boys, young and old
 - Learn to deal with weak and strong people, in terms of physic, power, money, mind, knowledge, education, age, race, experience, background and so on
