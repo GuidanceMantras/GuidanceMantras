@@ -362,6 +362,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Many top leaders/people use some kind of slogans/chants in their life
 - Most notables slogans/chants in India are "Jai Shree Ram" "Om Nam shivya", "All is well", " I can I can"
 - ![Jai Jai Shri Ram](./Jai_Jai_Shree_ram.jfif)
+- Chant "Jai Shree Ram" while talking/sleeping/studying/working/travelling/driving/facing problems/dealing with people/thinking/making decision/jogging/work out/
 -
 - ### Life 1
 - Life is not too short, You will have life until 70/80 years, sometimes until 90 years.
