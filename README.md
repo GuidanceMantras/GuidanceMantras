@@ -220,6 +220,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     181. [Differences](#differences)
     182. [Control Your Lust](#control-your-lust)
     183. [Punish And Reward](#punish-and-reward)
+    184. [Being An Educated](#being-an-educated)
         
         
                   
@@ -886,6 +887,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Rush And Hurry
 - Will be added later
+
+### Being An Educated
+- Being an educated, it is your responsibility to think, analyze in life
+- Being an educated, you should learn lots of thinks in life either personal or professional
+- Such as dealing with people, control your mind/lust/egos/bad activities/bad personalities
   
 ### Giving Back To Society
 - Will be added later
