@@ -1225,7 +1225,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Credit card put almost the double interest than normal interest
 - Never ever take the complete loan amount for an investment
 - Instead save at-least 50%-60% money and take 40% loan for investment, building house, buying cars or for something
-- Never ever do business within close circle or no money transaction with family, friends, relatives at any cost
+- Never ever do business within close circle or no money transaction with family, friends, relatives at any cost without proper documents/agreements
   
   
 ### Budgeting
@@ -1246,8 +1246,17 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Fixed Deposit/Recurring deposit in Banks
 - Diversification of investment for passive income
 - Always start from 10rs-->100rs--->1000rs---->10,000rs----->1,00,000rs---->10,00,000rs---->1cr-->so on
-- 
 
+### Investment In Properties
+- Will be added later
+
+### Investment in Gold
+- Will be added later
+
+### Lending
+- Will be added later
+
+### Buying Anything
 ### Money Saving Tips
 - Will be added later
 - Never ever pay for anything in full amount, always go for EMI options with less interest or no interest
