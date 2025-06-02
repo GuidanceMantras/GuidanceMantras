@@ -1304,6 +1304,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Always focus on having an agreements/contracts as per your wishes or on your side, in case of disputes, you can have upper hand in court
 - Never ever sign any agreements/contracts without checking with two or three lawyers
 - Always take lawyer suggestions before signing any agreements or contracts
+- Signing any agreements needs lots of time minimum 2 - 3 months, maximum 6 months
+- Signing any agreements/contracts needs lots of information gathering, research, time, patience, talking to different people
 
 ### Money From Government
 - Government money means your money. You pay tax directly and indirectly
