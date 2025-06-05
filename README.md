@@ -221,6 +221,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     182. [Control Your Lust](#control-your-lust)
     183. [Punish And Reward](#punish-and-reward)
     184. [Being An Educated](#being-an-educated)
+    185. [Being A Fan](#being-a-fan)
         
         
                   
@@ -901,6 +902,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Accountability And Responsibility
 - Will be added later
+
+### Being A Fan
+- Do not be a fan of anyone such as celebreties, cricket players, businessman or anyone except parents or siblings
+- Being a fan of someone kills your life
+- There are lots of example in the world
   
 ### Cooking
 - Will be added later
