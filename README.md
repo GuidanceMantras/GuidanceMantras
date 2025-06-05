@@ -1135,6 +1135,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Train kids to physically and mentally fit each day.
 - Be a part of kids, when they are studying at home at-least until 18/19 years old.
 - When kids become youger, ask them about goal, ask them about their financial management, financial situation
+- Never make your kids to be a fan of anyone such as celebrities, cricketers, politicians and so on
 - Train kids for each and everything things in life such as,
     1. Life
     2. Education
