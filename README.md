@@ -222,6 +222,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     183. [Punish And Reward](#punish-and-reward)
     184. [Being An Educated](#being-an-educated)
     185. [Being A Fan](#being-a-fan)
+    186. [Common Ground](#common-ground)
         
         
                   
@@ -321,11 +322,13 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     3. [Artificial Intelligence](#artificial-intelligence)
     4. [Cloud](#cloud)
     5. [Embedded](#embedded)
+    6. [Software And Tools](#software-and-tools)
    
 14. [Internet And Social Media](#internet-and-social-media)
       1. [Internet](#internet)
       2. [Social Media](#social-media)
       3. [Online Buying](#online-buying)
+      4. [Google And ChatGPT](#google-and-chatgpt)
        
 16. [Others 1](#others-1)
     1. [Travelling](#travelling)
