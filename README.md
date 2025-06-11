@@ -315,6 +315,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    24. [Cost Cutting](#cost-cutting)
    25. [Appreciation](#appreciation)
    26. [Depreciation](#depreciation)
+   27. [Free Money](#free-money)
     
 10. [Profession](#profession)
     
