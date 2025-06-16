@@ -543,6 +543,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Negative Personalities:
 - Learn to deal with people with positive personalities such as tolerant, patience
 - Use Psychological tactics and stratergy while dealing with people
+- Lean to deal with people based on face expressions, personalities, height, experience with each domain and age
+- Short and slient people are more criminal mind people on earth, learn to deal with them first
   
 ### Chain of effects in life
 - will be added with diagram
