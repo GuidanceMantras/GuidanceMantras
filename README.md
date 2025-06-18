@@ -318,6 +318,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
    25. [Appreciation](#appreciation)
    26. [Depreciation](#depreciation)
    27. [Free Money](#free-money)
+   28. [Residential Property Buying](#residential-property-buying)
+   29. [Commercial Property Buying](#commercial-property-buying)
     
 10. [Profession](#profession)
     
@@ -1305,6 +1307,18 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - SP road in Bengaluru : cheap second hand books and new ones
 - Chikkpete in Bengaluru: cheap clothes
 - Shriram pura and cubbonpete in Bengaluru : branded clothes for less money
+
+### Residential Property Buying
+- Never ever be in FOMO, while making a decision to buy any residential property
+- Make proper decision based on information gathered, your knowledge and your time and patience
+- Calculate ROI, not just property buying with money
+- If it is for personal use, you might need to consider lots of things such as locality, surrounding, connectivity, amenities and lifestyle, travel to workspace
+  
+### Commercial Property Buying
+- Never ever be in FOMO, while making a decision to buy any residential property
+- Make proper decision based on information gathered, your knowledge and your time and patience
+- Make sure that your investment worth for long time, not just for short term
+- Calculate ROI, not just property buying with money
   
 ### Payment
 - Never pay full amount to any buying such as electronics(phone, laptop, cars and so on), clothes,
