@@ -228,6 +228,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     189. [Analyze And Assessment](#analyze-and-assessment)
     190. [Perception or Thoughts About Women And Girls](#perception-or-thoughts-about-women-and-girls)
     191. [Bad Mouthing](#bad-mouthing)
+    192. [Drama In Life](#drama-in-life)
         
         
                   
