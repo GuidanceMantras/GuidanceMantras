@@ -230,6 +230,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     191. [Bad Mouthing](#bad-mouthing)
     192. [Drama In Life](#drama-in-life)
     193. [FOMO](#fomo)
+    194. [Turbulence And Thunderstorm](#turbulence-and-thunderstorm)
         
         
                   
