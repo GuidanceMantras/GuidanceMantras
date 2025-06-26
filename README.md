@@ -233,6 +233,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     194. [FOMO](#fomo)
     195. [Turbulence And Thunderstorm](#turbulence-and-thunderstorm)
     196. [Comparison](#comparison)
+    197. [Drama In Life](#drama-in-life)
         
         
                   
