@@ -595,7 +595,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 
 
 ### Hope Focus SelfControl Confidence and Thoughts
-- Man needs hope, focus, control himself, confidence to face the life and problems,
+- Man needs hope, focus, control himself, confidence to face the life and problems, to deal with people
 - Man needs to control negative thoughts and have positive thoughts and strong mind
 - Most people and big leaders in the world use chant slogans when they need hope, self-control, positive thoughts, confidence in life
 - People use chant as  "Jai Shree Ram, Jai Jai Shree Ram" and "Om Namah Shivaya", "Om Shanthi, Om Shanthi" and " All is Well", "I can, I can"
