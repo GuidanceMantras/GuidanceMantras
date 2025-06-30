@@ -1776,7 +1776,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Work only between 8-5 ro 9-6, no extra work
 - Do not think that you have to do everything on your own and company will not run without my work
 - You should know how to work with old and young people in life and behave/deal with old and young people
-
+- In profession, everybody care about themselves, being selfish is not bad in professional environment
+- Without asking in professional space, you get nothing, such as hike, promotions, benefits, WFH
+- Be with senior so that you can all stratergy and tactics from seniors to grow in professional space
+- Not all senior know everything, you only need to find the good and knowledgeable seniors in professional space
+  
 ## Economy
 - Learn to interpret economy, so that you can make financial decision in your life
 
