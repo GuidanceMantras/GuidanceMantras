@@ -971,7 +971,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Good And Bad
-- Will be added later
+- As a person and being a human being, you should know/learn to distinguish between good and bad in life
+- Good and bad might be person, relatives, surroundings, situation, relationships, your actions, other people's action, your thinking and your thoughts,
+- your habits, your work, your help
   
 ### Legs on Two Boats
 - Will be added later
