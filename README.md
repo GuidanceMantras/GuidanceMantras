@@ -236,8 +236,6 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     197. [Comparison](#comparison)
     198. [Drama In Life](#drama-in-life)
     199. [6P](#6P)
-        
-        
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
