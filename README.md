@@ -235,6 +235,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     196. [Turbulence And Thunderstorm](#turbulence-and-thunderstorm)
     197. [Comparison](#comparison)
     198. [Drama In Life](#drama-in-life)
+    199. [6P](#6P)
         
         
                   
@@ -1008,6 +1009,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Small talk helps in getting information, gaining knowledge
 - Small talk helps in advising others, suggesting something
 
+### 6P
+- Will be added later
+
+### Drama In Life
+- Will be added later
+  
 ### Individuality
 - Each person is individual, each person has his own personalities, behaviour and skillset
 - Each person has his/her own responsibilities, problems, people and financial management skills
