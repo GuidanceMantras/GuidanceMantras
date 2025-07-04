@@ -970,6 +970,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
 
 ### No Hard Feeling
+- Never ever have hard feeling in life both personal and professional about anything person, event, things
+- there is no anger, resentment, or bitterness remaining between people, even after a disagreement, conflict, or unpleasant event
+- Whatever happens such as bad events, bad experience with person, betray, just continue the relationship with caution
+- Learn to move on, never to be offend, still maintain the relationship with caution,
+  
 ### Listening
 - Will be added later
 - ![happiness](./listening_merge.png)
