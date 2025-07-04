@@ -237,6 +237,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     198. [Comparison](#comparison)
     199. [Drama In Life](#drama-in-life)
     200. [6P](#6P)
+    201. [No Hard Feeling](#no-hard-feeling)
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -967,7 +968,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Emotional Intelligence
 - Will be added later
-  
+
+### No Hard Feeling
 ### Listening
 - Will be added later
 - ![happiness](./listening_merge.png)
