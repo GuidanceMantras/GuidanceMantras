@@ -983,9 +983,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Will be added later
   
 ### Good And Bad
-- As a person and being a human being, you should know/learn to distinguish between good and bad in life
-- Good and bad might be person, relatives, surroundings, situation, relationships, your actions, other people's action, your thinking and your thoughts,
-- your habits, your work, your help
+- As a person and being a human being, you should know/learn to distinguish/differentiate between good and bad in life
+- Good and bad might be person/people, relatives, surroundings, situation, relationships,, other people's action, suggestions, mindset, adivce, asking, work, dreams, goals, spending, habits,  lifestyle, discussions, arguments and so on
+- your habits, your work, your help, your spending, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on
   
 ### Legs on Two Boats
 - Will be added later
