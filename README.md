@@ -984,8 +984,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Good And Bad
 - As a person and being a human being, you should know/learn to distinguish/differentiate between good and bad in life
-- Good and bad might be person/people, relatives, surroundings, situation, relationships,, other people's action, suggestions, mindset, adivce, asking, work, dreams, goals, spending, habits,  lifestyle, eating, watching, seeing, looking at, thinking, thoughts, discussions, arguments and so on
-- your habits, your work, your help, your spending, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on
+- Good and bad might be person/people, relatives, surroundings, situation, relationships,, other people's action, suggestions, mindset, adivce, asking, work, dreams, goals, spending, habits,  lifestyle, eating, watching, seeing, looking at, thinking, thoughts, discussions, arguments,  and so on
+- your habits, your work, your help, your spending, your help and support, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on
   
 ### Legs on Two Boats
 - Will be added later
@@ -1809,6 +1809,14 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Some technologies will help you to understand the world and better prepare for exams(mainly government exams) and other things
 - You can refer this youtube channel: https://www.youtube.com/@crashcourse and search for specific topics.
 - You do not need to worry about all the technologies and also how they work and who developed them. Just learn how to use them
+- Technologies are developed for good use cases, not for bad uses. Learn to distinguish between good and bad uses of each technology
+
+### Use Cases
+#### Phone
+- Developed for phone call, video call, taking notes/writing your thoughts/problems/to-do work each day, not for bad use cases such as watching sex videos or playing games all the time
+
+#### Social media 
+- Developed for networking/social connect mainly Facebook/Reddit, not for scrolling
 
 ### Programming
 - A written language, which will be used to build software/to write an algorithm to achieve particular task and make money out of it.
