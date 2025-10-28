@@ -238,6 +238,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     199. [Drama In Life](#drama-in-life)
     200. [6P](#6P)
     201. [No Hard Feeling](#no-hard-feeling)
+    202. [Conservative-Liberalisam](#Conservative-Liberalisam)
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -1054,6 +1055,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - "I do not have" or "I will think about it" or "I will talk to you later", for any request such as money, time consuming helps
 - "I do not know" or "We will talk about it later" if anyone ask about someone or something
 - Depending upon the circumstances, use the above phrases
+
+### Conservative-Liberalisam
+- You need to distinguish between conservative and liberalisam in your thoughts, entertainment, actions, support/help, spending, people, dealing with finance/people/situation/work/surrounding/any relationships and so on
+- Conservative means, bit strict and narrow minded
+- Liberalisam means bit lineant and open minded
   
 ## Mind-Manasu and Soul
 - Keep your mind pure and negative free
