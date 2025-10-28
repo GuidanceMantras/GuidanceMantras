@@ -985,7 +985,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Good And Bad
 - As a person and being a human being, you should know/learn to distinguish/differentiate between good and bad in life
 - Good and bad might be person/people, relatives, surroundings, situation, relationships,, other people's action, suggestions, mindset, adivce, asking, work, dreams, goals, spending, habits,  lifestyle, eating, watching, seeing, looking at, thinking, thoughts, discussions, arguments,  and so on
-- your habits, your work, your conversation, your help, your spending, your help and support, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on, your use of each technology suh as phone, social media.
+- your habits, your work, your conversation, your help, your spending, people around you, your friends, your help and support, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on, your use of each technology suh as phone, social media.
   
 ### Legs on Two Boats
 - Will be added later
@@ -1252,6 +1252,11 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Earning money is part of life, but you should know why you are earning money
 - You are earning money for good life, to pay rent or to build own house or to build own business
 - You are earning money to buy land or lend to someone
+
+### Socio-Economic Growth
+- In finance, people say a country needs socio-economic policy, which means, helping poor people along with helping businessman to create more jobs, so that counrty will grow financially
+- Similaryl, in life or professional, have a sociology mindset along with economic growth mindset, which means be with good people along with making money, sometimes, try to share your economoic growth with known people for you
+- Same applies for business, finance, personal and professional life
   
 ### Money Handling
 - Be conditional with money, money comes first over friendships, relationships, professionalism and whatever it is.
