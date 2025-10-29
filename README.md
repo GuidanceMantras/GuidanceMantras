@@ -993,7 +993,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ### Good And Bad
 - As a person and being a human being, you should know/learn to distinguish/differentiate between good and bad in life
 - Good and bad might be person/people, relatives, surroundings, situation, relationships,, other people's action, suggestions, mindset, adivce, asking, work, dreams, goals, spending, habits,  lifestyle, eating, watching, seeing, looking at, thinking, thoughts, discussions, arguments,  and so on
-- your habits, your work, your conversation, your help, your spending, people around you, your friends, your help and support, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on, your use of each technology suh as phone, social media.
+- your habits, your work, your conversation, your help, your spending, people around you, your friends, your help and support, your dreams, your goals,  your actions, your suggestions, your talks, your mindset, your lifestyle, discussions, arguments and so on, your use of each technology suh as phone, social media, content/videos on Internet/social meida
   
 ### Legs on Two Boats
 - Will be added later
