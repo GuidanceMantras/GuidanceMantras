@@ -240,6 +240,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     201. [6P](#6P)
     202. [No Hard Feeling](#no-hard-feeling)
     203. [Conservative-Liberalisam](#Conservative-Liberalisam)
+    204. [Reasoning](#reasoning)
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -1029,6 +1030,9 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Small talk helps in getting information, gaining knowledge
 - Small talk helps in advising others, suggesting something
 
+### Reasoning
+- You have to learn how to give reason for your actions, thinking, arguments, discussion, suggestions, ideas, dreams, thoughts, filtering, life style and so on
+  
 ### 6P
 - Will be added later
 
@@ -1172,6 +1176,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
   
 ### Insurance
 - Always have a health insurance in life for everything
+
 
 ## Kids
 
