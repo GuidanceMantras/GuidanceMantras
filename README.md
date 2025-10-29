@@ -219,26 +219,27 @@ A simple repo for providing guidances for all the kids, adults and parents in In
     180. [Perfectionist](#perfectionist)
     181. [Body Language](#body-language)
     182. [Yourself](#yourself)
-    183. [Situation Analysis](#situation-analysis)
-    184. [Trust](#trust)
-    185. [Differences](#differences)
-    186. [Control Your Lust](#control-your-lust)
-    187. [Punish And Reward](#punish-and-reward)
-    188. [Being An Educated](#being-an-educated)
-    189. [Being A Fan](#being-a-fan)
-    190. [Common Ground](#common-ground)
-    191. [Expectations](#expectations)
-    192. [Analyze And Assessment](#analyze-and-assessment)
-    193. [Perception or Thoughts About Women And Girls](#perception-or-thoughts-about-women-and-girls)
-    194. [Bad Mouthing](#bad-mouthing)
-    195. [Drama In Life](#drama-in-life)
-    196. [FOMO](#fomo)
-    197. [Turbulence And Thunderstorm](#turbulence-and-thunderstorm)
-    198. [Comparison](#comparison)
-    199. [Drama In Life](#drama-in-life)
-    200. [6P](#6P)
-    201. [No Hard Feeling](#no-hard-feeling)
-    202. [Conservative-Liberalisam](#Conservative-Liberalisam)
+    183. [Situation Awareness-Analysis-Handling](#situation-awareness-analysis-handling)
+    184. [People Awareness-Analysis-Handling](#people awareness-analysis-handling)
+    185. [Trust](#trust)
+    186. [Differences](#differences)
+    187. [Control Your Lust](#control-your-lust)
+    188. [Punish And Reward](#punish-and-reward)
+    189. [Being An Educated](#being-an-educated)
+    190. [Being A Fan](#being-a-fan)
+    191. [Common Ground](#common-ground)
+    192. [Expectations](#expectations)
+    193. [Analyze And Assessment](#analyze-and-assessment)
+    194. [Perception or Thoughts About Women And Girls](#perception-or-thoughts-about-women-and-girls)
+    195. [Bad Mouthing](#bad-mouthing)
+    196. [Drama In Life](#drama-in-life)
+    197. [FOMO](#fomo)
+    198. [Turbulence And Thunderstorm](#turbulence-and-thunderstorm)
+    199. [Comparison](#comparison)
+    200. [Drama In Life](#drama-in-life)
+    201. [6P](#6P)
+    202. [No Hard Feeling](#no-hard-feeling)
+    203. [Conservative-Liberalisam](#Conservative-Liberalisam)
                   
 2.  [Health](#health) 
     1. [Pyhsical Health](#physical-health)
@@ -786,6 +787,12 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Based on your mentality, you decided to do the task or obey their orders
 - For an example, my friend used to manipulate me to drink alcohol when I told him about my sleeping problem
 - My friend tells me to drink alcohol to get better sleep, fortunately, due to my tough mentality, I ignored him
+
+### Situation Awareness-Analysis-Handling
+- Will be added later
+
+### People Awareness-Analysis-Handling
+- Will be added later
   
 ### Provokers
 - Will be added later
